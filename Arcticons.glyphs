@@ -2,23 +2,7 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"",
-"◌|◊",
-"↑↗→↘↓↙←↖↔↕",
-"¬^∞∫∏√∂‰",
-"฿¢¤$€₴₽₹₪£¥",
-"־-–—_〜",
-"",
-"|‘B",
-"Ḡ",
-"אבגדהוזחטיךכלםמןנסעףפץצקרשת",
-"",
-"ą",
-"g̒ģ",
-"tţ",
-"l/lcommaaccent.loclMAH",
-"lĺ",
-"ģġ"
+""
 );
 axes = (
 {
@@ -1525,7 +1509,7 @@ unicode = 7712;
 glyphname = H;
 kernLeft = uppdercaseStraight;
 kernRight = uppdercaseStraight;
-lastChange = "2023-12-18 20:49:54 +0000";
+lastChange = "2023-12-21 15:55:10 +0000";
 layers = (
 {
 anchors = (
@@ -2753,7 +2737,7 @@ unicode = 338;
 {
 glyphname = P;
 kernLeft = uppdercaseStraight;
-lastChange = "2023-12-18 20:49:54 +0000";
+lastChange = "2023-12-21 15:55:11 +0000";
 layers = (
 {
 anchors = (
@@ -3033,7 +3017,7 @@ unicode = 342;
 },
 {
 glyphname = S;
-lastChange = "2023-12-18 20:49:54 +0000";
+lastChange = "2023-12-21 15:55:08 +0000";
 layers = (
 {
 anchors = (
@@ -3905,7 +3889,7 @@ unicode = 88;
 },
 {
 glyphname = Y;
-lastChange = "2023-12-19 16:59:32 +0000";
+lastChange = "2023-12-21 15:55:03 +0000";
 layers = (
 {
 anchors = (
@@ -18077,13 +18061,13 @@ unicode = 33;
 },
 {
 glyphname = exclamdown;
-lastChange = "2023-12-18 20:42:41 +0000";
+lastChange = "2023-12-21 15:54:42 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (0,774);
+pos = (0,629);
 ref = exclam;
 scale = (1,-1);
 }
@@ -18095,7 +18079,7 @@ unicode = 161;
 },
 {
 glyphname = question;
-lastChange = "2023-12-18 20:44:20 +0000";
+lastChange = "2023-12-21 15:53:59 +0000";
 layers = (
 {
 layerId = m01;
@@ -18163,7 +18147,7 @@ unicode = 63;
 },
 {
 glyphname = questiondown;
-lastChange = "2023-12-18 20:44:20 +0000";
+lastChange = "2023-12-21 15:53:53 +0000";
 layers = (
 {
 layerId = m01;
@@ -18176,25 +18160,25 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(321,645,l),
-(321,615,l)
+(321,375,l),
+(321,345,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(245,809,o),
-(279,775,o),
-(320,775,c),
-(362,775,o),
-(395,809,o),
-(395,850,c),
-(395,891,o),
-(362,925,o),
-(320,925,c),
-(279,925,o),
-(245,891,o),
-(245,850,c)
+(245,539,o),
+(279,505,o),
+(320,505,c),
+(362,505,o),
+(395,539,o),
+(395,580,c),
+(395,621,o),
+(362,655,o),
+(320,655,c),
+(279,655,o),
+(245,621,o),
+(245,580,c)
 );
 },
 {
@@ -18205,22 +18189,22 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(540,270,l),
-(540,209,o),
-(516,154,o),
-(476,114,c),
-(436,75,o),
-(381,50,o),
-(320,50,c),
-(199,50,o),
-(100,148,o),
-(100,270,c),
-(100,331,o),
-(121,390,o),
-(165,426,c),
-(210,462,o),
-(321,522,o),
-(321,615,c)
+(540,0,l),
+(540,-61,o),
+(516,-116,o),
+(476,-156,c),
+(436,-195,o),
+(381,-220,o),
+(320,-220,c),
+(199,-220,o),
+(100,-122,o),
+(100,0,c),
+(100,61,o),
+(121,120,o),
+(165,156,c),
+(210,192,o),
+(321,252,o),
+(321,345,c)
 );
 }
 );
@@ -22660,6 +22644,9 @@ s = -110;
 "@MMK_L_straightLine" = {
 "@MMK_R_uppdercaseStraight" = 0;
 };
+"@MMK_L_uppdercaseStraight" = {
+S = 0;
+};
 "@MMK_L_uppercaseRound" = {
 "@MMK_R_dot" = -90;
 "@MMK_R_lowercaseRound" = -20;
@@ -22784,6 +22771,7 @@ S = -60;
 T = -200;
 V = -240;
 W = -170;
+Y = -270;
 bracketright = -50;
 s = -20;
 v = -170;
@@ -22805,6 +22793,7 @@ Omicrontonos = {
 };
 P = {
 "@MMK_R_lowercaseRound" = -60;
+"@MMK_R_uppdercaseStraight" = -10;
 "@MMK_R_uppercaseRound" = -40;
 A = -140;
 bracketright = -60;
@@ -22901,6 +22890,7 @@ Y = {
 "@MMK_R_lowercaseStraightAscender" = -20;
 "@MMK_R_lowercaseStraightDecender" = -150;
 "@MMK_R_lowercaseX" = -150;
+"@MMK_R_uppdercaseStraight" = -10;
 A = -150;
 O = -70;
 Q = -70;
@@ -23227,6 +23217,10 @@ j = 80;
 };
 question = {
 exclam = -40;
+questiondown = -160;
+};
+questiondown = {
+question = -160;
 };
 quotedbl = {
 "@MMK_R_lowercaseRound" = -70;
