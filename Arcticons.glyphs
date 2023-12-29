@@ -1,6 +1,9 @@
 {
 .appVersion = "3151";
 .formatVersion = 3;
+DisplayStrings = (
+"*"
+);
 axes = (
 {
 name = Weight;
@@ -19180,73 +19183,49 @@ unicode = 8226;
 },
 {
 glyphname = asterisk;
-lastChange = "2023-12-18 20:44:20 +0000";
+lastChange = "2023-12-29 20:50:30 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
 attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
+lineCapEnd = 1;
+lineCapStart = 1;
 strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(260,667,l),
-(260,850,l)
+(238,850,l),
+(238,530,l)
 );
 },
 {
 attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
+lineCapEnd = 1;
+lineCapStart = 1;
 strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(260,667,l),
-(149,530,l)
+(100,770,l),
+(377,610,l)
 );
 },
 {
 attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
+lineCapEnd = 1;
+lineCapStart = 1;
 strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(100,768,l),
-(260,667,l)
-);
-},
-{
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(260,667,l),
-(370,530,l)
-);
-},
-{
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(420,768,l),
-(260,667,l)
+(100,610,l),
+(377,770,l)
 );
 }
 );
-width = 520;
+width = 477;
 }
 );
 unicode = 42;
