@@ -5650,7 +5650,7 @@ unicode = 601;
 glyphname = f;
 kernLeft = f;
 kernRight = f;
-lastChange = "2024-01-07 12:28:02 +0000";
+lastChange = "2024-01-07 12:45:44 +0000";
 layers = (
 {
 anchors = (
@@ -8105,7 +8105,9 @@ unicode = 361;
 },
 {
 glyphname = v;
-lastChange = "2024-01-05 15:19:15 +0000";
+kernLeft = lowercaseX;
+kernRight = lowercaseX;
+lastChange = "2024-01-07 12:46:42 +0000";
 layers = (
 {
 anchors = (
@@ -22881,7 +22883,7 @@ unicode = 161;
 },
 {
 glyphname = question;
-lastChange = "2024-01-02 16:19:37 +0000";
+lastChange = "2024-01-07 12:47:01 +0000";
 layers = (
 {
 layerId = m002;
@@ -40208,9 +40210,18 @@ w = -50;
 };
 "@MMK_L_f" = {
 "@MMK_R_A" = -200;
+"@MMK_R_dot" = -150;
+"@MMK_R_f" = -130;
+"@MMK_R_lowercaseRound" = -190;
 "@MMK_R_lowercaseStraight" = -130;
+"@MMK_R_lowercaseStraightDecender" = -130;
+"@MMK_R_lowercaseX" = -130;
 T = -10;
+j = -200;
+question = -30;
 s = -140;
+w = -130;
+z = -130;
 };
 "@MMK_L_hebrewRound" = {
 "@MMK_R_hebrewStraight" = 10;
@@ -40901,24 +40912,20 @@ exclam = {
 question = -30;
 };
 f = {
-"@MMK_R_dot" = -150;
-"@MMK_R_lowercaseRound" = -190;
 "@MMK_R_lowercaseStraightAscender" = -10;
-"@MMK_R_lowercaseStraightDecender" = -130;
-"@MMK_R_lowercaseX" = -130;
 "@MMK_R_uppercaseRound" = -50;
 a = -200;
 f = -130;
 i = -50;
-j = -200;
 k = -20;
 l = -10;
 t = -130;
 u = -130;
 v = -130;
-w = -130;
 y = -130;
-z = -130;
+};
+f_f_l = {
+"@MMK_R_f" = -110;
 };
 five = {
 "@MMK_R_colon" = -50;
