@@ -1,0 +1,15 @@
+{
+glyphname = largeBlueDiamond;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = largeOrangeDiamond;
+}
+);
+width = 1120;
+}
+);
+unicode = 128311;
+}

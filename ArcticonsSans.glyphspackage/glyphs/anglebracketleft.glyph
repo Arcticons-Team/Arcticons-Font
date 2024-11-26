@@ -1,0 +1,39 @@
+{
+glyphname = anglebracketleft;
+kernRight = parenthesis;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(260,850,l),
+(100,370,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,370,l),
+(260,-110,l)
+);
+}
+);
+width = 360;
+}
+);
+unicode = 12296;
+}

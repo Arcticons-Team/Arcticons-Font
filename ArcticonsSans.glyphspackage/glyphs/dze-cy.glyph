@@ -1,0 +1,15 @@
+{
+glyphname = "dze-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = s;
+}
+);
+width = 554;
+}
+);
+unicode = 1109;
+}

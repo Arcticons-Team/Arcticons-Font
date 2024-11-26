@@ -1,0 +1,15 @@
+{
+glyphname = "Ustraight-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Y;
+}
+);
+width = 730;
+}
+);
+unicode = 1198;
+}

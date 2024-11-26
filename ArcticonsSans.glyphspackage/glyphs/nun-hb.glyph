@@ -1,0 +1,67 @@
+{
+glyphname = "nun-hb";
+kernRight = hebrewRounded;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (235,0);
+},
+{
+name = bottomleft;
+pos = (20,0);
+},
+{
+name = center;
+pos = (235,508);
+},
+{
+name = top;
+pos = (235,1015);
+},
+{
+name = topleft;
+pos = (20,1015);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(370,50,l),
+(370,653,l),
+(370,731,o),
+(306,795,o),
+(228,795,c),
+(200,795,o),
+(173,788,o),
+(150,777,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,50,l),
+(370,50,l)
+);
+}
+);
+width = 470;
+}
+);
+unicode = 1504;
+}

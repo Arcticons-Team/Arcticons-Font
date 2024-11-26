@@ -1,0 +1,39 @@
+{
+glyphname = iota;
+kernLeft = lowercaseStraight;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (100,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,85,l),
+(278,63,o),
+(249,50,o),
+(217,50,c),
+(217,50,l),
+(152,50,o),
+(100,103,o),
+(100,168,c),
+(100,580,l)
+);
+}
+);
+width = 400;
+}
+);
+unicode = 953;
+}

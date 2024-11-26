@@ -1,0 +1,21 @@
+{
+glyphname = "O-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (365,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = O;
+}
+);
+width = 730;
+}
+);
+unicode = 1054;
+}

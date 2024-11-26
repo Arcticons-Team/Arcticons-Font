@@ -1,0 +1,19 @@
+{
+glyphname = Iotadieresis;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Iota;
+},
+{
+pos = (-170,-1);
+ref = dieresiscomb.case;
+}
+);
+width = 220;
+}
+);
+unicode = 938;
+}

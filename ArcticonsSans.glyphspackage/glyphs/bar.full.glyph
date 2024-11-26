@@ -1,0 +1,16 @@
+{
+glyphname = bar.full;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (400,0);
+ref = bar;
+}
+);
+width = 1000;
+}
+);
+unicode = 65372;
+}

@@ -1,0 +1,17 @@
+{
+glyphname = Dcroat;
+kernLeft = uppercaseStraight;
+kernRight = uppercaseRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 860;
+}
+);
+unicode = 272;
+}

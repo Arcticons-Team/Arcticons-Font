@@ -1,0 +1,19 @@
+{
+glyphname = "Imacron-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "Ii-cy";
+},
+{
+pos = (25,-1);
+ref = macroncomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 1250;
+}

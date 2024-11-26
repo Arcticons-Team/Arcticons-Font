@@ -1,0 +1,20 @@
+{
+glyphname = exclamationquestion;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = exclam;
+},
+{
+pos = (221,0);
+ref = question;
+}
+);
+width = 861;
+}
+);
+metricRight = question;
+unicode = 8265;
+}

@@ -1,0 +1,14 @@
+{
+glyphname = "pe-cy.loclBGR";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "pe-cy";
+}
+);
+width = 600;
+}
+);
+}

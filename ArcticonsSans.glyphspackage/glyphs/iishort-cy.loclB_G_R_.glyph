@@ -1,0 +1,18 @@
+{
+glyphname = "iishort-cy.loclBGR";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "ii-cy";
+},
+{
+pos = (60,0);
+ref = "brevecomb-cy";
+}
+);
+width = 600;
+}
+);
+}

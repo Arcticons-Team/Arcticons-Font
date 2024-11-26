@@ -1,0 +1,20 @@
+{
+glyphname = Edieresis;
+kernLeft = uppercaseStraight;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (20,-1);
+ref = dieresiscomb.case;
+}
+);
+width = 600;
+}
+);
+unicode = 203;
+}

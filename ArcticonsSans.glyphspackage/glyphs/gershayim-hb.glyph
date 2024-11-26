@@ -1,0 +1,15 @@
+{
+glyphname = "gershayim-hb";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = quotedblleft;
+}
+);
+width = 400;
+}
+);
+unicode = 1524;
+}

@@ -1,0 +1,38 @@
+{
+glyphname = asciicircum;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(270,850,l),
+(100,670,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(440,670,l),
+(270,850,l)
+);
+}
+);
+width = 540;
+}
+);
+unicode = 94;
+}

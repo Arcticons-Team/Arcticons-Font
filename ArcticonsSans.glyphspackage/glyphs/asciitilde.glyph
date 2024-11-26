@@ -1,0 +1,15 @@
+{
+glyphname = asciitilde;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = wavedash;
+}
+);
+width = 600;
+}
+);
+unicode = 126;
+}

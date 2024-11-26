@@ -1,0 +1,66 @@
+{
+glyphname = "izhitsa-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (350,630);
+}
+);
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(500,580,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(500,580,l)
+);
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x1041351b0;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,50,l),
+(473,509,ls),
+(490,554,o),
+(529,580,o),
+(576,580,cs),
+(600,580,l)
+);
+},
+{
+attr = {
+identifier = ID0x1041351b0;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,50,l),
+(100,580,l)
+);
+}
+);
+width = 700;
+}
+);
+unicode = 1141;
+}

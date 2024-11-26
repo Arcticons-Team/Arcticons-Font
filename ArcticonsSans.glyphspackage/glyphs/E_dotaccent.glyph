@@ -1,0 +1,20 @@
+{
+glyphname = Edotaccent;
+kernLeft = uppercaseStraight;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (195,-1);
+ref = dotaccentcomb.case;
+}
+);
+width = 600;
+}
+);
+unicode = 278;
+}

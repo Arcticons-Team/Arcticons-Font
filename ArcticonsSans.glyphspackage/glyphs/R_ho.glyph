@@ -1,0 +1,16 @@
+{
+glyphname = Rho;
+kernLeft = uppercaseStraight;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = P;
+}
+);
+width = 730;
+}
+);
+unicode = 929;
+}

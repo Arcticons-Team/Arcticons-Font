@@ -1,0 +1,20 @@
+{
+glyphname = Epsilontonos;
+kernLeft = tonosCase;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Epsilon;
+},
+{
+pos = (-414,0);
+ref = tonos.case;
+}
+);
+width = 600;
+}
+);
+unicode = 904;
+}

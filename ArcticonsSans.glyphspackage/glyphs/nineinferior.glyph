@@ -1,0 +1,57 @@
+{
+glyphname = nineinferior;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x15af84340;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(100,291,o),
+(159,350,o),
+(232,350,c),
+(306,350,o),
+(365,291,o),
+(365,218,c),
+(365,145,o),
+(306,85,o),
+(232,85,c),
+(159,85,o),
+(100,145,o),
+(100,218,c)
+);
+},
+{
+attr = {
+identifier = ID0x15af84340;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(112,-1,l),
+(134,-30,o),
+(167,-50,o),
+(223,-50,c),
+(232,-50,l),
+(306,-50,o),
+(365,10,o),
+(365,83,c),
+(365,218,l)
+);
+}
+);
+width = 465;
+}
+);
+metricLeft = nine;
+metricRight = nine;
+unicode = 8329;
+}

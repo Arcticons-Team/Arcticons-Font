@@ -1,0 +1,20 @@
+{
+glyphname = exclamdouble;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (207,0);
+ref = exclam;
+},
+{
+ref = exclam;
+}
+);
+width = 477;
+}
+);
+metricRight = exclam;
+unicode = 8252;
+}

@@ -1,0 +1,14 @@
+{
+glyphname = "ge-cy.loclBGR";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "ge-cy";
+}
+);
+width = 550;
+}
+);
+}

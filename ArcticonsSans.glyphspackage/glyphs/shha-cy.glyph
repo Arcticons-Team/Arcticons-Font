@@ -1,0 +1,15 @@
+{
+glyphname = "shha-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = h;
+}
+);
+width = 600;
+}
+);
+unicode = 1211;
+}

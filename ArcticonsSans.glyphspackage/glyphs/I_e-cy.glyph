@@ -1,0 +1,21 @@
+{
+glyphname = "Ie-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (300,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = E;
+}
+);
+width = 600;
+}
+);
+unicode = 1045;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = tenThirtyClock;
+kernLeft = emojiRound;
+kernRight = emojiRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (1120,780);
+ref = fourClock;
+}
+);
+width = 1120;
+}
+);
+unicode = 128357;
+}

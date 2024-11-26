@@ -1,0 +1,42 @@
+{
+glyphname = onesuperior;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x15af77bc0;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(200,950,l),
+(200,550,l)
+);
+},
+{
+attr = {
+identifier = ID0x15af77bc0;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,896,l),
+(200,950,l)
+);
+}
+);
+width = 300;
+}
+);
+metricLeft = one;
+metricRight = one;
+unicode = 185;
+}

@@ -1,0 +1,14 @@
+{
+glyphname = SenegalFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = FranceFlag;
+}
+);
+width = 1120;
+}
+);
+}

@@ -1,0 +1,14 @@
+{
+glyphname = TanzaniaFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = CongoBrazzavilleFlag;
+}
+);
+width = 1120;
+}
+);
+}

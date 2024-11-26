@@ -1,0 +1,73 @@
+{
+glyphname = "lamed-hb";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (365,0);
+},
+{
+name = bottomleft;
+pos = (20,0);
+},
+{
+name = center;
+pos = (365,508);
+},
+{
+name = top;
+pos = (365,1015);
+},
+{
+name = topleft;
+pos = (20,1015);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,785,l),
+(630,785,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(630,785,l),
+(430,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,925,l),
+(100,785,l)
+);
+}
+);
+width = 730;
+}
+);
+unicode = 1500;
+}

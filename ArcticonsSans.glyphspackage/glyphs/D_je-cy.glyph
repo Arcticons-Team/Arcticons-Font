@@ -1,0 +1,78 @@
+{
+glyphname = "Dje-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x109cffc60;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,850,l),
+(630,850,l)
+);
+},
+{
+attr = {
+identifier = ID0x109cffc60;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(365,50,l),
+(365,850,l)
+);
+},
+{
+attr = {
+identifier = ID0x109c38d80;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(365,380,l),
+(365,490,o),
+(454,580,o),
+(565,580,c),
+(675,580,o),
+(765,490,o),
+(765,380,c),
+(765,178,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(639,50,l),
+(709,50,o),
+(765,107,o),
+(765,178,c),
+(765,185,l)
+);
+}
+);
+width = 865;
+}
+);
+metricLeft = T;
+metricRight = h;
+unicode = 1026;
+}

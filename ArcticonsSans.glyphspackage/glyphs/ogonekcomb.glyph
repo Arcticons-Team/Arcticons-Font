@@ -1,0 +1,36 @@
+{
+glyphname = ogonekcomb;
+layers = (
+{
+anchors = (
+{
+name = _ogonek;
+pos = (350,100);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,50,l),
+(218,6,o),
+(180,-58,o),
+(180,-115,c),
+(180,-165,o),
+(215,-210,o),
+(300,-210,c)
+);
+}
+);
+width = 480;
+}
+);
+unicode = 808;
+}

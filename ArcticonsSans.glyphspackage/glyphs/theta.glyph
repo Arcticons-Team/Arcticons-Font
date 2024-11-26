@@ -1,0 +1,28 @@
+{
+glyphname = theta;
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(80,315,l),
+(480,315,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 952;
+}

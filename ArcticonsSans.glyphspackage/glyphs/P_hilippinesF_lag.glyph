@@ -1,0 +1,14 @@
+{
+glyphname = PhilippinesFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = SouthAfricaFlag;
+}
+);
+width = 1120;
+}
+);
+}

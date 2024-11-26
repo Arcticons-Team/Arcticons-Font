@@ -1,0 +1,50 @@
+{
+glyphname = sigma;
+kernLeft = lowercaseRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(411,580,o),
+(500,490,o),
+(500,380,c),
+(500,250,l),
+(500,140,o),
+(411,50,o),
+(300,50,c),
+(300,50,l),
+(190,50,o),
+(100,140,o),
+(100,250,c),
+(100,380,l),
+(100,490,o),
+(190,580,o),
+(300,580,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(600,580,l),
+(300,580,l)
+);
+}
+);
+width = 700;
+}
+);
+unicode = 963;
+}

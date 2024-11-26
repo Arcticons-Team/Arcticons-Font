@@ -1,0 +1,14 @@
+{
+glyphname = DominicanRepublicFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = EnglandFlag;
+}
+);
+width = 1120;
+}
+);
+}

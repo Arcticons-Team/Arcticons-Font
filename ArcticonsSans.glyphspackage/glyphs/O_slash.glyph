@@ -1,0 +1,42 @@
+{
+glyphname = Oslash;
+kernLeft = uppercaseRound;
+kernRight = uppercaseRound;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (365,0);
+},
+{
+name = top;
+pos = (365,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,50,l),
+(630,850,l)
+);
+}
+);
+width = 730;
+}
+);
+metricLeft = O;
+metricRight = O;
+unicode = 216;
+}

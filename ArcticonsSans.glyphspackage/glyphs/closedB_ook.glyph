@@ -1,0 +1,48 @@
+{
+glyphname = closedBook;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(140,850,l),
+(118,850,o),
+(100,832,o),
+(100,810,c),
+(100,-30,l),
+(100,-52,o),
+(118,-70,o),
+(140,-70,c),
+(760,-70,l),
+(782,-70,o),
+(800,-52,o),
+(800,-30,c),
+(800,810,l),
+(800,832,o),
+(782,850,o),
+(760,850,c)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,850,l),
+(300,-70,l)
+);
+}
+);
+width = 900;
+}
+);
+unicode = 128213;
+}

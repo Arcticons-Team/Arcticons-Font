@@ -1,0 +1,23 @@
+{
+glyphname = "ha-cy";
+kernLeft = lowercaseX;
+kernRight = lowercaseX;
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+pos = (580,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = x;
+}
+);
+width = 600;
+}
+);
+unicode = 1093;
+}

@@ -1,0 +1,14 @@
+{
+glyphname = "De-cy.loclBGR";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "De-cy";
+}
+);
+width = 900;
+}
+);
+}

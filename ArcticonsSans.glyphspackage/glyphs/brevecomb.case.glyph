@@ -1,0 +1,39 @@
+{
+glyphname = brevecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (280,901);
+},
+{
+name = top;
+pos = (280,1172);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(140,1121,l),
+(140,1044,o),
+(203,981,o),
+(280,981,c),
+(358,981,o),
+(420,1044,o),
+(420,1121,c)
+);
+}
+);
+width = 600;
+}
+);
+}

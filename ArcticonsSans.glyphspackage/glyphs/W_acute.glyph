@@ -1,0 +1,19 @@
+{
+glyphname = Wacute;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (330,-1);
+ref = acutecomb.case;
+}
+);
+width = 1000;
+}
+);
+unicode = 7810;
+}

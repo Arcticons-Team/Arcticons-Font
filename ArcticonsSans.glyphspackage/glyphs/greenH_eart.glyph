@@ -1,0 +1,15 @@
+{
+glyphname = greenHeart;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = heavyBlackHeart_VS16;
+}
+);
+width = 1120;
+}
+);
+unicode = 128154;
+}

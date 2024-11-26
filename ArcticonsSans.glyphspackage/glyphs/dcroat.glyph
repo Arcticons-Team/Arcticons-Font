@@ -1,0 +1,28 @@
+{
+glyphname = dcroat;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = d;
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(369,750,l),
+(580,750,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 273;
+}

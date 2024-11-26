@@ -1,0 +1,20 @@
+{
+glyphname = rcaron;
+kernLeft = lowercaseStraight;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (-90,0);
+ref = caroncomb;
+}
+);
+width = 380;
+}
+);
+unicode = 345;
+}

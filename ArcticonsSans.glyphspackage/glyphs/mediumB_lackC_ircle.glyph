@@ -1,0 +1,15 @@
+{
+glyphname = mediumBlackCircle;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = mediumWhiteCircle;
+}
+);
+width = 1120;
+}
+);
+unicode = 9899;
+}

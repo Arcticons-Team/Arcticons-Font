@@ -1,0 +1,21 @@
+{
+glyphname = Oacute;
+kernLeft = uppercaseRound;
+kernRight = uppercaseRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (195,-1);
+ref = acutecomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 211;
+}

@@ -1,0 +1,79 @@
+{
+glyphname = upsideDownFace;
+kernLeft = emojiRound;
+kernRight = emojiRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(714,260,l),
+(714,200,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(408,260,l),
+(408,200,l)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(306,850,o),
+(100,644,o),
+(100,389,c),
+(100,135,o),
+(306,-70,o),
+(561,-70,c),
+(815,-70,o),
+(1020,135,o),
+(1020,389,c),
+(1020,644,o),
+(815,850,o),
+(561,850,c)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(849,433,l),
+(828,574,o),
+(707,682,o),
+(561,682,c),
+(414,682,o),
+(292,574,o),
+(271,433,c)
+);
+}
+);
+width = 1120;
+}
+);
+unicode = 128579;
+}

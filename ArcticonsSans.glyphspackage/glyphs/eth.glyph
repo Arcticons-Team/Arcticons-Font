@@ -1,0 +1,73 @@
+{
+glyphname = eth;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,1015);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(100,490,o),
+(190,580,o),
+(300,580,c),
+(411,580,o),
+(500,490,o),
+(500,380,c),
+(500,250,l),
+(500,139,o),
+(411,50,o),
+(300,50,c),
+(190,50,o),
+(100,139,o),
+(100,250,c),
+(100,380,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(200,850,l),
+(484,777,o),
+(500,580,o),
+(500,380,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(460,850,l),
+(242,705,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 240;
+}

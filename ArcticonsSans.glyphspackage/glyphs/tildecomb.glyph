@@ -1,0 +1,46 @@
+{
+glyphname = tildecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (280,630);
+},
+{
+name = top;
+pos = (280,895);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(480,845,l),
+(480,790,o),
+(435,745,o),
+(380,745,c),
+(318,745,o),
+(299,777,o),
+(280,795,c),
+(261,813,o),
+(243,845,o),
+(181,845,c),
+(125,845,o),
+(80,800,o),
+(80,745,c)
+);
+}
+);
+width = 560;
+}
+);
+unicode = 771;
+}

@@ -1,0 +1,59 @@
+{
+glyphname = Psi;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,350,l),
+(380,350,l),
+(226,350,o),
+(100,475,o),
+(100,630,c),
+(100,850,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,350,l),
+(620,350,l),
+(775,350,o),
+(900,475,o),
+(900,630,c),
+(900,850,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,850,l),
+(500,50,l)
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 936;
+}

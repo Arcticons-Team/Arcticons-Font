@@ -1,0 +1,38 @@
+{
+glyphname = multiply;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,455,l),
+(480,75,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(480,455,l),
+(100,75,l)
+);
+}
+);
+width = 580;
+}
+);
+unicode = 215;
+}

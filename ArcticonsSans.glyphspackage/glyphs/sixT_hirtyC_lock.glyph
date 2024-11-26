@@ -1,0 +1,19 @@
+{
+glyphname = sixThirtyClock;
+kernLeft = emojiRound;
+kernRight = emojiRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,780);
+ref = twelveClock;
+scale = (1,-1);
+}
+);
+width = 1120;
+}
+);
+unicode = 128353;
+}

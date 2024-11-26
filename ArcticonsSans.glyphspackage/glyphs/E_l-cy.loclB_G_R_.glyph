@@ -1,0 +1,14 @@
+{
+glyphname = "El-cy.loclBGR";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "El-cy";
+}
+);
+width = 780;
+}
+);
+}

@@ -1,0 +1,21 @@
+{
+glyphname = Etatonos;
+kernLeft = tonosCase;
+kernRight = uppdercaseStraight;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Eta;
+},
+{
+pos = (-414,0);
+ref = tonos.case;
+}
+);
+width = 710;
+}
+);
+unicode = 905;
+}

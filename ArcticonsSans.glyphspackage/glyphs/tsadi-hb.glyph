@@ -1,0 +1,77 @@
+{
+glyphname = "tsadi-hb";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (383,0);
+},
+{
+name = bottomleft;
+pos = (20,0);
+},
+{
+name = center;
+pos = (383,508);
+},
+{
+name = top;
+pos = (383,1015);
+},
+{
+name = topleft;
+pos = (20,1015);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(630,50,l),
+(230,785,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(665,795,l),
+(647,641,l),
+(636,542,o),
+(592,450,o),
+(521,380,c),
+(476,334,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,50,l),
+(630,50,l)
+);
+}
+);
+width = 765;
+}
+);
+unicode = 1510;
+}

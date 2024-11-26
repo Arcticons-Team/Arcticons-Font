@@ -1,0 +1,40 @@
+{
+glyphname = plus;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,315,l),
+(500,315,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,515,l),
+(300,115,l)
+);
+}
+);
+width = 600;
+}
+);
+metricLeft = "-";
+metricRight = "-";
+unicode = 43;
+}

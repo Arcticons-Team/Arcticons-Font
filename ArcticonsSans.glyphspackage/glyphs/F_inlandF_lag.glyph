@@ -1,0 +1,14 @@
+{
+glyphname = FinlandFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = SwedenFlag;
+}
+);
+width = 1120;
+}
+);
+}

@@ -1,0 +1,14 @@
+{
+glyphname = "zhe-cy.loclBGR";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "zhe-cy";
+}
+);
+width = 900;
+}
+);
+}

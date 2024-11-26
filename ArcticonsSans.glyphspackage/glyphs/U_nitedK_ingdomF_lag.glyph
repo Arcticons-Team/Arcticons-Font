@@ -1,0 +1,131 @@
+{
+glyphname = UnitedKingdomFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,114,l),
+(1020,686,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,686,l),
+(1020,114,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(1020,114,l),
+(1020,674,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,686,l),
+(100,126,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(1020,114,l),
+(962,129,o),
+(905,144,o),
+(790,144,c),
+(590,144,o),
+(530,84,o),
+(330,84,c),
+(215,84,o),
+(157,99,o),
+(100,114,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(1020,686,l),
+(962,701,o),
+(905,716,o),
+(790,716,c),
+(590,716,o),
+(530,656,o),
+(330,656,c),
+(215,656,o),
+(157,671,o),
+(100,686,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(1020,406,l),
+(962,421,o),
+(905,436,o),
+(790,436,c),
+(590,436,o),
+(530,376,o),
+(330,376,c),
+(215,376,o),
+(157,391,o),
+(100,406,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(560,126,l),
+(560,686,l)
+);
+}
+);
+width = 1120;
+}
+);
+}

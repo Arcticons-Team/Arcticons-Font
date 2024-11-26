@@ -1,0 +1,64 @@
+{
+glyphname = "Hardsign-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (455,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(280,50,l),
+(610,50,l),
+(720,50,o),
+(810,140,o),
+(810,250,c),
+(810,360,o),
+(720,450,o),
+(610,450,c),
+(280,450,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(280,850,l),
+(100,850,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(280,850,l),
+(280,50,l)
+);
+}
+);
+width = 910;
+}
+);
+unicode = 1066;
+}

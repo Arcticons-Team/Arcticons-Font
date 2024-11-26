@@ -1,0 +1,100 @@
+{
+glyphname = globeMeridians;
+kernLeft = emojiRound;
+kernRight = emojiRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(815,-70,o),
+(1020,136,o),
+(1020,391,c),
+(1020,645,o),
+(815,850,o),
+(561,850,c),
+(306,850,o),
+(100,645,o),
+(100,391,c),
+(100,136,o),
+(306,-70,o),
+(561,-70,c)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(959,620,l),
+(161,620,l)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(961,166,l),
+(158,166,l)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(102,390,l),
+(1017,390,l)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(561,850,l),
+(561,-70,l)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(687,-70,o),
+(790,136,o),
+(790,391,c),
+(790,645,o),
+(687,850,o),
+(560,850,c),
+(433,850,o),
+(330,645,o),
+(330,391,c),
+(330,136,o),
+(433,-70,o),
+(560,-70,c)
+);
+}
+);
+width = 1120;
+}
+);
+unicode = 127760;
+}

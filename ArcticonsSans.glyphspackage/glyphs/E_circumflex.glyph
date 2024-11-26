@@ -1,0 +1,20 @@
+{
+glyphname = Ecircumflex;
+kernLeft = uppercaseStraight;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (20,-1);
+ref = circumflexcomb.case;
+}
+);
+width = 600;
+}
+);
+unicode = 202;
+}

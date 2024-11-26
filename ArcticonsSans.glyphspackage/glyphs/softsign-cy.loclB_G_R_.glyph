@@ -1,0 +1,14 @@
+{
+glyphname = "softsign-cy.loclBGR";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "softsign-cy";
+}
+);
+width = 600;
+}
+);
+}

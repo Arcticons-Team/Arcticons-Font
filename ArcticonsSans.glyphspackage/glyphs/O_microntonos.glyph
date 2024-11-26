@@ -1,0 +1,20 @@
+{
+glyphname = Omicrontonos;
+kernLeft = tonosCase;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Omicron;
+},
+{
+pos = (-346,0);
+ref = tonos.case;
+}
+);
+width = 730;
+}
+);
+unicode = 908;
+}

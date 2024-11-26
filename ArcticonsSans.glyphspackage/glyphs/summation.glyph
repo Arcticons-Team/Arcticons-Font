@@ -1,0 +1,15 @@
+{
+glyphname = summation;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Sigma;
+}
+);
+width = 730;
+}
+);
+unicode = 8721;
+}

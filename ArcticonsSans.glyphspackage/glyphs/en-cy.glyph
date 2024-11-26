@@ -1,0 +1,59 @@
+{
+glyphname = "en-cy";
+kernLeft = lowercaseStraight;
+kernRight = lowercaseStraight;
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+pos = (580,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,580,l),
+(100,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,580,l),
+(500,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,316,l),
+(500,316,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 1085;
+}

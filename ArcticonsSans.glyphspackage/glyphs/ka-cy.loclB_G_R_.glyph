@@ -1,0 +1,14 @@
+{
+glyphname = "ka-cy.loclBGR";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "ka-cy";
+}
+);
+width = 600;
+}
+);
+}

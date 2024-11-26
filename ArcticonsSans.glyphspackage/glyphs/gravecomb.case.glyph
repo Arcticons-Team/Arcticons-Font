@@ -1,0 +1,34 @@
+{
+glyphname = gravecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (280,901);
+},
+{
+name = top;
+pos = (280,1116);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(350,1016,l),
+(210,1066,l)
+);
+}
+);
+width = 560;
+}
+);
+}

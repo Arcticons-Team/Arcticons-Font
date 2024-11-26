@@ -1,0 +1,10 @@
+{
+glyphname = logicalnot;
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 172;
+}

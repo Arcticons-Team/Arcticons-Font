@@ -1,0 +1,58 @@
+{
+glyphname = beta;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(80,117,l),
+(119,65,o),
+(197,50,o),
+(280,50,c),
+(390,50,o),
+(480,140,o),
+(480,250,c),
+(480,250,l),
+(480,360,o),
+(390,450,o),
+(280,450,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(80,-220,l),
+(80,650,l),
+(80,760,o),
+(169,850,o),
+(280,850,c),
+(280,850,l),
+(390,850,o),
+(480,760,o),
+(480,650,c),
+(480,650,l),
+(480,539,o),
+(390,450,o),
+(280,450,c)
+);
+}
+);
+width = 560;
+}
+);
+unicode = 946;
+}

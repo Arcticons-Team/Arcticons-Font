@@ -1,0 +1,14 @@
+{
+glyphname = CzechiaFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = SouthAfricaFlag;
+}
+);
+width = 1120;
+}
+);
+}

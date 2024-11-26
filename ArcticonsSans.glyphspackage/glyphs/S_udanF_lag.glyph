@@ -1,0 +1,14 @@
+{
+glyphname = SudanFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = PalestinianTerritoriesFlag;
+}
+);
+width = 1120;
+}
+);
+}

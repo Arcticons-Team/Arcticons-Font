@@ -1,0 +1,14 @@
+{
+glyphname = GabonFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = NetherlandsFlag;
+}
+);
+width = 1120;
+}
+);
+}

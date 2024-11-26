@@ -1,0 +1,28 @@
+{
+glyphname = "ustraight-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = v;
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,69,l),
+(300,-220,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 1199;
+}

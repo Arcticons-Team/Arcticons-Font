@@ -1,0 +1,42 @@
+{
+glyphname = J;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,50);
+},
+{
+name = top;
+pos = (500,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,316,l),
+(100,250,l),
+(100,140,o),
+(190,50,o),
+(300,50,c),
+(411,50,o),
+(500,140,o),
+(500,250,c),
+(500,850,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 74;
+}

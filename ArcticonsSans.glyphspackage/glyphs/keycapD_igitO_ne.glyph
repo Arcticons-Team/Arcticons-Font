@@ -1,0 +1,64 @@
+{
+glyphname = keycapDigitOne;
+kernLeft = emojiSquare;
+kernRight = emojiSquare;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(240,850,l),
+(163,850,o),
+(100,787,o),
+(100,710,c),
+(100,70,l),
+(100,-7,o),
+(163,-70,o),
+(240,-70,c),
+(880,-70,l),
+(958,-70,o),
+(1020,-7,o),
+(1020,70,c),
+(1020,710,l),
+(1020,787,o),
+(958,850,o),
+(880,850,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(560,670,l),
+(560,110,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(420,594,l),
+(560,670,l)
+);
+}
+);
+width = 1120;
+}
+);
+}

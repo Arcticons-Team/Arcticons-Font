@@ -1,0 +1,48 @@
+{
+glyphname = "U-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (365,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(382,320,l),
+(100,850,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(630,850,l),
+(296,136,l),
+(272,84,o),
+(219,50,o),
+(160,50,c),
+(100,50,l)
+);
+}
+);
+width = 730;
+}
+);
+unicode = 1059;
+}

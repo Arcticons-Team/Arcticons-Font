@@ -1,0 +1,62 @@
+{
+glyphname = "kaf-hb";
+kernRight = hebrewRound;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = bottomleft;
+pos = (20,0);
+},
+{
+name = center;
+pos = (300,508);
+},
+{
+name = top;
+pos = (300,1015);
+},
+{
+name = topleft;
+pos = (20,1015);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,778,l),
+(131,789,o),
+(165,795,o),
+(200,795,c),
+(200,795,l),
+(366,795,o),
+(500,661,o),
+(500,495,c),
+(500,350,l),
+(500,184,o),
+(366,50,o),
+(200,50,c),
+(200,50,l),
+(165,50,o),
+(131,56,o),
+(100,67,c)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 1499;
+}

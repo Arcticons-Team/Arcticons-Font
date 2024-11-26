@@ -1,0 +1,49 @@
+{
+glyphname = "ge-cy";
+kernLeft = lowercaseStraight;
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+pos = (530,0);
+},
+{
+name = top;
+pos = (275,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,50,l),
+(100,580,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,580,l),
+(450,580,l)
+);
+}
+);
+width = 550;
+}
+);
+unicode = 1075;
+}

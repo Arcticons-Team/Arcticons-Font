@@ -1,0 +1,65 @@
+{
+glyphname = "Ya-cy";
+kernRight = uppercaseStraight;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (365,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(375,320,l),
+(106,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(630,50,l),
+(630,850,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(630,320,l),
+(365,320,l),
+(219,320,o),
+(100,439,o),
+(100,585,c),
+(100,731,o),
+(219,850,o),
+(365,850,c),
+(630,850,l)
+);
+}
+);
+width = 730;
+}
+);
+unicode = 1071;
+}

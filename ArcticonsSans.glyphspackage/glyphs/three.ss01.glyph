@@ -1,0 +1,78 @@
+{
+export = 0;
+glyphname = three.ss01;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(374,451,l),
+(511,461,o),
+(579,508,o),
+(579,654,cs),
+(579,795,o),
+(447,851,o),
+(324,851,cs),
+(225,851,o),
+(141,843,o),
+(99,739,c)
+);
+},
+{
+closed = 0;
+nodes = (
+(374,451,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(99,163,l),
+(126,71,o),
+(225,51,o),
+(324,51,cs),
+(447,51,o),
+(579,91,o),
+(579,248,cs),
+(579,394,o),
+(511,441,o),
+(374,451,c)
+);
+},
+{
+closed = 0;
+nodes = (
+(374,451,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(259,451,l),
+(361,451,l)
+);
+}
+);
+width = 680;
+}
+);
+locked = 1;
+}

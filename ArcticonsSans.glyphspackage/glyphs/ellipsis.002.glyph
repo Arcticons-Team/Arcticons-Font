@@ -1,0 +1,20 @@
+{
+glyphname = ellipsis.002;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = period;
+},
+{
+ref = period;
+},
+{
+ref = period;
+}
+);
+width = 270;
+}
+);
+}

@@ -1,0 +1,63 @@
+{
+glyphname = "dalet-hb";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (330,0);
+},
+{
+name = bottomleft;
+pos = (20,0);
+},
+{
+name = center;
+pos = (330,508);
+},
+{
+name = top;
+pos = (330,1015);
+},
+{
+name = topleft;
+pos = (20,1015);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,795,l),
+(560,795,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(430,50,l),
+(430,665,l),
+(430,737,o),
+(488,795,o),
+(560,795,c)
+);
+}
+);
+width = 660;
+}
+);
+unicode = 1491;
+}

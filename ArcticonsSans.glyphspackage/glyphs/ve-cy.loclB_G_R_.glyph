@@ -1,0 +1,14 @@
+{
+glyphname = "ve-cy.loclBGR";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "ve-cy";
+}
+);
+width = 600;
+}
+);
+}

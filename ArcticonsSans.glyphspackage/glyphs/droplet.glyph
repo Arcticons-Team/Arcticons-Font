@@ -1,0 +1,48 @@
+{
+glyphname = droplet;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(465,-70,l),
+(263,-70,o),
+(100,94,o),
+(100,296,c),
+(100,620,o),
+(465,850,o),
+(465,850,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(465,850,l),
+(465,850,o),
+(831,619,o),
+(831,296,c),
+(831,94,o),
+(667,-70,o),
+(465,-70,c)
+);
+}
+);
+width = 931;
+}
+);
+unicode = 128167;
+}

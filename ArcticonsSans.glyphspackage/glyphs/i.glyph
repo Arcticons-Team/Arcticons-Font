@@ -1,0 +1,45 @@
+{
+glyphname = i;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (125,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+fill = 1;
+strokePos = 1;
+};
+closed = 1;
+nodes = (
+(200,866,o),
+(166,900,o),
+(125,900,c),
+(83,900,o),
+(50,866,o),
+(50,825,c),
+(50,784,o),
+(83,750,o),
+(125,750,c),
+(166,750,o),
+(200,784,o),
+(200,825,c)
+);
+},
+{
+pos = (20,0);
+ref = idotless;
+}
+);
+width = 250;
+}
+);
+unicode = 105;
+}

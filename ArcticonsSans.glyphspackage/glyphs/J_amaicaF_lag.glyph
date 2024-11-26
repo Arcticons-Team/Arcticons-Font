@@ -1,0 +1,14 @@
+{
+glyphname = JamaicaFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = ScotlandFlag;
+}
+);
+width = 1120;
+}
+);
+}

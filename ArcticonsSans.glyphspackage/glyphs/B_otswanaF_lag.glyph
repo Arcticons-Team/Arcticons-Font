@@ -1,0 +1,14 @@
+{
+glyphname = BotswanaFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = PolandFlag;
+}
+);
+width = 1120;
+}
+);
+}

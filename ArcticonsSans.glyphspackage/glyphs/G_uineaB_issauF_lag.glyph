@@ -1,0 +1,14 @@
+{
+glyphname = GuineaBissauFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = MadagascarFlag;
+}
+);
+width = 1120;
+}
+);
+}
