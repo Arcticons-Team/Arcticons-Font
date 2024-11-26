@@ -6,6 +6,20 @@ layerId = m002;
 shapes = (
 {
 attr = {
+identifier = ID0x28a2148f0;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(520,580,l),
+(520,50,l)
+);
+},
+{
+attr = {
 identifier = ID0x28a2d3110;
 lineCapEnd = 1;
 lineCapStart = 1;
@@ -19,20 +33,6 @@ nodes = (
 (200,201,o),
 (164,114,o),
 (100,50,c)
-);
-},
-{
-attr = {
-identifier = ID0x28a2d3110;
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(520,580,l),
-(200,580,l)
 );
 },
 {
@@ -58,16 +58,16 @@ nodes = (
 },
 {
 attr = {
-identifier = ID0x28a2148f0;
+identifier = ID0x28a2d3110;
 lineCapEnd = 1;
 lineCapStart = 1;
 strokeHeight = 100;
 strokeWidth = 100;
 };
-closed = 1;
+closed = 0;
 nodes = (
-(520,50,l),
-(520,580,l)
+(520,580,l),
+(200,580,l)
 );
 }
 );
