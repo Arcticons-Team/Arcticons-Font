@@ -14,6 +14,12 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
+customParameters = (
+{
+name = "Export DSIG Table";
+value = 0;
+}
+);
 date = "2024-01-01 19:40:33 +0000";
 familyName = "Arcticons Sans";
 featurePrefixes = (
