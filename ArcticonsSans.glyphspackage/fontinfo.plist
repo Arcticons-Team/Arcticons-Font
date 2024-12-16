@@ -1645,6 +1645,7 @@ type = baseline;
 type = descender;
 }
 );
+note = "Always check \"remove overlap\" before exporting";
 properties = (
 {
 key = copyrights;
