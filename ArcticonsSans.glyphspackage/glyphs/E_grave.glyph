@@ -9,7 +9,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (20,-1);
+pos = (-30,0);
 ref = gravecomb.case;
 }
 );

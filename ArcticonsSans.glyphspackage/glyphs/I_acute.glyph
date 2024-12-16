@@ -10,7 +10,7 @@ ref = I;
 },
 {
 alignment = -1;
-pos = (10,-1);
+pos = (-208,-1);
 ref = acutecomb.case;
 }
 );

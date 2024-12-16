@@ -5,30 +5,21 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (170,901);
+pos = (318,900);
 },
 {
 name = top;
-pos = (170,1116);
+pos = (375,1140);
 }
 );
 layerId = m002;
 shapes = (
 {
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(100,1016,l),
-(240,1066,l)
-);
+pos = (0,263);
+ref = acutecomb;
 }
 );
-width = 340;
+width = 732;
 }
 );
 }
