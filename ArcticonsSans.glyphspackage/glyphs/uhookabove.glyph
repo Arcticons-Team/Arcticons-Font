@@ -1,0 +1,19 @@
+{
+glyphname = uhookabove;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (131,103);
+ref = hookabovecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7911;
+}

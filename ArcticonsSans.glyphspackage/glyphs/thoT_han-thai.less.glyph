@@ -1,0 +1,10 @@
+{
+export = 0;
+glyphname = "thoThan-thai.less";
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+}

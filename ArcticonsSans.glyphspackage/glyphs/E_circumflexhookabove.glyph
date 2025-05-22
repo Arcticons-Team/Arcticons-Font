@@ -1,0 +1,24 @@
+{
+glyphname = Ecircumflexhookabove;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (20,-1);
+ref = circumflexcomb.case;
+},
+{
+anchor = top_viet;
+pos = (285,488);
+ref = hookabovecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7874;
+}

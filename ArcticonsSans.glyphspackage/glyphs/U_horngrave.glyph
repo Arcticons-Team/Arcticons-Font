@@ -1,0 +1,19 @@
+{
+glyphname = Uhorngrave;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (35,0);
+ref = gravecomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 7914;
+}

@@ -20,8 +20,7 @@ nodes = (
 (326,124,c),
 (352,146,o),
 (365,181,o),
-(365,218,c),
-(365,218,l),
+(365,218,cs),
 (365,291,o),
 (306,350,o),
 (232,350,c),
@@ -42,6 +41,19 @@ closed = 0;
 nodes = (
 (365,-50,l),
 (100,-50,l)
+);
+},
+{
+attr = {
+identifier = ID0x15af82350;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(365,218,l)
 );
 }
 );

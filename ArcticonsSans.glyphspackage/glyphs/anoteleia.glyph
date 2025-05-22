@@ -1,10 +1,14 @@
 {
-export = 0;
 glyphname = anoteleia;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = periodcentered;
+}
+);
+width = 270;
 }
 );
 unicode = 903;

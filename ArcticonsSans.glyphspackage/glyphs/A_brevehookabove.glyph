@@ -1,0 +1,23 @@
+{
+glyphname = Abrevehookabove;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (86,-1);
+ref = brevecomb.case;
+},
+{
+pos = (197,612);
+ref = hookabovecomb;
+}
+);
+width = 732;
+}
+);
+unicode = 7858;
+}

@@ -1,0 +1,60 @@
+{
+export = 0;
+glyphname = "koKai-thai";
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(576,0,l),
+(576,393,l),
+(576,524,o),
+(469,630,o),
+(338,630,c),
+(207,630,o),
+(100,524,o),
+(100,393,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(195,333,l),
+(195,0,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,393,l),
+(195,333,l)
+);
+}
+);
+width = 676;
+}
+);
+unicode = 3585;
+}

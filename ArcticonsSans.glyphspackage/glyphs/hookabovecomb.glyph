@@ -1,0 +1,39 @@
+{
+glyphname = hookabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (169,527);
+},
+{
+name = top;
+pos = (164,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,759,l),
+(133,776,o),
+(185,780,o),
+(209,734,cs),
+(235,685,o),
+(194,642,o),
+(169,630,cs)
+);
+}
+);
+width = 318;
+}
+);
+unicode = 777;
+}

@@ -16,16 +16,14 @@ nodes = (
 (673,146,l),
 (624,87,o),
 (550,50,o),
-(468,50,c),
-(468,50,l),
+(468,50,cs),
 (320,50,o),
 (200,170,o),
 (200,318,c),
 (200,582,l),
 (200,730,o),
 (320,850,o),
-(468,850,c),
-(468,850,l),
+(468,850,cs),
 (551,850,o),
 (625,812,o),
 (674,753,c)
@@ -55,6 +53,30 @@ closed = 0;
 nodes = (
 (100,351,l),
 (400,351,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(468,850,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(468,50,l)
 );
 }
 );

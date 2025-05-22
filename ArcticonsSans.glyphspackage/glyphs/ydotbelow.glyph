@@ -1,0 +1,23 @@
+{
+glyphname = ydotbelow;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
+pos = (553,0);
+ref = dotbelowcomb;
+}
+);
+width = 780;
+}
+);
+metricLeft = y;
+metricRight = dot;
+unicode = 7925;
+}

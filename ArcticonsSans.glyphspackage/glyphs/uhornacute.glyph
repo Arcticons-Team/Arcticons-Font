@@ -1,0 +1,20 @@
+{
+glyphname = uhornacute;
+kernRight = lowercaseHorn;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (-59,-50);
+ref = acutecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7913;
+}

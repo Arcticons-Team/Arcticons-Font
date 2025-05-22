@@ -48,8 +48,7 @@ nodes = (
 (999,259,c),
 (1030,285,o),
 (1046,327,o),
-(1046,372,c),
-(1046,372,l),
+(1046,372,cs),
 (1046,459,o),
 (975,530,o),
 (886,530,c),
@@ -75,6 +74,19 @@ nodes = (
 {
 pos = (120,0);
 ref = fraction;
+},
+{
+attr = {
+identifier = ID0x2bbd46850;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(1046,372,l)
+);
 }
 );
 width = 1146;

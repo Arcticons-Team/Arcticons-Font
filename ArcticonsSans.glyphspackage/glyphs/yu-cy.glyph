@@ -1,4 +1,5 @@
 {
+color = 1;
 glyphname = "yu-cy";
 kernLeft = lowercaseStraight;
 kernRight = lowercaseRound;
@@ -54,8 +55,7 @@ nodes = (
 (360,380,l),
 (360,490,o),
 (450,580,o),
-(560,580,c),
-(560,580,l),
+(560,580,cs),
 (670,580,o),
 (760,490,o),
 (760,380,c),
@@ -63,6 +63,18 @@ nodes = (
 (760,140,o),
 (670,50,o),
 (560,50,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(560,580,l)
 );
 }
 );

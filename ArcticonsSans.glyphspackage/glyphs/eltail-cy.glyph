@@ -1,0 +1,11 @@
+{
+export = 0;
+glyphname = "eltail-cy";
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 1222;
+}

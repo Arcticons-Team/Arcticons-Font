@@ -1,0 +1,19 @@
+{
+glyphname = "Idieresis-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "Ii-cy";
+},
+{
+pos = (85,-1);
+ref = dieresiscomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 1252;
+}

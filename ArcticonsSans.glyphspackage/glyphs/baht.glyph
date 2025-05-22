@@ -13,62 +13,12 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(100,850,l),
-(430,850,l),
-(541,850,o),
-(630,760,o),
-(630,650,c),
-(630,539,o),
-(541,450,o),
-(430,450,c),
-(430,450,l),
-(541,450,o),
-(630,360,o),
-(630,250,c),
-(630,139,o),
-(541,50,o),
-(430,50,c),
-(100,50,l)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(430,450,l),
-(100,450,l)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
 (315,-50,l),
 (315,950,l)
 );
 },
 {
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(100,50,l),
-(100,850,l)
-);
+ref = B;
 }
 );
 width = 730;

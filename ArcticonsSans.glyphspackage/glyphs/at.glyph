@@ -49,19 +49,41 @@ nodes = (
 (693,323,l),
 (686,242,o),
 (615,177,o),
-(535,177,c),
-(535,177,l),
+(535,177,cs),
 (454,177,o),
 (394,242,o),
 (401,323,c),
 (409,417,l),
 (417,498,o),
 (488,563,o),
-(569,563,c),
-(569,563,l),
+(569,563,cs),
 (649,563,o),
 (709,499,o),
 (701,418,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(569,563,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(535,177,l)
 );
 }
 );

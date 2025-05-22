@@ -1,0 +1,16 @@
+{
+export = 0;
+glyphname = "Esdescender-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Ccedilla;
+}
+);
+width = 730;
+}
+);
+unicode = 1194;
+}

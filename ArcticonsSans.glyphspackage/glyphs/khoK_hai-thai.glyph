@@ -1,0 +1,46 @@
+{
+export = 0;
+glyphname = "khoKhai-thai";
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(614,630,l),
+(614,237,l),
+(614,106,o),
+(508,0,o),
+(377,0,c),
+(245,0,o),
+(139,106,o),
+(139,237,c),
+(139,315,o),
+(188,384,o),
+(228,427,c),
+(261,463,o),
+(281,509,o),
+(281,558,c),
+(281,602,o),
+(247,641,o),
+(198,641,c),
+(152,641,o),
+(131,641,o),
+(100,620,c)
+);
+}
+);
+width = 714;
+}
+);
+unicode = 3586;
+}

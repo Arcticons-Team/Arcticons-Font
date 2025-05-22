@@ -1,0 +1,14 @@
+{
+glyphname = hookabovecomb.case;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = hookabovecomb;
+}
+);
+width = 318;
+}
+);
+}

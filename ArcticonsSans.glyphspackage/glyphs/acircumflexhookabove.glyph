@@ -1,0 +1,15 @@
+{
+glyphname = acircumflexhookabove;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+}
+);
+width = 600;
+}
+);
+unicode = 7849;
+}

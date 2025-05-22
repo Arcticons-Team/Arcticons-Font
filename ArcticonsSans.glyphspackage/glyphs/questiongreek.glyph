@@ -1,10 +1,14 @@
 {
-export = 0;
 glyphname = questiongreek;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = semicolon;
+}
+);
+width = 270;
 }
 );
 unicode = 894;

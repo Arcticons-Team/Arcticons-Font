@@ -1,0 +1,68 @@
+{
+export = 0;
+glyphname = "foFa-thai";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeWidth = 1;
+};
+closed = 0;
+nodes = (
+(100,0,l),
+(100,5,l)
+);
+},
+{
+attr = {
+strokeWidth = 1;
+};
+closed = 0;
+nodes = (
+(104,0,l),
+(102,4,l)
+);
+},
+{
+attr = {
+strokeWidth = 1;
+};
+closed = 0;
+nodes = (
+(100,5,l),
+(100,5,o),
+(100,6,o),
+(101,6,c),
+(101,6,o),
+(101,6,o),
+(101,6,c)
+);
+},
+{
+attr = {
+strokeWidth = 1;
+};
+closed = 0;
+nodes = (
+(102,4,l),
+(100,0,l)
+);
+},
+{
+attr = {
+strokeWidth = 1;
+};
+closed = 0;
+nodes = (
+(104,8,l),
+(104,0,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 3613;
+}

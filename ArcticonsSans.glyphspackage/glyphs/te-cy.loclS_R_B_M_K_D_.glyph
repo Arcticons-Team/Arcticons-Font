@@ -1,0 +1,14 @@
+{
+glyphname = "te-cy.loclSRBMKD";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "te-cy";
+}
+);
+width = 600;
+}
+);
+}

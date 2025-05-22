@@ -1,10 +1,35 @@
 {
-export = 0;
 glyphname = wavydash;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,435,l),
+(225,435,o),
+(225,195,o),
+(350,195,c),
+(475,195,o),
+(475,435,o),
+(600,435,c),
+(725,435,o),
+(725,195,o),
+(850,195,c),
+(975,195,o),
+(975,435,o),
+(1100,435,c)
+);
+}
+);
+width = 1200;
 }
 );
 unicode = 12336;

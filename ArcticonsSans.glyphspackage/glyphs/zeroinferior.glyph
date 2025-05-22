@@ -10,18 +10,6 @@ identifier = ID0x15af81790;
 strokeHeight = 100;
 strokeWidth = 100;
 };
-closed = 0;
-nodes = (
-(334,303,l),
-(131,-3,l)
-);
-},
-{
-attr = {
-identifier = ID0x15af81790;
-strokeHeight = 100;
-strokeWidth = 100;
-};
 closed = 1;
 nodes = (
 (365,10,o),

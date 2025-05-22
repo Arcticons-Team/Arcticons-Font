@@ -1,0 +1,16 @@
+{
+export = 0;
+glyphname = "We-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = W;
+}
+);
+width = 1000;
+}
+);
+unicode = 1308;
+}

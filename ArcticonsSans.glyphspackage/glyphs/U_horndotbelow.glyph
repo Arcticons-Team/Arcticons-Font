@@ -1,0 +1,19 @@
+{
+glyphname = Uhorndotbelow;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (260,50);
+ref = dotbelowcomb;
+}
+);
+width = 730;
+}
+);
+unicode = 7920;
+}

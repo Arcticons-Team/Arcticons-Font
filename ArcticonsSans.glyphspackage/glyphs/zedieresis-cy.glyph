@@ -1,0 +1,19 @@
+{
+glyphname = "zedieresis-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "ze-cy";
+},
+{
+pos = (-4,0);
+ref = dieresiscomb;
+}
+);
+width = 551;
+}
+);
+unicode = 1247;
+}

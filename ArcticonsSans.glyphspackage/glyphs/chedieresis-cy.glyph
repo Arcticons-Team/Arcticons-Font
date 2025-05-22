@@ -1,0 +1,19 @@
+{
+glyphname = "chedieresis-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "che-cy";
+},
+{
+pos = (20,0);
+ref = dieresiscomb;
+}
+);
+width = 600;
+}
+);
+unicode = 1269;
+}

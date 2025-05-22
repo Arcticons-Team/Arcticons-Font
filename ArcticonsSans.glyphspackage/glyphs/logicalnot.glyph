@@ -1,9 +1,36 @@
 {
-export = 0;
 glyphname = logicalnot;
 layers = (
 {
 layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,457,l),
+(500,457,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,457,l),
+(500,257,l)
+);
+}
+);
 width = 600;
 }
 );

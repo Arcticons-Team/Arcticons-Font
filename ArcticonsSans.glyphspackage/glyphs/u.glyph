@@ -17,6 +17,10 @@ name = top;
 pos = (300,630);
 },
 {
+name = top_viet;
+pos = (565,596);
+},
+{
 name = topright;
 pos = (580,630);
 }

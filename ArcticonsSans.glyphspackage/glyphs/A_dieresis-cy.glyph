@@ -1,0 +1,19 @@
+{
+glyphname = "Adieresis-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "A-cy";
+},
+{
+pos = (86,-1);
+ref = dieresiscomb.case;
+}
+);
+width = 732;
+}
+);
+unicode = 1234;
+}

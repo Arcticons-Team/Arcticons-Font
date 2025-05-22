@@ -1,0 +1,20 @@
+{
+glyphname = uhorngrave;
+kernRight = lowercaseHorn;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (23,-50);
+ref = gravecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7915;
+}

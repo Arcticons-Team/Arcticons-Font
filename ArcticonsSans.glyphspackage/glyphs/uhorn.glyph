@@ -1,0 +1,21 @@
+{
+glyphname = uhorn;
+kernRight = lowercaseHorn;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = u;
+},
+{
+anchor = top;
+pos = (300,0);
+ref = horncomb;
+}
+);
+width = 600;
+}
+);
+unicode = 432;
+}
