@@ -1,0 +1,20 @@
+{
+glyphname = wcircumflex;
+layers = (
+{
+.lastUpdate = 769700930.997;
+layerId = m002;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (150,0);
+ref = circumflexcomb;
+}
+);
+width = 860;
+}
+);
+unicode = 373;
+}

@@ -1,0 +1,27 @@
+{
+glyphname = Eogonek;
+kernLeft = uppercaseStraight;
+layers = (
+{
+.lastUpdate = 769700928.137;
+anchors = (
+{
+name = top;
+pos = (300,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (200,0);
+ref = ogonekcomb;
+}
+);
+width = 600;
+}
+);
+unicode = 280;
+}

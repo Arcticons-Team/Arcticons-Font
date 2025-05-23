@@ -1,0 +1,19 @@
+{
+glyphname = jacute;
+layers = (
+{
+.lastUpdate = 769700929.595;
+layerId = m002;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-46,0);
+ref = acutecomb;
+}
+);
+width = 416;
+}
+);
+}

@@ -1,0 +1,16 @@
+{
+glyphname = Tau;
+layers = (
+{
+.lastUpdate = 769700931.059;
+layerId = m002;
+shapes = (
+{
+ref = T;
+}
+);
+width = 730;
+}
+);
+unicode = 932;
+}

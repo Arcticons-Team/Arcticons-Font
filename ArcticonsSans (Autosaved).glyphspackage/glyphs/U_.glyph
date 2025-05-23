@@ -1,0 +1,50 @@
+{
+glyphname = U;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (365,50);
+},
+{
+name = ogonek;
+pos = (528,123);
+},
+{
+name = top;
+pos = (365,900);
+},
+{
+name = topright;
+pos = (710,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,850,l),
+(100,315,l),
+(100,169,o),
+(219,50,o),
+(365,50,c),
+(511,50,o),
+(630,169,o),
+(630,315,c),
+(630,850,l)
+);
+}
+);
+width = 730;
+}
+);
+unicode = 85;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = "zhedieresis-cy";
+layers = (
+{
+.lastUpdate = 769700945.052;
+layerId = m002;
+shapes = (
+{
+ref = "zhe-cy";
+},
+{
+pos = (170,0);
+ref = dieresiscomb;
+}
+);
+width = 900;
+}
+);
+unicode = 1245;
+}

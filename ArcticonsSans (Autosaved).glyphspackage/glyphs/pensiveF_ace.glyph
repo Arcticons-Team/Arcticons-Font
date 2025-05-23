@@ -1,0 +1,84 @@
+{
+glyphname = pensiveFace;
+kernLeft = emojiRound;
+kernRight = emojiRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(815,-70,o),
+(1020,136,o),
+(1020,391,c),
+(1020,645,o),
+(815,850,o),
+(561,850,c),
+(306,850,o),
+(100,645,o),
+(100,391,c),
+(100,136,o),
+(306,-70,o),
+(561,-70,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(832,505,l),
+(832,505,o),
+(799,479,o),
+(752,479,c),
+(705,479,o),
+(672,505,o),
+(672,505,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(448,505,l),
+(448,505,o),
+(415,479,o),
+(368,479,c),
+(321,479,o),
+(288,505,o),
+(288,505,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(460,224,l),
+(660,224,l)
+);
+}
+);
+width = 1120;
+}
+);
+unicode = 128532;
+}

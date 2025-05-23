@@ -1,0 +1,10 @@
+{
+export = 0;
+glyphname = nine.numr;
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+}

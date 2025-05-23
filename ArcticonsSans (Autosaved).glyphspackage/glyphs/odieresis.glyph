@@ -1,0 +1,22 @@
+{
+glyphname = odieresis;
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+.lastUpdate = 769700929.622;
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (20,0);
+ref = dieresiscomb;
+}
+);
+width = 600;
+}
+);
+unicode = 246;
+}

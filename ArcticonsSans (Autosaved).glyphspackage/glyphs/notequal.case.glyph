@@ -1,0 +1,53 @@
+{
+color = 10;
+glyphname = notequal.case;
+lastChange = "2025-05-23 14:02:54 +0000";
+layers = (
+{
+.lastUpdate = 769701168.154;
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,295,l),
+(600,295,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,595,l),
+(600,595,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(250,135,l),
+(450,765,l)
+);
+}
+);
+width = 700;
+}
+);
+}

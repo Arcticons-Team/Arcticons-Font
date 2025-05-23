@@ -1,0 +1,16 @@
+{
+glyphname = "tshe-cy";
+layers = (
+{
+.lastUpdate = 769700944.77;
+layerId = m002;
+shapes = (
+{
+ref = hbar;
+}
+);
+width = 680;
+}
+);
+unicode = 1115;
+}

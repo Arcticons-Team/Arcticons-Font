@@ -9,6 +9,10 @@ name = bottom;
 pos = (300,50);
 },
 {
+name = bottom_right;
+pos = (500,50);
+},
+{
 name = center;
 pos = (300,450);
 },

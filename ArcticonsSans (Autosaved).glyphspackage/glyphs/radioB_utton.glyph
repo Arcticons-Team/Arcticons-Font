@@ -1,0 +1,37 @@
+{
+glyphname = radioButton;
+layers = (
+{
+.lastUpdate = 769700879.053;
+layerId = m002;
+shapes = (
+{
+ref = mediumWhiteCircle;
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(671,190,o),
+(760,280,o),
+(760,390,c),
+(760,501,o),
+(671,590,o),
+(560,590,c),
+(450,590,o),
+(360,501,o),
+(360,390,cs),
+(360,280,o),
+(450,190,o),
+(560,190,c)
+);
+}
+);
+width = 1120;
+}
+);
+unicode = 128280;
+}

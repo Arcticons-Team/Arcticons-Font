@@ -1,0 +1,33 @@
+{
+glyphname = degree;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(232,680,o),
+(270,718,o),
+(270,765,cs),
+(270,812,o),
+(232,850,o),
+(185,850,cs),
+(138,850,o),
+(100,812,o),
+(100,765,cs),
+(100,718,o),
+(138,680,o),
+(185,680,cs)
+);
+}
+);
+width = 370;
+}
+);
+unicode = 176;
+}

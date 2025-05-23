@@ -1,0 +1,21 @@
+{
+glyphname = upsilontonos;
+layers = (
+{
+.lastUpdate = 769700931.06;
+layerId = m002;
+shapes = (
+{
+ref = upsilon;
+},
+{
+alignment = -1;
+pos = (130,50);
+ref = tonos;
+}
+);
+width = 600;
+}
+);
+unicode = 973;
+}

@@ -1,0 +1,66 @@
+{
+glyphname = twosuperior;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x15af7d350;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,550,l),
+(100,550,o),
+(273,677,o),
+(326,724,c),
+(352,746,o),
+(365,781,o),
+(365,818,cs),
+(365,891,o),
+(306,950,o),
+(232,950,c),
+(159,950,o),
+(100,891,o),
+(100,818,c)
+);
+},
+{
+attr = {
+identifier = ID0x15af7d350;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(365,550,l),
+(100,550,l)
+);
+},
+{
+attr = {
+identifier = ID0x15af7d350;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(365,818,l)
+);
+}
+);
+width = 465;
+}
+);
+metricLeft = two;
+metricRight = two;
+unicode = 178;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = Ytilde;
+layers = (
+{
+.lastUpdate = 769700929.32;
+layerId = m002;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (85,-1);
+ref = tildecomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 7928;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = "En-cy";
+layers = (
+{
+.lastUpdate = 769700931.024;
+anchors = (
+{
+name = bottomright;
+pos = (690,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = H;
+}
+);
+width = 710;
+}
+);
+unicode = 1053;
+}

@@ -1,0 +1,52 @@
+{
+glyphname = a.ss01;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(140,503,l),
+(188,560,o),
+(232,580,o),
+(325,580,cs),
+(431,580,o),
+(500,533,o),
+(500,408,c),
+(500,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,250,l),
+(500,139,o),
+(411,50,o),
+(301,50,c),
+(232,50,l),
+(159,50,o),
+(100,109,o),
+(100,182,c),
+(100,256,o),
+(159,315,o),
+(232,315,c),
+(500,315,l)
+);
+}
+);
+width = 600;
+}
+);
+}

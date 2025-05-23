@@ -1,0 +1,20 @@
+{
+glyphname = Edotbelow;
+layers = (
+{
+.lastUpdate = 769700928.129;
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (195,50);
+ref = dotbelowcomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7864;
+}

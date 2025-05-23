@@ -8,7 +8,8 @@ shapes = (
 ref = circumflexcomb;
 },
 {
-pos = (-82,215);
+anchor = top_left;
+pos = (-172,175);
 ref = acutecomb;
 }
 );

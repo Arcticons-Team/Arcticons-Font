@@ -1,0 +1,16 @@
+{
+glyphname = "aie-cy";
+layers = (
+{
+.lastUpdate = 769700945.035;
+layerId = m002;
+shapes = (
+{
+ref = ae;
+}
+);
+width = 1000;
+}
+);
+unicode = 1237;
+}

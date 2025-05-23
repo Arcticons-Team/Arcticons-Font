@@ -1,0 +1,22 @@
+{
+glyphname = Ntilde;
+kernLeft = uppercaseStraight;
+kernRight = uppercaseStraight;
+layers = (
+{
+.lastUpdate = 769700929.042;
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (85,-1);
+ref = tildecomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 209;
+}

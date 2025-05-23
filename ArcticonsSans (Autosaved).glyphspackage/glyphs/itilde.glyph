@@ -1,0 +1,20 @@
+{
+glyphname = itilde;
+layers = (
+{
+.lastUpdate = 769700929.599;
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-175,0);
+ref = tildecomb;
+}
+);
+width = 210;
+}
+);
+unicode = 297;
+}

@@ -1,0 +1,15 @@
+{
+glyphname = "de-cy.loclBGR";
+layers = (
+{
+.lastUpdate = 769700945.067;
+layerId = m002;
+shapes = (
+{
+ref = "de-cy";
+}
+);
+width = 720;
+}
+);
+}

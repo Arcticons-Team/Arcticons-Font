@@ -1,0 +1,20 @@
+{
+glyphname = Kcommaaccent;
+layers = (
+{
+.lastUpdate = 769700928.99;
+layerId = m002;
+shapes = (
+{
+ref = K;
+},
+{
+pos = (-16,0);
+ref = commaaccentcomb;
+}
+);
+width = 630;
+}
+);
+unicode = 310;
+}

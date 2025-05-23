@@ -1,0 +1,42 @@
+{
+glyphname = "Hadescender-cy";
+layers = (
+{
+.lastUpdate = 769700931.023;
+layerId = m002;
+shapes = (
+{
+ref = X;
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(630,50,l),
+(730,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(730,50,l),
+(730,-50,l)
+);
+}
+);
+width = 830;
+}
+);
+unicode = 1202;
+}

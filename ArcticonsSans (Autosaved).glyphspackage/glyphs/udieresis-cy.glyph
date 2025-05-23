@@ -1,0 +1,20 @@
+{
+glyphname = "udieresis-cy";
+layers = (
+{
+.lastUpdate = 769700945.054;
+layerId = m002;
+shapes = (
+{
+ref = "u-cy";
+},
+{
+pos = (20,0);
+ref = dieresiscomb;
+}
+);
+width = 600;
+}
+);
+unicode = 1265;
+}

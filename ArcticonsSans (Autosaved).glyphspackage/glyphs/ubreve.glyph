@@ -1,0 +1,20 @@
+{
+glyphname = ubreve;
+layers = (
+{
+.lastUpdate = 769700930.993;
+layerId = m002;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (20,0);
+ref = brevecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 365;
+}

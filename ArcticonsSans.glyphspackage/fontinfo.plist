@@ -10,7 +10,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa F G Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex I IJ Iacute Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Saltillo Lslash.001 Lcommaaccent.loclMAH Ncommaaccent.loclMAH A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gestroke-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Yat-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Endescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Chedescender-cy Shha-cy Palochka-cy Zhebreve-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE AEmacron B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Dmacronbelow Eth E Eacute Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent Kmacronbelow L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lmacronbelow Lslash M Mdotaccent Mdotbelow N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Nmacronbelow Ntilde O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelowmacron Rmacronbelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Zmacronbelow Saltillo Lslash.001 Lcommaaccent.loclMAH Ncommaaccent.loclMAH Ldot_comma A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gestroke-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Yat-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Endescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Chedescender-cy Shha-cy Palochka-cy Zhebreve-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol";
 name = Uppercase;
 }
 );
@@ -40,14 +40,13 @@ languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn MAH;
+languagesystem latn CAT;
 languagesystem latn NLD;
 
 languagesystem cyrl dflt;
 languagesystem cyrl BGR;
 languagesystem cyrl MKD;
 languagesystem cyrl SRB;
-
-languagesystem arab dflt;
 
 languagesystem hebr dflt;
 languagesystem hebr IWR;
@@ -66,6 +65,8 @@ feature frac;
 feature case;
 feature fwid;
 feature ss01;
+feature ss02;
+feature ordn;
 ";
 tag = aalt;
 },
@@ -153,11 +154,18 @@ lookup locl_latn_2 {
 } locl_latn_2;
 
 script latn;
-language NLD;
+language CAT;
 lookup locl_latn_3 {
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_3;
+
+script latn;
+language NLD;
+lookup locl_latn_4 {
 	sub iacute j' by jacute;
 	sub Iacute J' by Jacute;
-} locl_latn_3;
+} locl_latn_4;
 
 script cyrl;
 language BGR;
@@ -273,7 +281,38 @@ tag = frac;
 },
 {
 automatic = 1;
-code = "sub tonos by tonos.case;
+code = "sub colon by colon.case;
+sub bullet by bullet.case;
+sub asterisk by asterisk.case;
+sub hyphen by hyphen.case;
+sub endash by endash.case;
+sub emdash by emdash.case;
+sub parenleft by parenleft.case;
+sub parenright by parenright.case;
+sub braceleft by braceleft.case;
+sub braceright by braceright.case;
+sub bracketleft by bracketleft.case;
+sub bracketright by bracketright.case;
+sub anglebracketleft by anglebracketleft.case;
+sub anglebracketright by anglebracketright.case;
+sub dblanglebracketleft by dblanglebracketleft.case;
+sub dblanglebracketright by dblanglebracketright.case;
+sub tortoiseshellbracketleft by tortoiseshellbracketleft.case;
+sub tortoiseshellbracketright by tortoiseshellbracketright.case;
+sub plus by plus.case;
+sub minus by minus.case;
+sub multiply by multiply.case;
+sub divide by divide.case;
+sub equal by equal.case;
+sub notequal by notequal.case;
+sub greater by greater.case;
+sub less by less.case;
+sub greaterequal by greaterequal.case;
+sub lessequal by lessequal.case;
+sub plusminus by plusminus.case;
+sub approxequal by approxequal.case;
+sub asciitilde by asciitilde.case;
+sub tonos by tonos.case;
 sub dieresiscomb by dieresiscomb.case;
 sub dotaccentcomb by dotaccentcomb.case;
 sub gravecomb by gravecomb.case;
@@ -294,8 +333,14 @@ tag = case;
 {
 automatic = 1;
 code = "lookupflag IgnoreMarks;
+sub hyphen hyphen hyphen greater by hyphen_hyphen_hyphen_greater;
 sub f f t by f_f_t;
+sub hyphen hyphen greater by hyphen_hyphen_greater;
+sub hyphen hyphen hyphen by hyphen_hyphen_hyphen;
+sub Ldot comma by Ldot_comma;
 sub f t by f_t;
+sub hyphen greater by hyphen_greater;
+sub hyphen hyphen by hyphen_hyphen;
 sub t t by t_t;
 ";
 tag = dlig;
@@ -324,10 +369,38 @@ code = "sub a by a.ss01;
 labels = (
 {
 language = dflt;
-value = "";
+value = "Single storey a";
 }
 );
 tag = ss01;
+},
+{
+automatic = 1;
+code = "sub y by y.ss02;
+";
+labels = (
+{
+language = dflt;
+value = "Alternate y";
+}
+);
+tag = ss02;
+},
+{
+code = "";
+disabled = 1;
+tag = smcp;
+},
+{
+code = "";
+tag = calt;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
+tag = ordn;
 }
 );
 fontMaster = (
@@ -404,6 +477,7 @@ v = -120;
 w = -140;
 };
 "@MMK_L_S" = {
+"@MMK_R_uppercaseStraight" = 0;
 T = -50;
 j = -200;
 };
@@ -493,10 +567,24 @@ Y = -120;
 j = -60;
 };
 "@MMK_L_lowercaseHorn" = {
+"@MMK_R_f" = 80;
 "@MMK_R_i" = 50;
-"@MMK_R_lowercaseStraight" = 70;
+"@MMK_R_lowerT" = -40;
+"@MMK_R_lowercaseAscender" = 100;
+"@MMK_R_lowercaseRound" = -60;
+"@MMK_R_lowercaseStraight" = 80;
+"@MMK_R_lowercaseStraightAscender" = 100;
+"@MMK_R_lowercaseStraightDecender" = 90;
+"@MMK_R_lowercaseU" = 70;
+"@MMK_R_lowercaseX" = 80;
+j = -110;
 ohorndotbelow = 10;
+s = 40;
+uhorn = 0;
 uhornacute = 60;
+w = 80;
+y = 90;
+z = 80;
 };
 "@MMK_L_lowercaseRound" = {
 "@MMK_R_dot" = -60;
@@ -547,6 +635,7 @@ z = -80;
 "@MMK_R_lowerT" = -60;
 "@MMK_R_lowercaseRound" = -5;
 "@MMK_R_lowercaseX" = -10;
+"@MMK_R_parenthesis" = -40;
 "@MMK_R_quote" = -50;
 T = -240;
 Y = -200;
@@ -563,6 +652,7 @@ slash = -40;
 "@MMK_R_dot" = -30;
 "@MMK_R_lowercaseRound" = 0;
 "@MMK_R_lowercaseStraight" = 10;
+"@MMK_R_lowercaseU" = 0;
 T = -240;
 Y = -120;
 bracketright = -60;
@@ -645,6 +735,8 @@ z = -90;
 "@MMK_R_uppercaseRound" = -50;
 "@MMK_R_uppercaseStraight" = 20;
 Rho = 10;
+icircumflex = 50;
+igrave = 80;
 one = 10;
 s = -110;
 };
@@ -924,13 +1016,20 @@ T = {
 "@MMK_R_lowercaseStraight" = -160;
 "@MMK_R_lowercaseStraightAscender" = -10;
 "@MMK_R_lowercaseStraightDecender" = -250;
+"@MMK_R_o" = 0;
 "@MMK_R_uppercaseRound" = -80;
 A = -150;
 T = -20;
+abrevetilde = -80;
+ahookabove = -140;
+atilde = -50;
 e = -260;
 eight = -40;
 four = -170;
 j = -210;
+ocircumflextilde = -110;
+ohookabove = -130;
+otilde = -50;
 plus = -160;
 q = -240;
 s = -270;
@@ -1031,6 +1130,9 @@ p = 0;
 "el-cy" = 10;
 "endescender-cy" = 30;
 };
+abrevetilde = {
+T = -80;
+};
 "alef-hb" = {
 "@MMK_R_dot" = -40;
 "vav-hb" = 20;
@@ -1070,6 +1172,9 @@ slash = -30;
 beta = {
 epsilon = -30;
 lambda = -30;
+};
+braceright.case = {
+T = -100;
 };
 c = {
 "@MMK_R_lowercaseRound" = -30;
@@ -1256,6 +1361,13 @@ x = -20;
 };
 iacute = {
 "@MMK_R_lowercaseStraightAscender" = 100;
+"@MMK_R_quote" = 80;
+};
+icircumflex = {
+"@MMK_R_quote" = 50;
+};
+igrave = {
+"@MMK_R_quote" = 0;
 };
 "iishort-cy" = {
 "te-cy" = -10;
@@ -1381,6 +1493,9 @@ sigma = -70;
 o = {
 r = 0;
 s = -30;
+};
+ohorn = {
+"@MMK_R_lowercaseRound" = -70;
 };
 omega = {
 tau = -20;

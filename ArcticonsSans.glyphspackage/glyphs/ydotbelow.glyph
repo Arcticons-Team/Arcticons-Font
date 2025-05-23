@@ -5,16 +5,14 @@ layers = (
 layerId = m002;
 shapes = (
 {
-alignment = -1;
 ref = y;
 },
 {
-alignment = -1;
-pos = (553,0);
+pos = (195,-220);
 ref = dotbelowcomb;
 }
 );
-width = 780;
+width = 600;
 }
 );
 metricLeft = y;

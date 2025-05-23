@@ -1,0 +1,22 @@
+{
+glyphname = "Ha-cy";
+layers = (
+{
+.lastUpdate = 769700944.176;
+anchors = (
+{
+name = bottomright;
+pos = (710,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = X;
+}
+);
+width = 730;
+}
+);
+unicode = 1061;
+}

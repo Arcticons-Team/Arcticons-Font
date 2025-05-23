@@ -1,0 +1,24 @@
+{
+glyphname = udieresisgrave;
+layers = (
+{
+.lastUpdate = 769700930.995;
+layerId = m002;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (20,0);
+ref = dieresiscomb;
+},
+{
+pos = (20,220);
+ref = gravecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 476;
+}

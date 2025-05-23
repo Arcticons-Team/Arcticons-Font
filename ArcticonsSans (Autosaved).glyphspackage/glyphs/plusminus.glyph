@@ -1,0 +1,44 @@
+{
+glyphname = plusminus;
+layers = (
+{
+.lastUpdate = 769701801.029;
+layerId = m002;
+shapes = (
+{
+ref = underscore;
+},
+{
+attr = {
+identifier = ID0x120c5e5a0;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,400,l),
+(600,400,l)
+);
+},
+{
+attr = {
+identifier = ID0x120c5e5a0;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(350,580,l),
+(350,220,l)
+);
+}
+);
+width = 700;
+}
+);
+unicode = 177;
+}

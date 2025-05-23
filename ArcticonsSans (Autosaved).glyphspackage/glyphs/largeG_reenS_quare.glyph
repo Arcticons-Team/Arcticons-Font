@@ -1,0 +1,16 @@
+{
+glyphname = largeGreenSquare;
+layers = (
+{
+.lastUpdate = 769700877.905;
+layerId = m002;
+shapes = (
+{
+ref = blackLargeSquare;
+}
+);
+width = 1120;
+}
+);
+unicode = 129001;
+}

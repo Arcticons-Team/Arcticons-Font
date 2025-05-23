@@ -1,0 +1,16 @@
+{
+glyphname = heavyExclamationSymbol;
+layers = (
+{
+.lastUpdate = 769700836.226;
+layerId = m002;
+shapes = (
+{
+ref = exclam;
+}
+);
+width = 270;
+}
+);
+unicode = 10071;
+}

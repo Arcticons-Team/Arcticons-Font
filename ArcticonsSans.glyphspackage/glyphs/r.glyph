@@ -9,6 +9,10 @@ name = bottom;
 pos = (50,50);
 },
 {
+name = bottom_2;
+pos = (100,50);
+},
+{
 name = top;
 pos = (190,630);
 }

@@ -1,0 +1,17 @@
+{
+glyphname = Beta;
+kernLeft = uppdercaseStraight;
+layers = (
+{
+.lastUpdate = 769700931.054;
+layerId = m002;
+shapes = (
+{
+ref = B;
+}
+);
+width = 730;
+}
+);
+unicode = 914;
+}

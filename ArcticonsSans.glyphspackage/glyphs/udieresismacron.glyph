@@ -1,0 +1,23 @@
+{
+glyphname = udieresismacron;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (20,0);
+ref = dieresiscomb;
+},
+{
+pos = (-30,220);
+ref = macroncomb;
+}
+);
+width = 600;
+}
+);
+unicode = 470;
+}

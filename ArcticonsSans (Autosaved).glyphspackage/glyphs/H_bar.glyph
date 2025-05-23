@@ -1,0 +1,29 @@
+{
+glyphname = Hbar;
+layers = (
+{
+.lastUpdate = 769700928.127;
+layerId = m002;
+shapes = (
+{
+ref = H;
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(20,680,l),
+(690,680,l)
+);
+}
+);
+width = 710;
+}
+);
+unicode = 294;
+}

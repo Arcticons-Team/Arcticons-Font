@@ -1,0 +1,20 @@
+{
+glyphname = Yhookabove;
+layers = (
+{
+.lastUpdate = 769700929.319;
+layerId = m002;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (196,373);
+ref = hookabovecomb;
+}
+);
+width = 730;
+}
+);
+unicode = 7926;
+}

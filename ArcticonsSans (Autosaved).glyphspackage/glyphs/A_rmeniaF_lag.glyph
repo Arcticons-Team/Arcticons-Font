@@ -1,0 +1,17 @@
+{
+export = 0;
+glyphname = ArmeniaFlag;
+lastChange = "2025-05-22 17:22:15 +0000";
+layers = (
+{
+.lastUpdate = 769700877.884;
+layerId = m002;
+shapes = (
+{
+ref = NetherlandsFlag;
+}
+);
+width = 1120;
+}
+);
+}

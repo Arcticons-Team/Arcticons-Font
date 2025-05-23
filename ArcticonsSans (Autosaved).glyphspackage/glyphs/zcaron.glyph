@@ -1,0 +1,22 @@
+{
+glyphname = zcaron;
+kernLeft = lowercaseStraight;
+kernRight = lowercaseStraight;
+layers = (
+{
+.lastUpdate = 769700930.988;
+layerId = m002;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (20,0);
+ref = caroncomb;
+}
+);
+width = 600;
+}
+);
+unicode = 382;
+}

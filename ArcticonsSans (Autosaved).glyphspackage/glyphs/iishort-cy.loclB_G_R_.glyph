@@ -1,0 +1,19 @@
+{
+glyphname = "iishort-cy.loclBGR";
+layers = (
+{
+.lastUpdate = 769700945.07;
+layerId = m002;
+shapes = (
+{
+ref = "ii-cy";
+},
+{
+pos = (60,0);
+ref = "brevecomb-cy";
+}
+);
+width = 600;
+}
+);
+}

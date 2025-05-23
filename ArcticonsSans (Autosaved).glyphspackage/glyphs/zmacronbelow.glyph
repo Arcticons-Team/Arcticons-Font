@@ -1,0 +1,20 @@
+{
+glyphname = zmacronbelow;
+layers = (
+{
+.lastUpdate = 769700930.987;
+layerId = m002;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (-30,0);
+ref = macronbelowcomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7829;
+}

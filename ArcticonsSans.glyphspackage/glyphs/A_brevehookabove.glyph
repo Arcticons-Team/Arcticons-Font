@@ -12,7 +12,8 @@ pos = (86,-1);
 ref = brevecomb.case;
 },
 {
-pos = (197,612);
+anchor = top_2;
+pos = (197,562);
 ref = hookabovecomb;
 }
 );

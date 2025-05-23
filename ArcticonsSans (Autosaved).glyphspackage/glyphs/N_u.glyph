@@ -1,0 +1,16 @@
+{
+glyphname = Nu;
+layers = (
+{
+.lastUpdate = 769700931.054;
+layerId = m002;
+shapes = (
+{
+ref = N;
+}
+);
+width = 730;
+}
+);
+unicode = 925;
+}

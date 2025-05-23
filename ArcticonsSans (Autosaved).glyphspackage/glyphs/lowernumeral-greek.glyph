@@ -1,0 +1,17 @@
+{
+glyphname = "lowernumeral-greek";
+layers = (
+{
+.lastUpdate = 769700879.448;
+layerId = m002;
+shapes = (
+{
+pos = (0,-850);
+ref = quoteleft;
+}
+);
+width = 220;
+}
+);
+unicode = 885;
+}

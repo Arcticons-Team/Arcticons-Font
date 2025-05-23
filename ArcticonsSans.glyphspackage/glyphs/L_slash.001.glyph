@@ -5,20 +5,7 @@ layers = (
 layerId = m002;
 shapes = (
 {
-ref = L;
-},
-{
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(280,580,l),
-(0,450,l)
-);
+ref = Lslash;
 }
 );
 width = 600;

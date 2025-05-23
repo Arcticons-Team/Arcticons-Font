@@ -1,0 +1,24 @@
+{
+glyphname = "o-cy";
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+.lastUpdate = 769700944.746;
+anchors = (
+{
+name = top;
+pos = (300,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = o;
+}
+);
+width = 600;
+}
+);
+unicode = 1086;
+}

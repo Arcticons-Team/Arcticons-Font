@@ -1,0 +1,11 @@
+{
+export = 0;
+glyphname = ruble;
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 8381;
+}

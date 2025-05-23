@@ -1,0 +1,79 @@
+{
+glyphname = registered;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(372,643,l),
+(498,643,l),
+(570,643,o),
+(628,585,o),
+(628,513,c),
+(628,442,o),
+(570,384,o),
+(498,384,c),
+(372,384,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(498,384,l),
+(625,257,l)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(100,671,o),
+(279,850,o),
+(500,850,c),
+(721,850,o),
+(900,671,o),
+(900,450,c),
+(900,229,o),
+(721,50,o),
+(500,50,c),
+(279,50,o),
+(100,229,o),
+(100,450,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(372,257,l),
+(372,643,l)
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 174;
+}

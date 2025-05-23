@@ -1,0 +1,38 @@
+{
+glyphname = zerosuperior;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x15af739a0;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(365,610,o),
+(305,550,o),
+(232,550,c),
+(159,550,o),
+(100,610,o),
+(100,683,c),
+(100,818,l),
+(100,891,o),
+(159,950,o),
+(232,950,c),
+(305,950,o),
+(365,891,o),
+(365,818,c),
+(365,683,l)
+);
+}
+);
+width = 465;
+}
+);
+metricLeft = zero;
+metricRight = zero;
+unicode = 8304;
+}

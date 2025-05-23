@@ -1,0 +1,16 @@
+{
+glyphname = "gershayim-hb";
+layers = (
+{
+.lastUpdate = 769700880.677;
+layerId = m002;
+shapes = (
+{
+ref = quotedblleft;
+}
+);
+width = 400;
+}
+);
+unicode = 1524;
+}

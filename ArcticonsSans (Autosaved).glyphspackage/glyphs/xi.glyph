@@ -1,0 +1,109 @@
+{
+glyphname = xi;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(400,450,l),
+(300,450,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,783,l),
+(451,836,o),
+(404,850,o),
+(300,850,c),
+(190,850,o),
+(100,760,o),
+(100,650,cs),
+(100,539,o),
+(190,450,o),
+(300,450,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(450,-182,l),
+(475,-165,o),
+(493,-139,o),
+(498,-107,cs),
+(510,-43,o),
+(467,18,o),
+(402,29,c),
+(402,29,o),
+(290,49,o),
+(253,56,c),
+(164,71,o),
+(100,156,o),
+(100,250,cs),
+(100,360,o),
+(190,450,o),
+(300,450,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(100,650,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(100,250,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(498,-107,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 958;
+}

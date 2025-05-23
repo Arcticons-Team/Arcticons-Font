@@ -1,0 +1,23 @@
+{
+glyphname = Epsilon;
+kernLeft = uppdercaseStraight;
+layers = (
+{
+.lastUpdate = 769700931.056;
+anchors = (
+{
+name = topleft;
+pos = (20,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = E;
+}
+);
+width = 600;
+}
+);
+unicode = 917;
+}

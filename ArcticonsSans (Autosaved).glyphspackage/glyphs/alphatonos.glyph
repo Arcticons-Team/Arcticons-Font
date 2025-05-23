@@ -1,0 +1,21 @@
+{
+glyphname = alphatonos;
+layers = (
+{
+.lastUpdate = 769700931.056;
+layerId = m002;
+shapes = (
+{
+ref = alpha;
+},
+{
+alignment = -1;
+pos = (150,50);
+ref = tonos;
+}
+);
+width = 680;
+}
+);
+unicode = 940;
+}

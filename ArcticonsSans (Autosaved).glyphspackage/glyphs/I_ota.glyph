@@ -1,0 +1,22 @@
+{
+glyphname = Iota;
+layers = (
+{
+.lastUpdate = 769700931.055;
+anchors = (
+{
+name = topleft;
+pos = (20,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = I;
+}
+);
+width = 220;
+}
+);
+unicode = 921;
+}

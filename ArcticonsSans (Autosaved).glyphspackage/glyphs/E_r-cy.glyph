@@ -1,0 +1,16 @@
+{
+glyphname = "Er-cy";
+layers = (
+{
+.lastUpdate = 769700944.176;
+layerId = m002;
+shapes = (
+{
+ref = P;
+}
+);
+width = 730;
+}
+);
+unicode = 1056;
+}

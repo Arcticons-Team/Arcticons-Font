@@ -1,0 +1,23 @@
+{
+glyphname = ydotbelow;
+lastChange = "2025-05-22 18:41:30 +0000";
+layers = (
+{
+.lastUpdate = 769700930.992;
+layerId = m002;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (195,-220);
+ref = dotbelowcomb;
+}
+);
+width = 600;
+}
+);
+metricLeft = y;
+metricRight = dot;
+unicode = 7925;
+}

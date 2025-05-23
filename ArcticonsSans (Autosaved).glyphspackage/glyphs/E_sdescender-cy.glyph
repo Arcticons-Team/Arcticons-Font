@@ -1,0 +1,17 @@
+{
+export = 0;
+glyphname = "Esdescender-cy";
+layers = (
+{
+.lastUpdate = 769700931.023;
+layerId = m002;
+shapes = (
+{
+ref = Ccedilla;
+}
+);
+width = 730;
+}
+);
+unicode = 1194;
+}

@@ -1,0 +1,54 @@
+{
+glyphname = crescentMoon;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,181,l),
+(122,137,o),
+(151,96,o),
+(188,60,c),
+(367,-120,o),
+(658,-119,o),
+(838,61,c),
+(1018,241,o),
+(1018,531,o),
+(838,710,c),
+(802,747,o),
+(761,776,o),
+(717,798,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(717,798,l),
+(802,626,o),
+(773,413,o),
+(630,270,c),
+(486,126,o),
+(272,96,o),
+(100,181,c)
+);
+}
+);
+width = 1073;
+}
+);
+unicode = 127769;
+}

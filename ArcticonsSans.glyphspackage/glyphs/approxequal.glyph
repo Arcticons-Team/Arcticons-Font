@@ -5,15 +5,15 @@ layers = (
 layerId = m002;
 shapes = (
 {
-pos = (0,134);
+pos = (50,134);
 ref = wavedash;
 },
 {
-pos = (0,-136);
+pos = (50,-136);
 ref = wavedash;
 }
 );
-width = 600;
+width = 700;
 }
 );
 unicode = 8776;

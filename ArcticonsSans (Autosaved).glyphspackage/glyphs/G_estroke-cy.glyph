@@ -1,0 +1,30 @@
+{
+glyphname = "Gestroke-cy";
+layers = (
+{
+.lastUpdate = 769700944.171;
+layerId = m002;
+shapes = (
+{
+pos = (100,0);
+ref = "Ge-cy";
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,450,l),
+(600,450,l)
+);
+}
+);
+width = 820;
+}
+);
+unicode = 1170;
+}

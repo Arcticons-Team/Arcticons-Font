@@ -1,0 +1,19 @@
+{
+glyphname = Ydotaccent;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (260,-1);
+ref = dotaccentcomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 7822;
+}

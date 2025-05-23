@@ -1,0 +1,18 @@
+{
+glyphname = "schwa-cy";
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+.lastUpdate = 769700945.035;
+layerId = m002;
+shapes = (
+{
+ref = schwa;
+}
+);
+width = 600;
+}
+);
+unicode = 1241;
+}

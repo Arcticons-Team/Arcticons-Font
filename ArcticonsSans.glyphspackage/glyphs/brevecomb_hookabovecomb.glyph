@@ -8,7 +8,8 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (111,373);
+anchor = top_2;
+pos = (111,319);
 ref = hookabovecomb;
 }
 );

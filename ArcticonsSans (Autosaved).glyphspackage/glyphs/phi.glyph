@@ -1,0 +1,16 @@
+{
+glyphname = phi;
+layers = (
+{
+.lastUpdate = 769700931.056;
+layerId = m002;
+shapes = (
+{
+ref = "ef-cy";
+}
+);
+width = 930;
+}
+);
+unicode = 966;
+}

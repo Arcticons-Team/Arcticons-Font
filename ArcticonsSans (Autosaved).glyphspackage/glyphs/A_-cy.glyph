@@ -1,0 +1,16 @@
+{
+glyphname = "A-cy";
+layers = (
+{
+.lastUpdate = 769700931.026;
+layerId = m002;
+shapes = (
+{
+ref = A;
+}
+);
+width = 732;
+}
+);
+unicode = 1040;
+}

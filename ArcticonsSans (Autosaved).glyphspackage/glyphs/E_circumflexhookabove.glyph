@@ -1,0 +1,26 @@
+{
+glyphname = Ecircumflexhookabove;
+lastChange = "2025-05-22 19:13:09 +0000";
+layers = (
+{
+.lastUpdate = 769700928.136;
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (20,0);
+ref = circumflexcomb.case;
+},
+{
+anchor = top_viet;
+pos = (285,489);
+ref = hookabovecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7874;
+}

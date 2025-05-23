@@ -1,0 +1,16 @@
+{
+glyphname = whiteSmilingFace;
+layers = (
+{
+.lastUpdate = 769700836.227;
+layerId = m002;
+shapes = (
+{
+ref = slightlySmilingFace;
+}
+);
+width = 1120;
+}
+);
+unicode = 9786;
+}

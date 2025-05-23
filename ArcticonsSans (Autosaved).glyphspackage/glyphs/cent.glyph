@@ -1,0 +1,42 @@
+{
+glyphname = cent;
+layers = (
+{
+.lastUpdate = 769700836.227;
+layerId = m002;
+shapes = (
+{
+ref = c;
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(290,41,l),
+(290,-50,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(290,680,l),
+(290,592,l)
+);
+}
+);
+width = 574;
+}
+);
+unicode = 162;
+}

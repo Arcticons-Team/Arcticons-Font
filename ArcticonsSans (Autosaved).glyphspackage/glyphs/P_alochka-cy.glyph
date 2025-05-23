@@ -1,0 +1,16 @@
+{
+glyphname = "Palochka-cy";
+layers = (
+{
+.lastUpdate = 769700931.034;
+layerId = m002;
+shapes = (
+{
+ref = I;
+}
+);
+width = 220;
+}
+);
+unicode = 1216;
+}

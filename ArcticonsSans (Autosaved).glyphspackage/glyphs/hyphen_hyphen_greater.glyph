@@ -1,0 +1,16 @@
+{
+glyphname = hyphen_hyphen_greater;
+lastChange = "2025-05-23 09:05:24 +0000";
+layers = (
+{
+.lastUpdate = 769700879.994;
+layerId = m002;
+shapes = (
+{
+ref = rightLongArrow;
+}
+);
+width = 1450;
+}
+);
+}

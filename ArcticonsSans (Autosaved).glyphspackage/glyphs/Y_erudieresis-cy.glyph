@@ -1,0 +1,20 @@
+{
+glyphname = "Yerudieresis-cy";
+layers = (
+{
+.lastUpdate = 769700931.031;
+layerId = m002;
+shapes = (
+{
+ref = "Yeru-cy";
+},
+{
+pos = (180,-1);
+ref = dieresiscomb.case;
+}
+);
+width = 920;
+}
+);
+unicode = 1272;
+}

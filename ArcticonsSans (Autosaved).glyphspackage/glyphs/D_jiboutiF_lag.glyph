@@ -1,0 +1,17 @@
+{
+export = 0;
+glyphname = DjiboutiFlag;
+lastChange = "2025-05-22 17:22:15 +0000";
+layers = (
+{
+.lastUpdate = 769700877.873;
+layerId = m002;
+shapes = (
+{
+ref = SouthAfricaFlag;
+}
+);
+width = 1120;
+}
+);
+}

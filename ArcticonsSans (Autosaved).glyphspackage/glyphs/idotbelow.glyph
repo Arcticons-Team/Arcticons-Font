@@ -1,0 +1,23 @@
+{
+glyphname = idotbelow;
+layers = (
+{
+.lastUpdate = 769700929.602;
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+ref = dotaccentcomb;
+},
+{
+pos = (0,50);
+ref = dotbelowcomb;
+}
+);
+width = 210;
+}
+);
+unicode = 7883;
+}

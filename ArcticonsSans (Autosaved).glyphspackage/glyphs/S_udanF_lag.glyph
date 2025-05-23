@@ -1,0 +1,17 @@
+{
+export = 0;
+glyphname = SudanFlag;
+lastChange = "2025-05-22 17:22:15 +0000";
+layers = (
+{
+.lastUpdate = 769700876.988;
+layerId = m002;
+shapes = (
+{
+ref = PalestinianTerritoriesFlag;
+}
+);
+width = 1120;
+}
+);
+}

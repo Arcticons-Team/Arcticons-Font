@@ -1,0 +1,38 @@
+{
+glyphname = wavedash;
+kernLeft = dash;
+kernRight = dash;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,365,l),
+(500,310,o),
+(455,265,o),
+(399,265,c),
+(338,265,o),
+(319,297,o),
+(300,315,c),
+(281,333,o),
+(262,365,o),
+(200,365,c),
+(145,365,o),
+(100,320,o),
+(100,265,c)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 12316;
+}

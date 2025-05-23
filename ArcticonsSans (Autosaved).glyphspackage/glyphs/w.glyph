@@ -1,0 +1,75 @@
+{
+glyphname = w;
+lastChange = "2025-05-22 19:14:36 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (430,50);
+},
+{
+name = top;
+pos = (430,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(430,580,l),
+(265,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(760,580,l),
+(595,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(595,50,l),
+(430,580,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(265,50,l),
+(100,580,l)
+);
+}
+);
+width = 860;
+}
+);
+unicode = 119;
+}

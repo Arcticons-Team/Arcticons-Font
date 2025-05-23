@@ -1,0 +1,20 @@
+{
+glyphname = hbrevebelow;
+layers = (
+{
+.lastUpdate = 769700929.596;
+layerId = m002;
+shapes = (
+{
+ref = h;
+},
+{
+pos = (20,0);
+ref = brevebelowcomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7723;
+}

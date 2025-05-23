@@ -1,0 +1,26 @@
+{
+glyphname = Acircumflexgrave;
+lastChange = "2025-05-23 08:09:55 +0000";
+layers = (
+{
+.lastUpdate = 769700928.141;
+layerId = m002;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (86,0);
+ref = circumflexcomb.case;
+},
+{
+alignment = -1;
+pos = (205,164);
+ref = gravecomb.case;
+}
+);
+width = 732;
+}
+);
+unicode = 7846;
+}

@@ -1,0 +1,101 @@
+{
+export = 0;
+glyphname = SwitzerlandFlag;
+lastChange = "2025-05-22 17:22:15 +0000";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(560,520,l),
+(560,280,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(440,379,l),
+(680,421,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(280,91,l),
+(280,651,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(280,91,l),
+(295,90,o),
+(312,90,o),
+(330,90,c),
+(530,90,o),
+(590,150,o),
+(790,150,c),
+(808,150,o),
+(825,150,o),
+(840,149,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(280,651,l),
+(295,650,o),
+(312,650,o),
+(330,650,c),
+(530,650,o),
+(590,710,o),
+(790,710,c),
+(808,710,o),
+(825,710,o),
+(840,709,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(840,149,l),
+(840,709,l)
+);
+}
+);
+width = 1120;
+}
+);
+}

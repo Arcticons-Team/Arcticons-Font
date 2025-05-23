@@ -1,0 +1,58 @@
+{
+glyphname = circumflexcomb;
+lastChange = "2025-05-22 19:02:32 +0000";
+layers = (
+{
+.lastUpdate = 769633353.584;
+anchors = (
+{
+name = _top;
+pos = (280,630);
+},
+{
+name = top;
+pos = (280,845);
+},
+{
+name = top_left;
+pos = (190,805);
+},
+{
+name = top_right;
+pos = (370,805);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(190,745,l),
+(280,795,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(280,795,l),
+(370,745,l)
+);
+}
+);
+width = 530;
+}
+);
+unicode = 770;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = ohookabove;
+lastChange = "2025-05-22 18:44:57 +0000";
+layers = (
+{
+.lastUpdate = 769700929.625;
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (131,103);
+ref = hookabovecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7887;
+}

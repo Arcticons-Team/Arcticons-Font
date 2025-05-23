@@ -1,0 +1,21 @@
+{
+glyphname = epsilontonos;
+layers = (
+{
+.lastUpdate = 769700931.058;
+layerId = m002;
+shapes = (
+{
+ref = epsilon;
+},
+{
+alignment = -1;
+pos = (105,50);
+ref = tonos;
+}
+);
+width = 550;
+}
+);
+unicode = 941;
+}

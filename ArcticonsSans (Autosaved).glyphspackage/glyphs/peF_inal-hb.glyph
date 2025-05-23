@@ -1,0 +1,80 @@
+{
+glyphname = "peFinal-hb";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (350,0);
+},
+{
+name = bottomleft;
+pos = (20,0);
+},
+{
+name = center;
+pos = (350,508);
+},
+{
+name = top;
+pos = (350,1015);
+},
+{
+name = topleft;
+pos = (20,1015);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(600,-165,l),
+(600,435,l),
+(600,674,o),
+(484,795,o),
+(340,795,cs),
+(207,795,o),
+(100,688,o),
+(100,555,cs),
+(100,435,o),
+(188,336,o),
+(303,318,c)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(340,795,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(100,555,l)
+);
+}
+);
+width = 700;
+}
+);
+unicode = 1507;
+}

@@ -1,5 +1,6 @@
 {
 glyphname = uhornacute;
+kernLeft = lowercaseU;
 kernRight = lowercaseHorn;
 layers = (
 {

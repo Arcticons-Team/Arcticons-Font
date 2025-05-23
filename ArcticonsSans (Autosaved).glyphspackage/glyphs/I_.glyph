@@ -1,0 +1,45 @@
+{
+glyphname = I;
+kernLeft = uppercaseStraight;
+kernRight = uppercaseStraight;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (110,50);
+},
+{
+name = ogonek;
+pos = (160,100);
+},
+{
+name = top;
+pos = (110,900);
+},
+{
+name = topleft;
+pos = (20,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(110,850,l),
+(110,50,l)
+);
+}
+);
+width = 220;
+}
+);
+unicode = 73;
+}

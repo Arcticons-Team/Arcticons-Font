@@ -10,6 +10,14 @@ pos = (280,630);
 {
 name = top;
 pos = (280,845);
+},
+{
+name = top_left;
+pos = (190,805);
+},
+{
+name = top_right;
+pos = (370,805);
 }
 );
 layerId = m002;

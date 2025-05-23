@@ -1,0 +1,20 @@
+{
+glyphname = ymacron;
+layers = (
+{
+.lastUpdate = 769700930.994;
+layerId = m002;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (-30,0);
+ref = macroncomb;
+}
+);
+width = 600;
+}
+);
+unicode = 563;
+}

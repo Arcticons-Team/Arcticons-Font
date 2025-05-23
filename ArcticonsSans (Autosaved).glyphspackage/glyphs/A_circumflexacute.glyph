@@ -1,0 +1,26 @@
+{
+glyphname = Acircumflexacute;
+lastChange = "2025-05-23 08:10:30 +0000";
+layers = (
+{
+.lastUpdate = 769700928.134;
+layerId = m002;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (86,0);
+ref = circumflexcomb.case;
+},
+{
+alignment = -1;
+pos = (-160,157);
+ref = acutecomb.case;
+}
+);
+width = 732;
+}
+);
+unicode = 7844;
+}

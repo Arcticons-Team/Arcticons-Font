@@ -1,0 +1,20 @@
+{
+glyphname = Zcaron;
+layers = (
+{
+.lastUpdate = 769700929.317;
+layerId = m002;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (85,-1);
+ref = caroncomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 381;
+}

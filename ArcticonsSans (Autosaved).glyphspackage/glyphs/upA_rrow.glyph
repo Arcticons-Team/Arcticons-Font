@@ -1,0 +1,18 @@
+{
+glyphname = upArrow;
+layers = (
+{
+.lastUpdate = 769700837.624;
+layerId = m002;
+shapes = (
+{
+angle = 90;
+pos = (680,-135);
+ref = rightArrow;
+}
+);
+width = 730;
+}
+);
+unicode = 8593;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = uhorndotbelow;
+kernLeft = lowercaseU;
+kernRight = lowercaseHorn;
+lastChange = "2025-05-22 19:17:06 +0000";
+layers = (
+{
+.lastUpdate = 769700930.999;
+layerId = m002;
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (195,50);
+ref = dotbelowcomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7921;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = Ohorngrave;
+layers = (
+{
+.lastUpdate = 769700929.042;
+layerId = m002;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (35,0);
+ref = gravecomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 7900;
+}

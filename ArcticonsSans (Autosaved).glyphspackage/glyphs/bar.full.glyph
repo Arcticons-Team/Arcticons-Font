@@ -1,0 +1,17 @@
+{
+glyphname = bar.full;
+layers = (
+{
+.lastUpdate = 769700821.653;
+layerId = m002;
+shapes = (
+{
+pos = (400,0);
+ref = bar;
+}
+);
+width = 1000;
+}
+);
+unicode = 65372;
+}

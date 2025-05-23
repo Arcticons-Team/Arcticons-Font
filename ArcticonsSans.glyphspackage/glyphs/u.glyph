@@ -1,5 +1,6 @@
 {
 glyphname = u;
+kernLeft = lowercaseU;
 kernRight = lowercaseStraight;
 layers = (
 {

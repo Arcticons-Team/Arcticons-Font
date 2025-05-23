@@ -1,0 +1,16 @@
+{
+glyphname = "Ve-cy";
+layers = (
+{
+.lastUpdate = 769700944.177;
+layerId = m002;
+shapes = (
+{
+ref = B;
+}
+);
+width = 730;
+}
+);
+unicode = 1042;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = Upsilon;
+layers = (
+{
+.lastUpdate = 769700931.057;
+anchors = (
+{
+name = top;
+pos = (365,900);
+},
+{
+name = topleft;
+pos = (20,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = Y;
+}
+);
+width = 730;
+}
+);
+unicode = 933;
+}

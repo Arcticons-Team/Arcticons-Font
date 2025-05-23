@@ -1,0 +1,17 @@
+{
+export = 0;
+glyphname = LuxembourgFlag;
+lastChange = "2025-05-22 17:22:15 +0000";
+layers = (
+{
+.lastUpdate = 769700877.471;
+layerId = m002;
+shapes = (
+{
+ref = NetherlandsFlag;
+}
+);
+width = 1120;
+}
+);
+}

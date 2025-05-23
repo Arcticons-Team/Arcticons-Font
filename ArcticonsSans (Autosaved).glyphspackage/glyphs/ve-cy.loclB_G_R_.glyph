@@ -1,0 +1,15 @@
+{
+glyphname = "ve-cy.loclBGR";
+layers = (
+{
+.lastUpdate = 769700945.069;
+layerId = m002;
+shapes = (
+{
+ref = "ve-cy";
+}
+);
+width = 600;
+}
+);
+}

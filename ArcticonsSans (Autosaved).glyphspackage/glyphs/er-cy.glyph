@@ -1,0 +1,24 @@
+{
+glyphname = "er-cy";
+kernLeft = lowercaseStraight;
+kernRight = lowercaseRound;
+layers = (
+{
+.lastUpdate = 769700944.743;
+anchors = (
+{
+name = top;
+pos = (300,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = p;
+}
+);
+width = 600;
+}
+);
+unicode = 1088;
+}

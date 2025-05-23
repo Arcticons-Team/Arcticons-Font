@@ -5,11 +5,19 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (280,901);
+pos = (280,900);
 },
 {
 name = top;
-pos = (280,1117);
+pos = (280,1116);
+},
+{
+name = top_left;
+pos = (190,1076);
+},
+{
+name = top_right;
+pos = (371,1076);
 },
 {
 name = top_viet;
@@ -19,30 +27,8 @@ pos = (434,1016);
 layerId = m002;
 shapes = (
 {
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(190,1016,l),
-(280,1066,l)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(280,1066,l),
-(370,1016,l)
-);
+pos = (0,271);
+ref = circumflexcomb;
 }
 );
 width = 530;

@@ -1,0 +1,38 @@
+{
+glyphname = Ohorn;
+layers = (
+{
+.lastUpdate = 769700929.037;
+anchors = (
+{
+name = horn;
+pos = (557,850);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(365,850,l),
+(567,850,l),
+(641,850,o),
+(698,869,o),
+(688,964,cs)
+);
+}
+);
+width = 730;
+}
+);
+unicode = 416;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = gbreve;
+kernLeft = lowercaseRound;
+kernRight = lowercaseStraight;
+layers = (
+{
+.lastUpdate = 769700929.602;
+layerId = m002;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (20,0);
+ref = brevecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 287;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = ntilde;
+kernLeft = lowercaseStraight;
+kernRight = lowercaseRounding;
+layers = (
+{
+.lastUpdate = 769700929.622;
+layerId = m002;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (20,0);
+ref = tildecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 241;
+}

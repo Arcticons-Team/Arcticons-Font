@@ -1,0 +1,22 @@
+{
+glyphname = Ecircumflex;
+kernLeft = uppercaseStraight;
+lastChange = "2025-05-22 19:13:09 +0000";
+layers = (
+{
+.lastUpdate = 769700928.141;
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (20,0);
+ref = circumflexcomb.case;
+}
+);
+width = 600;
+}
+);
+unicode = 202;
+}

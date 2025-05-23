@@ -1,0 +1,21 @@
+{
+glyphname = Etilde;
+kernLeft = uppercaseStraight;
+layers = (
+{
+.lastUpdate = 769700928.129;
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (20,-1);
+ref = tildecomb.case;
+}
+);
+width = 600;
+}
+);
+unicode = 7868;
+}

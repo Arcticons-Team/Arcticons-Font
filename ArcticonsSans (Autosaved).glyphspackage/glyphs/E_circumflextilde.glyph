@@ -1,0 +1,25 @@
+{
+glyphname = Ecircumflextilde;
+lastChange = "2025-05-22 19:13:09 +0000";
+layers = (
+{
+.lastUpdate = 769700928.139;
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (20,0);
+ref = circumflexcomb.case;
+},
+{
+pos = (20,215);
+ref = tildecomb.case;
+}
+);
+width = 600;
+}
+);
+unicode = 7876;
+}

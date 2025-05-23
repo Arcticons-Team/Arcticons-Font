@@ -1,0 +1,22 @@
+{
+glyphname = Ccedilla;
+kernLeft = uppercaseRound;
+kernRight = uppercaseRound;
+layers = (
+{
+.lastUpdate = 769700928.139;
+layerId = m002;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (136,0);
+ref = cedillacomb;
+}
+);
+width = 730;
+}
+);
+unicode = 199;
+}

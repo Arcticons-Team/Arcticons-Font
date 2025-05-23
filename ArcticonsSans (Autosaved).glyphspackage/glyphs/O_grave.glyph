@@ -1,0 +1,22 @@
+{
+glyphname = Ograve;
+kernLeft = uppercaseRound;
+kernRight = uppercaseRound;
+layers = (
+{
+.lastUpdate = 769700929.044;
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (35,0);
+ref = gravecomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 210;
+}

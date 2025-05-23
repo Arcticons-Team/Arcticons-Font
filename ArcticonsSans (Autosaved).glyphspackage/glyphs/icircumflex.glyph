@@ -1,0 +1,21 @@
+{
+glyphname = icircumflex;
+lastChange = "2025-05-23 06:35:38 +0000";
+layers = (
+{
+.lastUpdate = 769700929.599;
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-175,0);
+ref = circumflexcomb;
+}
+);
+width = 210;
+}
+);
+unicode = 238;
+}

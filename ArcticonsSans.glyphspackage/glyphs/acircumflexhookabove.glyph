@@ -6,6 +6,10 @@ layerId = m002;
 shapes = (
 {
 ref = a;
+},
+{
+pos = (20,0);
+ref = circumflexcomb_hookabovecomb;
 }
 );
 width = 600;

@@ -1,0 +1,19 @@
+{
+glyphname = "gje-cy.loclMKD";
+layers = (
+{
+.lastUpdate = 769700945.086;
+layerId = m002;
+shapes = (
+{
+ref = "ge-cy";
+},
+{
+pos = (-87,0);
+ref = acutecomb;
+}
+);
+width = 550;
+}
+);
+}

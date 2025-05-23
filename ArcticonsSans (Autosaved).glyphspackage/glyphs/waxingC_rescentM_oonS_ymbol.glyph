@@ -1,0 +1,53 @@
+{
+glyphname = waxingCrescentMoonSymbol;
+kernLeft = emojiRound;
+kernRight = emojiRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(815,-70,o),
+(1020,136,o),
+(1020,391,c),
+(1020,645,o),
+(815,850,o),
+(561,850,c),
+(306,850,o),
+(100,645,o),
+(100,391,c),
+(100,136,o),
+(306,-70,o),
+(561,-70,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(414,826,l),
+(595,765,o),
+(725,593,o),
+(725,391,c),
+(725,188,o),
+(595,16,o),
+(414,-46,c)
+);
+}
+);
+width = 1120;
+}
+);
+unicode = 127762;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = cornerbracketright;
+layers = (
+{
+.lastUpdate = 769700879.904;
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (559,739);
+ref = cornerbracketleft;
+}
+);
+width = 559;
+}
+);
+unicode = 12301;
+}

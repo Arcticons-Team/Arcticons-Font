@@ -1,0 +1,20 @@
+{
+glyphname = Iotadieresis;
+layers = (
+{
+.lastUpdate = 769700931.061;
+layerId = m002;
+shapes = (
+{
+ref = Iota;
+},
+{
+pos = (-170,-1);
+ref = dieresiscomb.case;
+}
+);
+width = 220;
+}
+);
+unicode = 938;
+}

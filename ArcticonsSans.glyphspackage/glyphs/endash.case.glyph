@@ -1,0 +1,27 @@
+{
+color = 10;
+glyphname = endash.case;
+kernLeft = dash;
+kernRight = dash;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,450,l),
+(600,450,l)
+);
+}
+);
+width = 700;
+}
+);
+}

@@ -1,0 +1,88 @@
+{
+glyphname = oe;
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (500,0);
+},
+{
+name = top;
+pos = (500,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,250,l),
+(500,140,o),
+(411,50,o),
+(300,50,c),
+(190,50,o),
+(100,140,o),
+(100,250,c),
+(100,380,l),
+(100,490,o),
+(190,580,o),
+(300,580,c),
+(411,580,o),
+(500,490,o),
+(500,380,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(900,315,l),
+(500,315,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(874,151,l),
+(840,91,o),
+(775,50,o),
+(700,50,c),
+(590,50,o),
+(500,140,o),
+(500,250,c),
+(500,380,l),
+(500,490,o),
+(590,580,o),
+(700,580,c),
+(811,580,o),
+(900,490,o),
+(900,380,c),
+(900,315,l)
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 339;
+}

@@ -1,5 +1,6 @@
 {
 glyphname = uhorntilde;
+kernLeft = lowercaseU;
 kernRight = lowercaseHorn;
 layers = (
 {

@@ -1,0 +1,19 @@
+{
+glyphname = brevecomb_acutecomb;
+layers = (
+{
+.lastUpdate = 769700931.199;
+layerId = m002;
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (-82,270);
+ref = acutecomb;
+}
+);
+width = 560;
+}
+);
+}

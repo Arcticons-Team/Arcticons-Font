@@ -1,0 +1,20 @@
+{
+glyphname = "imacron-cy";
+layers = (
+{
+.lastUpdate = 769700945.054;
+layerId = m002;
+shapes = (
+{
+ref = "ii-cy";
+},
+{
+pos = (-30,0);
+ref = macroncomb;
+}
+);
+width = 600;
+}
+);
+unicode = 1251;
+}

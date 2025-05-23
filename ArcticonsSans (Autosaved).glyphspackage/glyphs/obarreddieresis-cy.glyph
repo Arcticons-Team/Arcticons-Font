@@ -1,0 +1,20 @@
+{
+glyphname = "obarreddieresis-cy";
+layers = (
+{
+.lastUpdate = 769700945.052;
+layerId = m002;
+shapes = (
+{
+ref = "obarred-cy";
+},
+{
+pos = (20,0);
+ref = dieresiscomb;
+}
+);
+width = 600;
+}
+);
+unicode = 1259;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = tortoiseshellbracketright;
+kernLeft = parenthesis;
+layers = (
+{
+.lastUpdate = 769700879.905;
+layerId = m002;
+shapes = (
+{
+pos = (360,0);
+ref = tortoiseshellbracketleft;
+scale = (-1,1);
+}
+);
+width = 360;
+}
+);
+unicode = 12309;
+}

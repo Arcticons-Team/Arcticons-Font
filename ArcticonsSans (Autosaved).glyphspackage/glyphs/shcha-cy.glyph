@@ -1,0 +1,43 @@
+{
+glyphname = "shcha-cy";
+kernLeft = lowercaseStraight;
+layers = (
+{
+.lastUpdate = 769700944.759;
+layerId = m002;
+shapes = (
+{
+ref = "sha-cy";
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(837,50,l),
+(837,-67,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(737,50,l),
+(837,50,l)
+);
+}
+);
+width = 937;
+}
+);
+unicode = 1097;
+}

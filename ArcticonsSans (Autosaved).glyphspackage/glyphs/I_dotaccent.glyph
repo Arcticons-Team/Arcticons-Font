@@ -1,0 +1,20 @@
+{
+glyphname = Idotaccent;
+layers = (
+{
+.lastUpdate = 769700928.142;
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (5,-1);
+ref = dotaccentcomb.case;
+}
+);
+width = 220;
+}
+);
+unicode = 304;
+}

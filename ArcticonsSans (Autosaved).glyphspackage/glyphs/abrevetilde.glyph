@@ -1,0 +1,25 @@
+{
+glyphname = abrevetilde;
+lastChange = "2025-05-22 18:28:31 +0000";
+layers = (
+{
+.lastUpdate = 769700929.352;
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (20,0);
+ref = brevecomb;
+},
+{
+pos = (20,270);
+ref = tildecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7861;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = idieresis;
+layers = (
+{
+.lastUpdate = 769700929.605;
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-175,0);
+ref = dieresiscomb;
+}
+);
+width = 210;
+}
+);
+unicode = 239;
+}

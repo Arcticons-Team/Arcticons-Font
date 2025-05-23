@@ -1,0 +1,22 @@
+{
+glyphname = Gdotaccent;
+kernLeft = uppercaseRound;
+kernRight = uppercaseRound;
+layers = (
+{
+.lastUpdate = 769700928.142;
+layerId = m002;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (260,-1);
+ref = dotaccentcomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 288;
+}

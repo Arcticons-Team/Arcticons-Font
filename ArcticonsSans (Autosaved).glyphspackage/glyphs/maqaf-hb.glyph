@@ -1,0 +1,25 @@
+{
+glyphname = "maqaf-hb";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(80,795,l),
+(361,795,l)
+);
+}
+);
+width = 441;
+}
+);
+unicode = 1470;
+}

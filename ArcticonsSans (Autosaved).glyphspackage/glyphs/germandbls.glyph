@@ -1,0 +1,65 @@
+{
+glyphname = germandbls;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (300,1015);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(264,51,l),
+(275,50,o),
+(288,50,o),
+(300,50,c),
+(410,50,o),
+(500,140,o),
+(500,250,c),
+(500,360,o),
+(410,450,o),
+(300,450,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,50,l),
+(100,650,l),
+(100,760,o),
+(189,850,o),
+(300,850,c),
+(410,850,o),
+(500,760,o),
+(500,650,c),
+(500,539,o),
+(410,450,o),
+(300,450,c)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 223;
+}

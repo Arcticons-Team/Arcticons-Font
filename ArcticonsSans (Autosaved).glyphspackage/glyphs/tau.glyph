@@ -1,0 +1,56 @@
+{
+glyphname = tau;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,580,l),
+(500,580,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,85,l),
+(479,63,o),
+(450,50,o),
+(417,50,cs),
+(353,50,o),
+(300,103,o),
+(300,168,c),
+(300,580,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(417,50,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 964;
+}

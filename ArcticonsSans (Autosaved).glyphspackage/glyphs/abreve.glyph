@@ -1,0 +1,22 @@
+{
+glyphname = abreve;
+kernLeft = lowercaseRound;
+kernRight = lowercaseStraight;
+layers = (
+{
+.lastUpdate = 769700929.35;
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (20,0);
+ref = brevecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 259;
+}

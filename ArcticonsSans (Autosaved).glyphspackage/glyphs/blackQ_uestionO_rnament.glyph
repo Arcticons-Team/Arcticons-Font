@@ -1,0 +1,16 @@
+{
+glyphname = blackQuestionOrnament;
+layers = (
+{
+.lastUpdate = 769700836.228;
+layerId = m002;
+shapes = (
+{
+ref = question;
+}
+);
+width = 640;
+}
+);
+unicode = 10067;
+}

@@ -12,7 +12,8 @@ pos = (20,0);
 ref = circumflexcomb;
 },
 {
-pos = (20,215);
+anchor = top_right;
+pos = (110,175);
 ref = gravecomb;
 }
 );

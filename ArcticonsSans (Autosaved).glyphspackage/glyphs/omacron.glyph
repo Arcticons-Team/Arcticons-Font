@@ -1,0 +1,22 @@
+{
+glyphname = omacron;
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+.lastUpdate = 769700930.956;
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (-30,0);
+ref = macroncomb;
+}
+);
+width = 600;
+}
+);
+unicode = 333;
+}

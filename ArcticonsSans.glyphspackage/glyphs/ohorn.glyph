@@ -1,5 +1,6 @@
 {
 glyphname = ohorn;
+kernLeft = lowercaseRound;
 layers = (
 {
 anchors = (
@@ -66,7 +67,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 670;
 }
 );
 unicode = 417;

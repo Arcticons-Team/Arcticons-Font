@@ -1,0 +1,17 @@
+{
+glyphname = Rho;
+kernLeft = uppercaseStraight;
+layers = (
+{
+.lastUpdate = 769700931.053;
+layerId = m002;
+shapes = (
+{
+ref = P;
+}
+);
+width = 730;
+}
+);
+unicode = 929;
+}

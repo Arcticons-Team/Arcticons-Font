@@ -1,0 +1,42 @@
+{
+glyphname = seveninferior;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x15af83a20;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(365,350,l),
+(100,350,l)
+);
+},
+{
+attr = {
+identifier = ID0x15af83a20;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(150,-50,l),
+(365,350,l)
+);
+}
+);
+width = 445;
+}
+);
+metricLeft = seven;
+metricRight = seven;
+unicode = 8327;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Sdotbelow;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (190,50);
+ref = dotbelowcomb;
+}
+);
+width = 660;
+}
+);
+unicode = 7778;
+}

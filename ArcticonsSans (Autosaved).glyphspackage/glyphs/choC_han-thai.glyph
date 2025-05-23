@@ -1,0 +1,62 @@
+{
+export = 0;
+glyphname = "choChan-thai";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(279,315,l),
+(161,315,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,582,l),
+(160,612,o),
+(234,630,o),
+(314,630,c),
+(466,630,o),
+(590,507,o),
+(590,355,c),
+(590,276,l),
+(590,124,o),
+(466,0,o),
+(314,0,c),
+(279,0,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(279,0,l),
+(279,315,l)
+);
+}
+);
+width = 690;
+}
+);
+unicode = 3592;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = Cacute;
+kernLeft = uppercaseRound;
+kernRight = uppercaseRound;
+layers = (
+{
+.lastUpdate = 769700928.126;
+layerId = m002;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (47,0);
+ref = acutecomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 262;
+}

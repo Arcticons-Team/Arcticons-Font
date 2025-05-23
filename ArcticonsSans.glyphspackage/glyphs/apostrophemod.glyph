@@ -1,10 +1,14 @@
 {
-export = 0;
 glyphname = apostrophemod;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = quoteright;
+}
+);
+width = 220;
 }
 );
 unicode = 700;

@@ -1,0 +1,15 @@
+{
+glyphname = "sha-cy.loclSRB";
+layers = (
+{
+.lastUpdate = 769700945.084;
+layerId = m002;
+shapes = (
+{
+ref = "sha-cy";
+}
+);
+width = 860;
+}
+);
+}

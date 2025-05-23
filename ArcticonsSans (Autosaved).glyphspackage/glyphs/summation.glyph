@@ -1,0 +1,16 @@
+{
+glyphname = summation;
+layers = (
+{
+.lastUpdate = 769700821.653;
+layerId = m002;
+shapes = (
+{
+ref = Sigma;
+}
+);
+width = 730;
+}
+);
+unicode = 8721;
+}

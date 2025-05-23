@@ -1,0 +1,21 @@
+{
+glyphname = ytilde;
+kernRight = lowercaseStraight;
+layers = (
+{
+.lastUpdate = 769700930.995;
+layerId = m002;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (20,0);
+ref = tildecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7929;
+}

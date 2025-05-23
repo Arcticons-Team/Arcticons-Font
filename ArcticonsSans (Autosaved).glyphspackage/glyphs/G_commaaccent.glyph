@@ -1,0 +1,22 @@
+{
+glyphname = Gcommaaccent;
+kernLeft = uppercaseRound;
+kernRight = uppercaseRound;
+layers = (
+{
+.lastUpdate = 769700928.14;
+layerId = m002;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (34,0);
+ref = commaaccentcomb;
+}
+);
+width = 730;
+}
+);
+unicode = 290;
+}

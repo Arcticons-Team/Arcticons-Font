@@ -1,0 +1,29 @@
+{
+glyphname = lslash;
+layers = (
+{
+.lastUpdate = 769700929.623;
+layerId = m002;
+shapes = (
+{
+ref = l;
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(220,480,l),
+(-20,420,l)
+);
+}
+);
+width = 330;
+}
+);
+unicode = 322;
+}

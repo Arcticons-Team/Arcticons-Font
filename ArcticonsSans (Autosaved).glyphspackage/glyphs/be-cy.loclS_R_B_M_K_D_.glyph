@@ -1,0 +1,16 @@
+{
+export = 0;
+glyphname = "be-cy.loclSRBMKD";
+layers = (
+{
+.lastUpdate = 769700945.36;
+layerId = m002;
+shapes = (
+{
+ref = "be-cy";
+}
+);
+width = 730;
+}
+);
+}

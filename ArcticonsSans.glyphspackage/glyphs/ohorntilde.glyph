@@ -1,5 +1,7 @@
 {
 glyphname = ohorntilde;
+kernLeft = lowercaseRound;
+kernRight = lowercaseHorn;
 layers = (
 {
 layerId = m002;
@@ -12,7 +14,7 @@ pos = (20,0);
 ref = tildecomb;
 }
 );
-width = 600;
+width = 670;
 }
 );
 unicode = 7905;

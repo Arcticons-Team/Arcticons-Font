@@ -1,0 +1,20 @@
+{
+glyphname = Hdotbelow;
+layers = (
+{
+.lastUpdate = 769700928.129;
+layerId = m002;
+shapes = (
+{
+ref = H;
+},
+{
+pos = (250,50);
+ref = dotbelowcomb;
+}
+);
+width = 710;
+}
+);
+unicode = 7716;
+}

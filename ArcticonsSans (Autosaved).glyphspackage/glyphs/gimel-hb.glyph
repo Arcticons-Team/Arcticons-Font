@@ -1,0 +1,71 @@
+{
+glyphname = "gimel-hb";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (250,0);
+},
+{
+name = bottomleft;
+pos = (20,0);
+},
+{
+name = center;
+pos = (250,508);
+},
+{
+name = top;
+pos = (250,1015);
+},
+{
+name = topleft;
+pos = (20,1015);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(400,50,l),
+(400,653,l),
+(400,731,o),
+(337,795,o),
+(258,795,c),
+(230,795,o),
+(204,788,o),
+(180,777,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(400,244,l),
+(400,137,o),
+(314,50,o),
+(206,50,c),
+(168,50,o),
+(132,59,o),
+(100,75,c)
+);
+}
+);
+width = 500;
+}
+);
+unicode = 1490;
+}

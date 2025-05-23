@@ -1,0 +1,16 @@
+{
+glyphname = "Em-cy";
+layers = (
+{
+.lastUpdate = 769700944.17;
+layerId = m002;
+shapes = (
+{
+ref = M;
+}
+);
+width = 1000;
+}
+);
+unicode = 1052;
+}

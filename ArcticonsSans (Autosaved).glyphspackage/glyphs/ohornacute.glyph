@@ -1,0 +1,23 @@
+{
+glyphname = ohornacute;
+kernLeft = lowercaseRound;
+kernRight = lowercaseHorn;
+lastChange = "2025-05-22 19:18:40 +0000";
+layers = (
+{
+.lastUpdate = 769700929.625;
+layerId = m002;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (-62,0);
+ref = acutecomb;
+}
+);
+width = 670;
+}
+);
+unicode = 7899;
+}

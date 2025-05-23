@@ -1,0 +1,53 @@
+{
+glyphname = rightLongArrow;
+lastChange = "2025-05-23 08:54:27 +0000";
+layers = (
+{
+.lastUpdate = 769683267.499;
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(1085,50,l),
+(1350,315,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(1350,315,l),
+(100,315,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(1350,315,l),
+(1085,580,l)
+);
+}
+);
+width = 1450;
+}
+);
+unicode = 10230;
+}

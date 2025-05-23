@@ -1,0 +1,21 @@
+{
+glyphname = Alphatonos;
+kernLeft = tonosCase;
+layers = (
+{
+.lastUpdate = 769700931.061;
+layerId = m002;
+shapes = (
+{
+ref = Alpha;
+},
+{
+pos = (-184,0);
+ref = tonos.case;
+}
+);
+width = 732;
+}
+);
+unicode = 902;
+}

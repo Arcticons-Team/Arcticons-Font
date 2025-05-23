@@ -1,0 +1,22 @@
+{
+glyphname = quotedbl;
+kernLeft = quote;
+kernRight = quote;
+layers = (
+{
+.lastUpdate = 769700879.467;
+layerId = m002;
+shapes = (
+{
+pos = (160,0);
+ref = quotesingle;
+},
+{
+ref = quotesingle;
+}
+);
+width = 320;
+}
+);
+unicode = 34;
+}

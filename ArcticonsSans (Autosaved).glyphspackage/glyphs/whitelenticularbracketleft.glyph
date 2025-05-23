@@ -1,0 +1,20 @@
+{
+glyphname = whitelenticularbracketleft;
+layers = (
+{
+.lastUpdate = 769700879.906;
+layerId = m002;
+shapes = (
+{
+pos = (559,0);
+ref = whitelenticularbracketright;
+scale = (-1,1);
+}
+);
+width = 559;
+}
+);
+metricLeft = "[";
+metricRight = "(";
+unicode = 12310;
+}

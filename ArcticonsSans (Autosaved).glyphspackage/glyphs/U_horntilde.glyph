@@ -1,0 +1,20 @@
+{
+glyphname = Uhorntilde;
+layers = (
+{
+.lastUpdate = 769700929.306;
+layerId = m002;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (85,-1);
+ref = tildecomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 7918;
+}

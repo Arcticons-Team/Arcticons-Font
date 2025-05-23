@@ -1,0 +1,76 @@
+{
+glyphname = ohorn;
+kernLeft = lowercaseRound;
+lastChange = "2025-05-22 19:18:23 +0000";
+layers = (
+{
+.lastUpdate = 769634284.32;
+anchors = (
+{
+name = bottom;
+pos = (300,50);
+},
+{
+name = center;
+pos = (300,340);
+},
+{
+name = ogonek;
+pos = (410,109);
+},
+{
+name = top;
+pos = (300,630);
+},
+{
+name = topright;
+pos = (580,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x101ae2a30;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(410,50,o),
+(500,140,o),
+(500,250,c),
+(500,380,l),
+(500,490,o),
+(410,580,o),
+(300,580,c),
+(190,580,o),
+(100,490,o),
+(100,380,c),
+(100,250,l),
+(100,140,o),
+(190,50,o),
+(300,50,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,580,l),
+(448,580,l),
+(522,580,o),
+(579,599,o),
+(569,694,cs)
+);
+}
+);
+width = 670;
+}
+);
+unicode = 417;
+}

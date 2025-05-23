@@ -1,0 +1,19 @@
+{
+glyphname = circumflexcomb_tildecomb;
+layers = (
+{
+.lastUpdate = 769700931.21;
+layerId = m002;
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+pos = (0,215);
+ref = tildecomb;
+}
+);
+width = 530;
+}
+);
+}

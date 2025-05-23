@@ -1,0 +1,43 @@
+{
+export = 0;
+glyphname = "Tedescender-cy";
+layers = (
+{
+.lastUpdate = 769700931.022;
+layerId = m002;
+shapes = (
+{
+ref = "Te-cy";
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(365,50,l),
+(465,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(465,50,l),
+(465,-50,l)
+);
+}
+);
+width = 730;
+}
+);
+unicode = 1196;
+}

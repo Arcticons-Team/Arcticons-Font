@@ -1,0 +1,22 @@
+{
+glyphname = "u-cy";
+layers = (
+{
+.lastUpdate = 769700944.745;
+anchors = (
+{
+name = top;
+pos = (300,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = y;
+}
+);
+width = 600;
+}
+);
+unicode = 1091;
+}

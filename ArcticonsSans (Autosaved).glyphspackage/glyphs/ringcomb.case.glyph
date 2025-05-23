@@ -1,0 +1,42 @@
+{
+glyphname = ringcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (280,901);
+},
+{
+name = top;
+pos = (282,1140);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(370,1116,o),
+(330,1156,o),
+(280,1156,c),
+(231,1156,o),
+(190,1116,o),
+(190,1066,c),
+(190,1016,o),
+(231,976,o),
+(280,976,c),
+(330,976,o),
+(370,1016,o),
+(370,1066,c)
+);
+}
+);
+width = 560;
+}
+);
+}

@@ -1,0 +1,15 @@
+{
+glyphname = "te-cy.loclBGR";
+layers = (
+{
+.lastUpdate = 769700945.068;
+layerId = m002;
+shapes = (
+{
+ref = "te-cy";
+}
+);
+width = 600;
+}
+);
+}

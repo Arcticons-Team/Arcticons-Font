@@ -1,0 +1,20 @@
+{
+glyphname = "Gje-cy";
+layers = (
+{
+.lastUpdate = 769700944.175;
+layerId = m002;
+shapes = (
+{
+ref = "Ge-cy";
+},
+{
+pos = (42,0);
+ref = acutecomb.case;
+}
+);
+width = 720;
+}
+);
+unicode = 1027;
+}

@@ -1,0 +1,15 @@
+{
+glyphname = "ge-cy.loclBGR";
+layers = (
+{
+.lastUpdate = 769700945.067;
+layerId = m002;
+shapes = (
+{
+ref = "ge-cy";
+}
+);
+width = 550;
+}
+);
+}

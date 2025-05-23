@@ -1,0 +1,26 @@
+{
+glyphname = hungarumlautcomb.case;
+layers = (
+{
+.lastUpdate = 769701769.603;
+anchors = (
+{
+name = _top;
+pos = (426,900);
+},
+{
+name = top;
+pos = (426,1140);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (0,271);
+ref = hungarumlautcomb;
+}
+);
+width = 852;
+}
+);
+}

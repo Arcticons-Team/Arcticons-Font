@@ -1,0 +1,35 @@
+{
+glyphname = "fita-cy";
+layers = (
+{
+.lastUpdate = 769700945.023;
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(101,318,l),
+(126,329,o),
+(151,340,o),
+(201,340,c),
+(300,340,o),
+(300,295,o),
+(399,295,c),
+(449,295,o),
+(474,307,o),
+(499,318,c)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 1139;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = wacute;
+layers = (
+{
+.lastUpdate = 769700930.994;
+layerId = m002;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (68,0);
+ref = acutecomb;
+}
+);
+width = 860;
+}
+);
+unicode = 7811;
+}

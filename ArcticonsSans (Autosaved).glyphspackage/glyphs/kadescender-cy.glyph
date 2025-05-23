@@ -1,0 +1,42 @@
+{
+glyphname = "kadescender-cy";
+layers = (
+{
+.lastUpdate = 769700945.026;
+layerId = m002;
+shapes = (
+{
+ref = "ka-cy";
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,50,l),
+(600,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(600,50,l),
+(600,-50,l)
+);
+}
+);
+width = 700;
+}
+);
+unicode = 1179;
+}

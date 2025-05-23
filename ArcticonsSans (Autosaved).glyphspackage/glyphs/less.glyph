@@ -1,0 +1,18 @@
+{
+glyphname = less;
+layers = (
+{
+.lastUpdate = 769700821.653;
+layerId = m002;
+shapes = (
+{
+pos = (700,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 700;
+}
+);
+unicode = 60;
+}

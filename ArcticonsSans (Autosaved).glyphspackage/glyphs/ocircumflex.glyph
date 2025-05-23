@@ -1,0 +1,22 @@
+{
+glyphname = ocircumflex;
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+.lastUpdate = 769700929.623;
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (20,0);
+ref = circumflexcomb;
+}
+);
+width = 600;
+}
+);
+unicode = 244;
+}

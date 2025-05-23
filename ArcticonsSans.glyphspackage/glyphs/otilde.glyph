@@ -1,6 +1,5 @@
 {
 glyphname = otilde;
-kernLeft = lowercaseRound;
 kernRight = lowercaseRound;
 layers = (
 {

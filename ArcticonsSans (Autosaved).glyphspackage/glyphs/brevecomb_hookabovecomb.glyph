@@ -1,0 +1,21 @@
+{
+glyphname = brevecomb_hookabovecomb;
+lastChange = "2025-05-22 19:05:47 +0000";
+layers = (
+{
+.lastUpdate = 769700929.351;
+layerId = m002;
+shapes = (
+{
+ref = brevecomb;
+},
+{
+anchor = top_2;
+pos = (111,319);
+ref = hookabovecomb;
+}
+);
+width = 560;
+}
+);
+}

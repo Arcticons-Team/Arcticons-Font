@@ -1,0 +1,22 @@
+{
+glyphname = dcaron;
+kernLeft = lowercaseRound;
+kernRight = lowercaseStraight;
+layers = (
+{
+.lastUpdate = 769700929.6;
+layerId = m002;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (349,0);
+ref = caroncomb.alt;
+}
+);
+width = 600;
+}
+);
+unicode = 271;
+}

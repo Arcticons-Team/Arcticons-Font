@@ -1,0 +1,16 @@
+{
+color = 10;
+glyphname = asterisk.case;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,-238);
+ref = asterisk;
+}
+);
+width = 477;
+}
+);
+}

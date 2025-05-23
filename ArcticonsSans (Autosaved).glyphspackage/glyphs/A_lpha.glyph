@@ -1,0 +1,24 @@
+{
+glyphname = Alpha;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+.lastUpdate = 769700931.054;
+anchors = (
+{
+name = topleft;
+pos = (250,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = A;
+}
+);
+width = 732;
+}
+);
+unicode = 913;
+}

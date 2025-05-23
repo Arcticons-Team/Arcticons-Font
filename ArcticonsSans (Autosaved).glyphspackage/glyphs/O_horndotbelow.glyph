@@ -1,0 +1,20 @@
+{
+glyphname = Ohorndotbelow;
+layers = (
+{
+.lastUpdate = 769700929.041;
+layerId = m002;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (260,50);
+ref = dotbelowcomb;
+}
+);
+width = 730;
+}
+);
+unicode = 7906;
+}

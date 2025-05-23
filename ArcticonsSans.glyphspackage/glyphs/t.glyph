@@ -10,12 +10,20 @@ name = bottom;
 pos = (218,0);
 },
 {
+name = bottom_2;
+pos = (255,0);
+},
+{
 name = center;
 pos = (218,315);
 },
 {
 name = top;
-pos = (218,630);
+pos = (205,630);
+},
+{
+name = top_2;
+pos = (205,745);
 },
 {
 name = topright;

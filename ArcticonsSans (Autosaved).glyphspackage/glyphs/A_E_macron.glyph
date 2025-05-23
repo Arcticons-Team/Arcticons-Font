@@ -1,0 +1,20 @@
+{
+glyphname = AEmacron;
+layers = (
+{
+.lastUpdate = 769700928.127;
+layerId = m002;
+shapes = (
+{
+ref = AE;
+},
+{
+pos = (216,-1);
+ref = macroncomb.case;
+}
+);
+width = 1112;
+}
+);
+unicode = 482;
+}

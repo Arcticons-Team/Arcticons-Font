@@ -1,0 +1,68 @@
+{
+glyphname = "qof-hb";
+kernLeft = hebrewStraight;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (355,0);
+},
+{
+name = bottomleft;
+pos = (20,0);
+},
+{
+name = center;
+pos = (355,508);
+},
+{
+name = top;
+pos = (355,1015);
+},
+{
+name = topleft;
+pos = (20,1015);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,795,l),
+(458,795,l),
+(549,795,o),
+(619,715,o),
+(607,625,c),
+(561,288,l),
+(543,157,o),
+(432,60,o),
+(300,60,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,480,l),
+(100,-165,l)
+);
+}
+);
+width = 709;
+}
+);
+unicode = 1511;
+}

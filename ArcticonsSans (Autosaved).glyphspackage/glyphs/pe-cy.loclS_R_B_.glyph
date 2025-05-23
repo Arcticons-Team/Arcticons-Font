@@ -1,0 +1,15 @@
+{
+glyphname = "pe-cy.loclSRB";
+layers = (
+{
+.lastUpdate = 769700945.083;
+layerId = m002;
+shapes = (
+{
+ref = "pe-cy";
+}
+);
+width = 600;
+}
+);
+}

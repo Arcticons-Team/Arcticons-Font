@@ -1,0 +1,21 @@
+{
+glyphname = "yi-cy";
+layers = (
+{
+.lastUpdate = 769700944.769;
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (-175,46);
+ref = dieresiscomb;
+}
+);
+width = 210;
+}
+);
+unicode = 1111;
+}

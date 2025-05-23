@@ -1,0 +1,30 @@
+{
+glyphname = "geupturn-cy";
+kernLeft = lowercaseStraight;
+layers = (
+{
+.lastUpdate = 769700931.02;
+layerId = m002;
+shapes = (
+{
+ref = "ge-cy";
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(450,580,l),
+(450,680,l)
+);
+}
+);
+width = 550;
+}
+);
+unicode = 1169;
+}
