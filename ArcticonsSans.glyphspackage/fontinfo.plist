@@ -628,7 +628,7 @@ u = -10;
 "u-cy" = -20;
 v = -50;
 w = -50;
-x = -70;
+x = -60;
 z = -80;
 "ze-cy" = -30;
 };
@@ -694,6 +694,7 @@ question = -30;
 slash = -10;
 };
 "@MMK_L_lowercaseX" = {
+"@MMK_R_lowerT" = -20;
 "@MMK_R_lowercaseRound" = -60;
 T = -240;
 Y = -140;
