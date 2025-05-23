@@ -1,0 +1,14 @@
+{
+glyphname = less_hyphen_hyphen_hyphen;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = leftLongArrow2;
+}
+);
+width = 2000;
+}
+);
+}
