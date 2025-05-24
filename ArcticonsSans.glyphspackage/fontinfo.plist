@@ -91,20 +91,6 @@ lookup ccmp_DFLT_2 {
 	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
 } ccmp_DFLT_2;
 
-lookup ccmp_Other_1 {
-	lookupflag 0;
-	@Markscomb = [tonos dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb horncomb cedillacomb];
-	@MarkscombCase = [tonos.case dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case horncomb.case cedillacomb.case];
-	sub @Markscomb @Markscomb' by @MarkscombCase;
-	sub @Uppercase @Markscomb' by @MarkscombCase;
-} ccmp_Other_1;
-
-lookup ccmp_Other_2 {
-	lookupflag 0;
-	sub @Markscomb' @MarkscombCase by @MarkscombCase;
-	sub @MarkscombCase @Markscomb' by @MarkscombCase;
-} ccmp_Other_2;
-
 lookup ccmp_latn_1 {
 	lookupflag 0;
 	sub fi by f i;
@@ -312,21 +298,6 @@ sub lessequal by lessequal.case;
 sub plusminus by plusminus.case;
 sub approxequal by approxequal.case;
 sub asciitilde by asciitilde.case;
-sub tonos by tonos.case;
-sub dieresiscomb by dieresiscomb.case;
-sub dotaccentcomb by dotaccentcomb.case;
-sub gravecomb by gravecomb.case;
-sub acutecomb by acutecomb.case;
-sub hungarumlautcomb by hungarumlautcomb.case;
-sub circumflexcomb by circumflexcomb.case;
-sub caroncomb by caroncomb.case;
-sub brevecomb by brevecomb.case;
-sub ringcomb by ringcomb.case;
-sub tildecomb by tildecomb.case;
-sub macroncomb by macroncomb.case;
-sub hookabovecomb by hookabovecomb.case;
-sub horncomb by horncomb.case;
-sub cedillacomb by cedillacomb.case;
 ";
 tag = case;
 },
