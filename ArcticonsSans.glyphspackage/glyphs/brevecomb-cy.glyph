@@ -5,35 +5,20 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (240,630);
+pos = (280,630);
 },
 {
 name = top;
-pos = (240,901);
+pos = (280,901);
 }
 );
 layerId = m002;
 shapes = (
 {
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(100,850,l),
-(100,773,o),
-(163,710,o),
-(240,710,c),
-(318,710,o),
-(380,773,o),
-(380,850,c)
-);
+ref = brevecomb;
 }
 );
-width = 480;
+width = 561;
 }
 );
 }

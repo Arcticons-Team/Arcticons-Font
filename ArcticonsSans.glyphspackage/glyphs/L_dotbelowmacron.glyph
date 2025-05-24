@@ -8,12 +8,13 @@ shapes = (
 ref = L;
 },
 {
-pos = (195,50);
+pos = (195,0);
 ref = dotbelowcomb;
 },
 {
-pos = (-40,-1);
-ref = macroncomb.case;
+alignment = -1;
+pos = (-30,257);
+ref = macroncomb;
 }
 );
 width = 600;

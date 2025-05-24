@@ -5,18 +5,23 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (170,1015);
+pos = (100,630);
+},
+{
+name = top;
+pos = (100,900);
 }
 );
 layerId = m002;
 shapes = (
 {
-pos = (-196,0);
 ref = acutecomb;
 }
 );
-width = 340;
+width = 274;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 900;
 }

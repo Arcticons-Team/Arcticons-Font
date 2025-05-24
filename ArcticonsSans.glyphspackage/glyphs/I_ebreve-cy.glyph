@@ -8,7 +8,7 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (60,270);
+pos = (20,270);
 ref = "brevecomb-cy";
 }
 );

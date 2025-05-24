@@ -8,8 +8,7 @@ shapes = (
 ref = omega;
 },
 {
-alignment = -1;
-pos = (378,50);
+pos = (380,0);
 ref = tonos;
 }
 );

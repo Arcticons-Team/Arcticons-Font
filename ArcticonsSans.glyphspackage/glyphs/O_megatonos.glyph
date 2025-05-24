@@ -9,8 +9,8 @@ shapes = (
 ref = Omega;
 },
 {
-pos = (-286,0);
-ref = tonos.case;
+pos = (-100,0);
+ref = tonos;
 }
 );
 width = 1000;

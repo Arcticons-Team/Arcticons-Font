@@ -461,6 +461,7 @@ t = -10;
 y = -20;
 };
 "@MMK_L_A" = {
+"@MMK_R_A" = 0;
 "@MMK_R_S" = -40;
 "@MMK_R_i" = -40;
 "@MMK_R_lowerT" = -120;
@@ -585,6 +586,7 @@ ohorndotbelow = 10;
 s = 40;
 uhorn = 0;
 uhornacute = 60;
+uogonek = 80;
 w = 80;
 y = 90;
 z = 80;
@@ -849,6 +851,7 @@ v = -60;
 Epsilon = {
 "@MMK_R_lowercaseRound" = -60;
 "@MMK_R_lowercaseStraight" = -20;
+"@MMK_R_tonosCase" = 180;
 kappa = -10;
 tau = -150;
 };
@@ -1366,6 +1369,7 @@ x = -20;
 iacute = {
 "@MMK_R_lowercaseStraightAscender" = 100;
 "@MMK_R_quote" = 80;
+itilde = 164;
 };
 icircumflex = {
 "@MMK_R_quote" = 50;

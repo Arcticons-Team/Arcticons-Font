@@ -6,11 +6,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (300,50);
+pos = (300,0);
 },
 {
 name = bottom_right;
-pos = (500,50);
+pos = (500,0);
 },
 {
 name = center;
@@ -18,7 +18,7 @@ pos = (300,450);
 },
 {
 name = top;
-pos = (300,900);
+pos = (100,900);
 },
 {
 name = topright;

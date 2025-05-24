@@ -11,7 +11,7 @@ pos = (300,0);
 },
 {
 name = ogonek;
-pos = (540,10);
+pos = (550,0);
 },
 {
 name = top;

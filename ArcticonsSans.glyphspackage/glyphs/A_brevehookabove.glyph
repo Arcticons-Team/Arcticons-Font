@@ -8,13 +8,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (86,-1);
-ref = brevecomb.case;
-},
-{
-anchor = top_2;
-pos = (197,562);
-ref = hookabovecomb;
+pos = (86,270);
+ref = brevecomb_hookabovecomb;
 }
 );
 width = 732;

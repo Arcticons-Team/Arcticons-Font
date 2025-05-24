@@ -10,7 +10,6 @@ shapes = (
 ref = u;
 },
 {
-anchor = top;
 pos = (300,0);
 ref = horncomb;
 }

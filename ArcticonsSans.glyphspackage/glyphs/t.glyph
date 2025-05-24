@@ -11,7 +11,7 @@ pos = (218,0);
 },
 {
 name = bottom_2;
-pos = (255,0);
+pos = (335,0);
 },
 {
 name = center;
@@ -27,7 +27,7 @@ pos = (205,745);
 },
 {
 name = topright;
-pos = (415,1015);
+pos = (353,615);
 }
 );
 layerId = m002;

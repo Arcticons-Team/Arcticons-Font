@@ -8,12 +8,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (86,-1);
-ref = brevecomb.case;
-},
-{
-pos = (86,238);
-ref = tildecomb.case;
+pos = (86,270);
+ref = brevecomb_tildecomb;
 }
 );
 width = 732;

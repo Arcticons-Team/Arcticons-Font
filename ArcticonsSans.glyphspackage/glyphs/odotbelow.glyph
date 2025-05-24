@@ -1,5 +1,6 @@
 {
 glyphname = odotbelow;
+kernLeft = lowercaseRound;
 layers = (
 {
 layerId = m002;

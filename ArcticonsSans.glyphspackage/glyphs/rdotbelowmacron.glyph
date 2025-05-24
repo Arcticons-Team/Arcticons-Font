@@ -8,8 +8,7 @@ shapes = (
 ref = r;
 },
 {
-anchor = bottom_2;
-pos = (-5,50);
+pos = (-5,0);
 ref = dotbelowcomb;
 },
 {

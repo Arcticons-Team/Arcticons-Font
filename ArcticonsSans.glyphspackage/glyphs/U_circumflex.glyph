@@ -6,10 +6,6 @@ layerId = m002;
 shapes = (
 {
 ref = U;
-},
-{
-pos = (85,0);
-ref = circumflexcomb.case;
 }
 );
 width = 730;

@@ -10,7 +10,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (23,-50);
+pos = (126,-50);
 ref = gravecomb;
 }
 );

@@ -10,7 +10,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (34,0);
+pos = (-1,0);
 ref = commaaccentcomb;
 }
 );

@@ -8,8 +8,6 @@ shapes = (
 ref = iota;
 },
 {
-alignment = -1;
-pos = (0,50);
 ref = tonos;
 }
 );

@@ -8,8 +8,7 @@ shapes = (
 ref = idotless;
 },
 {
-alignment = -1;
-pos = (-257,0);
+pos = (5,0);
 ref = acutecomb;
 }
 );

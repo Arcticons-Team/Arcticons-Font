@@ -23,25 +23,16 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(280,745,l),
-(190,795,l)
+(280,745,l)
 );
 },
 {
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(370,795,l),
-(280,745,l)
-);
+pos = (60,1552);
+ref = circumflexcomb;
+scale = (1,-1);
 }
 );
-width = 600;
+width = 561;
 }
 );
 unicode = 780;

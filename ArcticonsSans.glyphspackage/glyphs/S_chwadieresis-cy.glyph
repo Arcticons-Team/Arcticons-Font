@@ -8,8 +8,8 @@ shapes = (
 ref = "Schwa-cy";
 },
 {
-pos = (122,-1);
-ref = dieresiscomb.case;
+pos = (122,270);
+ref = dieresiscomb;
 }
 );
 width = 803;

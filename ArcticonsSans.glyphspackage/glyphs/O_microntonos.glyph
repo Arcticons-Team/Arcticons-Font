@@ -9,8 +9,8 @@ shapes = (
 ref = Omicron;
 },
 {
-pos = (-346,0);
-ref = tonos.case;
+pos = (-125,0);
+ref = tonos;
 }
 );
 width = 730;

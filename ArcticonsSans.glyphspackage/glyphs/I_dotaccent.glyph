@@ -8,8 +8,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (5,-1);
-ref = dotaccentcomb.case;
+pos = (5,270);
+ref = dotaccentcomb;
 }
 );
 width = 220;

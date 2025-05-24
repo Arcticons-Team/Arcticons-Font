@@ -8,8 +8,8 @@ name = top;
 pos = (365,900);
 },
 {
-name = topleft;
-pos = (20,900);
+name = top_left;
+pos = (-114,630);
 }
 );
 layerId = m002;

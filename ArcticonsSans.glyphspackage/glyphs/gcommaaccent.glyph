@@ -10,9 +10,8 @@ shapes = (
 ref = g;
 },
 {
-alignment = -1;
-pos = (165,129);
-ref = commaturnedabovecomb;
+pos = (200,0);
+ref = acutecomb;
 }
 );
 width = 600;

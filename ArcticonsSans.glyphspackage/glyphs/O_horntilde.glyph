@@ -8,8 +8,8 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (85,-1);
-ref = tildecomb.case;
+pos = (89,270);
+ref = tildecomb;
 }
 );
 width = 730;

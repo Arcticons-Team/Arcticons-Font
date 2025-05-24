@@ -9,8 +9,8 @@ shapes = (
 ref = Alpha;
 },
 {
-pos = (-184,0);
-ref = tonos.case;
+pos = (37,0);
+ref = tonos;
 }
 );
 width = 732;

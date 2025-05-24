@@ -10,8 +10,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (48,0);
-ref = acutecomb.case;
+pos = (266,270);
+ref = acutecomb;
 }
 );
 width = 732;

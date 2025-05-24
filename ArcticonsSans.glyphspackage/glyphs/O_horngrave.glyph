@@ -8,8 +8,8 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (35,0);
-ref = gravecomb.case;
+pos = (188,270);
+ref = gravecomb;
 }
 );
 width = 730;

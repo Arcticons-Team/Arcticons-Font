@@ -10,15 +10,11 @@ pos = (300,50);
 },
 {
 name = ogonek;
-pos = (550,100);
+pos = (550,0);
 },
 {
 name = top;
 pos = (300,900);
-},
-{
-name = topleft;
-pos = (20,900);
 }
 );
 layerId = m002;

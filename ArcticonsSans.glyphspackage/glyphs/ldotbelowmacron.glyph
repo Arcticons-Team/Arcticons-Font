@@ -10,11 +10,6 @@ ref = l;
 {
 pos = (60,0);
 ref = dotbelowcomb;
-},
-{
-anchor = top_2;
-pos = (-240,-1);
-ref = macroncomb.case;
 }
 );
 width = 330;

@@ -9,10 +9,6 @@ name = bottom;
 pos = (300,-220);
 },
 {
-name = bottom;
-pos = (300,-220);
-},
-{
 name = top;
 pos = (300,630);
 }

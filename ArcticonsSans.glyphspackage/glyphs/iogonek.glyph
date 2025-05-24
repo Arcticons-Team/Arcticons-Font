@@ -11,7 +11,7 @@ ref = idotless;
 ref = dotaccentcomb;
 },
 {
-pos = (-194,2);
+pos = (-194,0);
 ref = ogonekcomb;
 }
 );

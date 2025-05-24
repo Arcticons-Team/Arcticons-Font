@@ -10,8 +10,8 @@ shapes = (
 ref = O;
 },
 {
-pos = (-61,0);
-ref = hungarumlautcomb.case;
+pos = (-61,270);
+ref = hungarumlautcomb;
 }
 );
 width = 730;

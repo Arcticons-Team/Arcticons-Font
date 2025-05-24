@@ -10,8 +10,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (86,-1);
-ref = dieresiscomb.case;
+pos = (86,270);
+ref = dieresiscomb;
 }
 );
 width = 732;

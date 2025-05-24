@@ -8,13 +8,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (86,0);
-ref = circumflexcomb.case;
-},
-{
-anchor = top_viet;
-pos = (351,489);
-ref = hookabovecomb;
+pos = (146,270);
+ref = circumflexcomb_hookabovecomb;
 }
 );
 width = 732;

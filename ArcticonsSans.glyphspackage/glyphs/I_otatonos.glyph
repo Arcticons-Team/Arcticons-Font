@@ -10,8 +10,9 @@ shapes = (
 ref = Iota;
 },
 {
-pos = (-414,0);
-ref = tonos.case;
+anchor = top_left;
+pos = (-204,0);
+ref = tonos;
 }
 );
 width = 220;

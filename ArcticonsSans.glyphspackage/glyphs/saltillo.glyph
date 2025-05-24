@@ -5,11 +5,11 @@ layers = (
 layerId = m002;
 shapes = (
 {
-pos = (0,-220);
+pos = (30,-220);
 ref = quotesingle;
 }
 );
-width = 160;
+width = 220;
 }
 );
 unicode = 42892;

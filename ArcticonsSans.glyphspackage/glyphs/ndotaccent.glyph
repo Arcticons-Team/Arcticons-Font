@@ -1,5 +1,6 @@
 {
 glyphname = ndotaccent;
+kernLeft = lowercaseStraight;
 layers = (
 {
 layerId = m002;

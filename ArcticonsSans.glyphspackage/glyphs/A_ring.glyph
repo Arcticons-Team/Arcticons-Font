@@ -10,8 +10,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (86,-1);
-ref = ringcomb.case;
+pos = (86,270);
+ref = ringcomb;
 }
 );
 width = 732;

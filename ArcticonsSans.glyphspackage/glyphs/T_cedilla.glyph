@@ -9,7 +9,7 @@ ref = T;
 },
 {
 pos = (136,0);
-ref = cedillacomb.case;
+ref = cedillacomb;
 }
 );
 width = 730;

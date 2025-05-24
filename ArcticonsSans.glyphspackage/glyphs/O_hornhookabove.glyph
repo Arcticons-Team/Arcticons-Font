@@ -8,8 +8,8 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (196,373);
-ref = hookabovecomb.case;
+pos = (196,270);
+ref = hookabovecomb;
 }
 );
 width = 730;

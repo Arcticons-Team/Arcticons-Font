@@ -6,30 +6,14 @@ layers = (
 layerId = m002;
 shapes = (
 {
-attr = {
-fill = 1;
-};
-closed = 1;
-nodes = (
-(358,750,o),
-(391,784,o),
-(391,825,c),
-(391,866,o),
-(358,900,o),
-(316,900,c),
-(275,900,o),
-(241,866,o),
-(241,825,c),
-(241,784,o),
-(275,750,o),
-(316,750,cs)
-);
+ref = jdotless;
 },
 {
-ref = jdotless;
+pos = (211,0);
+ref = dotaccentcomb;
 }
 );
-width = 451;
+width = 416;
 }
 );
 unicode = 106;

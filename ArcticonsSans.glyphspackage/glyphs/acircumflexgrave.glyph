@@ -8,13 +8,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (20,0);
-ref = circumflexcomb;
-},
-{
-anchor = top_right;
-pos = (110,175);
-ref = gravecomb;
+pos = (-5,0);
+ref = circumflexcomb_gravecomb;
 }
 );
 width = 600;

@@ -6,10 +6,6 @@ layerId = m002;
 shapes = (
 {
 ref = Uhorn;
-},
-{
-pos = (47,0);
-ref = acutecomb.case;
 }
 );
 width = 730;

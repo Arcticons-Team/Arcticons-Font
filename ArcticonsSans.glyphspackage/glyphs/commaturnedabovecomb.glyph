@@ -16,7 +16,7 @@ layerId = m002;
 shapes = (
 {
 angle = 180;
-pos = (270,720);
+pos = (270,780);
 ref = comma;
 }
 );

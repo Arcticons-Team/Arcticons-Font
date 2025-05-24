@@ -8,8 +8,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (-170,-1);
-ref = tildecomb.case;
+pos = (-166,270);
+ref = tildecomb;
 }
 );
 width = 220;

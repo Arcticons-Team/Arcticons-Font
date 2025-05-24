@@ -8,7 +8,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (-62,0);
+pos = (200,0);
 ref = acutecomb;
 }
 );

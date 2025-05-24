@@ -5,15 +5,19 @@ layers = (
 layerId = m002;
 shapes = (
 {
+pos = (85,0);
 ref = circumflexcomb;
 },
 {
-anchor = top_right;
-pos = (90,175);
+alignment = -1;
+anchor = top_viet;
+pos = (0,174);
 ref = gravecomb;
 }
 );
-width = 530;
+width = 496;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 }

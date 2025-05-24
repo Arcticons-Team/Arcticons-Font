@@ -8,8 +8,7 @@ shapes = (
 ref = idotless;
 },
 {
-alignment = -1;
-pos = (-175,46);
+pos = (-175,0);
 ref = dieresiscomb;
 }
 );

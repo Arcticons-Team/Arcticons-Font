@@ -8,7 +8,7 @@ shapes = (
 ref = "Zhe-cy";
 },
 {
-pos = (260,270);
+pos = (220,270);
 ref = "brevecomb-cy";
 }
 );

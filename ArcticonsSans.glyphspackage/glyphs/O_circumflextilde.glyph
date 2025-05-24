@@ -8,12 +8,8 @@ shapes = (
 ref = O;
 },
 {
-pos = (85,0);
-ref = circumflexcomb.case;
-},
-{
-pos = (85,215);
-ref = tildecomb.case;
+pos = (145,270);
+ref = circumflexcomb_tildecomb;
 }
 );
 width = 730;

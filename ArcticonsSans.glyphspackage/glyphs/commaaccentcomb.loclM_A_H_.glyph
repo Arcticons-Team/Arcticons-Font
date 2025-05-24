@@ -9,13 +9,12 @@ pos = (331,0);
 },
 {
 name = bottom;
-pos = (331,-376);
+pos = (331,-270);
 }
 );
 layerId = m002;
 shapes = (
 {
-pos = (0,-122);
 ref = commaaccentcomb;
 }
 );

@@ -6,10 +6,6 @@ layerId = m002;
 shapes = (
 {
 ref = W;
-},
-{
-pos = (182,0);
-ref = acutecomb.case;
 }
 );
 width = 1000;

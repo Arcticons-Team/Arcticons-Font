@@ -1,5 +1,6 @@
 {
 glyphname = ocircumflexdotbelow;
+kernLeft = lowercaseRound;
 layers = (
 {
 layerId = m002;
@@ -12,7 +13,7 @@ pos = (195,50);
 ref = dotbelowcomb;
 },
 {
-pos = (20,0);
+pos = (80,0);
 ref = circumflexcomb;
 }
 );

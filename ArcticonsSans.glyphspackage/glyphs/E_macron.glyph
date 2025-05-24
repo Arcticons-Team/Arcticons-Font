@@ -9,8 +9,8 @@ shapes = (
 ref = E;
 },
 {
-pos = (-40,-1);
-ref = macroncomb.case;
+pos = (-30,270);
+ref = macroncomb;
 }
 );
 width = 600;

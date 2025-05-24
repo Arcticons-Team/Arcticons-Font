@@ -8,7 +8,7 @@ shapes = (
 ref = circumflexcomb;
 },
 {
-pos = (0,215);
+pos = (-56,230);
 ref = tildecomb;
 }
 );

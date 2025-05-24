@@ -9,8 +9,8 @@ shapes = (
 ref = E;
 },
 {
-pos = (20,-1);
-ref = tildecomb.case;
+pos = (24,270);
+ref = tildecomb;
 }
 );
 width = 600;

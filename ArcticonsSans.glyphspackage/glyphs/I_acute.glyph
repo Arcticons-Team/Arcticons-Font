@@ -9,9 +9,8 @@ shapes = (
 ref = I;
 },
 {
-alignment = -1;
-pos = (-208,-1);
-ref = acutecomb.case;
+pos = (10,270);
+ref = acutecomb;
 }
 );
 width = 220;

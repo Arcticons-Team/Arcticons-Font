@@ -10,7 +10,6 @@ shapes = (
 ref = a;
 },
 {
-alignment = -1;
 pos = (200,0);
 ref = ogonekcomb;
 }

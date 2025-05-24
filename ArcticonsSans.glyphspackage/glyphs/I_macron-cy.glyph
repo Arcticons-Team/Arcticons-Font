@@ -8,8 +8,8 @@ shapes = (
 ref = "Ii-cy";
 },
 {
-pos = (25,-1);
-ref = macroncomb.case;
+pos = (35,270);
+ref = macroncomb;
 }
 );
 width = 730;

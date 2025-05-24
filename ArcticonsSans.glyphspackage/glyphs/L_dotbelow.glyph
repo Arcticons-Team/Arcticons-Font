@@ -8,7 +8,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (195,50);
+pos = (195,0);
 ref = dotbelowcomb;
 }
 );

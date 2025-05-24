@@ -5,11 +5,11 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (362,630);
+pos = (100,630);
 },
 {
 name = top;
-pos = (362,900);
+pos = (100,900);
 }
 );
 layerId = m002;
@@ -23,12 +23,12 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(362,725,l),
-(476,820,l)
+(100,725,l),
+(174,850,l)
 );
 }
 );
-width = 732;
+width = 274;
 }
 );
 unicode = 769;

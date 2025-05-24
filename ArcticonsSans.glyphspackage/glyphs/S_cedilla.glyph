@@ -8,11 +8,11 @@ shapes = (
 ref = S;
 },
 {
-pos = (66,0);
-ref = cedillacomb.case;
+pos = (136,0);
+ref = cedillacomb;
 }
 );
-width = 660;
+width = 730;
 }
 );
 unicode = 350;

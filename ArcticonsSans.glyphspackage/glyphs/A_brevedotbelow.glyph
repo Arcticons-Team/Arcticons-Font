@@ -12,8 +12,8 @@ pos = (261,50);
 ref = dotbelowcomb;
 },
 {
-pos = (86,-1);
-ref = brevecomb.case;
+pos = (86,270);
+ref = brevecomb;
 }
 );
 width = 732;

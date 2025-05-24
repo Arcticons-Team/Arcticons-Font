@@ -8,8 +8,7 @@ shapes = (
 ref = upsilon;
 },
 {
-alignment = -1;
-pos = (0,44);
+pos = (20,0);
 ref = dieresiscomb;
 }
 );

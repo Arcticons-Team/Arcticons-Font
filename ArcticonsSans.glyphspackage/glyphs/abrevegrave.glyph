@@ -9,11 +9,7 @@ ref = a;
 },
 {
 pos = (20,0);
-ref = brevecomb;
-},
-{
-pos = (20,270);
-ref = gravecomb;
+ref = brevecomb_gravecomb;
 }
 );
 width = 600;

@@ -8,8 +8,7 @@ shapes = (
 ref = iota;
 },
 {
-alignment = -1;
-pos = (-158,50);
+pos = (-178,0);
 ref = dieresistonos;
 }
 );

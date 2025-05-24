@@ -5,11 +5,10 @@ layers = (
 layerId = m002;
 shapes = (
 {
-pos = (30,0);
 ref = apostrophemod;
 }
 );
-width = 250;
+width = 260;
 }
 );
 unicode = 699;

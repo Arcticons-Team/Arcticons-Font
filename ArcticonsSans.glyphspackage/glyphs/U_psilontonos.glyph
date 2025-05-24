@@ -9,8 +9,9 @@ shapes = (
 ref = Upsilon;
 },
 {
-pos = (-414,0);
-ref = tonos.case;
+anchor = top_left;
+pos = (-214,0);
+ref = tonos;
 }
 );
 width = 730;

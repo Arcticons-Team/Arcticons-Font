@@ -5,15 +5,18 @@ layers = (
 layerId = m002;
 shapes = (
 {
+pos = (-30,0);
 ref = circumflexcomb;
 },
 {
-anchor = top_left;
-pos = (-172,175);
+anchor = top_viet;
+pos = (231,174);
 ref = acutecomb;
 }
 );
-width = 530;
+width = 505;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 }

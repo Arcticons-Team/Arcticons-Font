@@ -8,8 +8,8 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (111,-50);
-ref = cedillacomb.case;
+pos = (111,0);
+ref = cedillacomb;
 }
 );
 width = 680;

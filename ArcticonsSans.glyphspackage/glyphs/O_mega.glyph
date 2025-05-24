@@ -8,6 +8,10 @@ name = bottom;
 pos = (500,50);
 },
 {
+name = top;
+pos = (0,630);
+},
+{
 name = topleft;
 pos = (148,900);
 }

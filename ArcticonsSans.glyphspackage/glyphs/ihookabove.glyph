@@ -8,7 +8,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-64,103);
+pos = (-64,0);
 ref = hookabovecomb;
 }
 );

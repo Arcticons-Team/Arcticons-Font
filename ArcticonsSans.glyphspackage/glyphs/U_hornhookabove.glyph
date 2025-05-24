@@ -6,10 +6,6 @@ layerId = m002;
 shapes = (
 {
 ref = Uhorn;
-},
-{
-pos = (196,373);
-ref = hookabovecomb.case;
 }
 );
 width = 730;

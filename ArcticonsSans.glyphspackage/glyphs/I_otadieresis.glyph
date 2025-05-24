@@ -8,8 +8,9 @@ shapes = (
 ref = Iota;
 },
 {
-pos = (-170,-1);
-ref = dieresiscomb.case;
+anchor = top;
+pos = (-170,270);
+ref = dieresiscomb;
 }
 );
 width = 220;

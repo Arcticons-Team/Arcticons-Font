@@ -12,8 +12,8 @@ pos = (261,50);
 ref = dotbelowcomb;
 },
 {
-pos = (86,0);
-ref = circumflexcomb.case;
+pos = (146,270);
+ref = circumflexcomb;
 }
 );
 width = 732;

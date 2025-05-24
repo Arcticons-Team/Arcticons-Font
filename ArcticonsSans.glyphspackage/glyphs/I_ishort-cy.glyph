@@ -5,61 +5,11 @@ layers = (
 layerId = m002;
 shapes = (
 {
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(225,1155,l),
-(225,1077,o),
-(288,1015,o),
-(365,1015,c),
-(443,1015,o),
-(505,1077,o),
-(505,1155,c)
-);
+ref = "Ii-cy";
 },
 {
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(630,850,l),
-(100,50,l)
-);
-},
-{
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(100,50,l),
-(100,850,l)
-);
-},
-{
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(630,50,l),
-(630,850,l)
-);
+pos = (85,270);
+ref = "brevecomb-cy";
 }
 );
 width = 730;

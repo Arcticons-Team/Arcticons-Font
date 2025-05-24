@@ -8,7 +8,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (0,270);
+pos = (103,230);
 ref = gravecomb;
 }
 );

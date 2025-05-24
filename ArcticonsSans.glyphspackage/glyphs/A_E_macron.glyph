@@ -8,8 +8,8 @@ shapes = (
 ref = AE;
 },
 {
-pos = (216,-1);
-ref = macroncomb.case;
+pos = (226,270);
+ref = macroncomb;
 }
 );
 width = 1112;

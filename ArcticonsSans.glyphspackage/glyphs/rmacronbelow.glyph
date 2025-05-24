@@ -8,7 +8,6 @@ shapes = (
 ref = r;
 },
 {
-anchor = bottom_2;
 pos = (-230,0);
 ref = macronbelowcomb;
 }

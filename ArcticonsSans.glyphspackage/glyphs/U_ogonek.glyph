@@ -5,24 +5,11 @@ layers = (
 layerId = m002;
 shapes = (
 {
-locked = 1;
 ref = U;
 },
 {
-pos = (247,73);
+pos = (178,25);
 ref = ogonekcomb;
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(630,315,l)
-);
 }
 );
 width = 730;

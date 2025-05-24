@@ -8,8 +8,8 @@ shapes = (
 ref = G;
 },
 {
-pos = (85,0);
-ref = circumflexcomb.case;
+pos = (145,270);
+ref = circumflexcomb;
 }
 );
 width = 730;

@@ -9,8 +9,8 @@ shapes = (
 ref = E;
 },
 {
-pos = (20,-1);
-ref = caroncomb.case;
+pos = (20,270);
+ref = caroncomb;
 }
 );
 width = 600;

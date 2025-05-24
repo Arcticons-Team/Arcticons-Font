@@ -6,7 +6,7 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (330,50);
+pos = (330,0);
 },
 {
 name = bottom;
@@ -16,7 +16,7 @@ pos = (330,-270);
 layerId = m002;
 shapes = (
 {
-pos = (0,-1015);
+pos = (0,-988);
 ref = macroncomb;
 }
 );

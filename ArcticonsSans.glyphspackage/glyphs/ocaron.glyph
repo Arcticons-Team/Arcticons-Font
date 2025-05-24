@@ -1,5 +1,6 @@
 {
 glyphname = ocaron;
+kernLeft = lowercaseRound;
 layers = (
 {
 layerId = m002;

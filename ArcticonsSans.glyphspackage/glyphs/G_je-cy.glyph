@@ -8,8 +8,8 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (42,0);
-ref = acutecomb.case;
+pos = (260,270);
+ref = acutecomb;
 }
 );
 width = 720;

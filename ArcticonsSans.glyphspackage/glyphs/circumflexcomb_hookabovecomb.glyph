@@ -8,11 +8,12 @@ shapes = (
 ref = circumflexcomb;
 },
 {
-pos = (111,318);
+anchor = top_viet;
+pos = (192,174);
 ref = hookabovecomb;
 }
 );
-width = 530;
+width = 441;
 }
 );
 }
