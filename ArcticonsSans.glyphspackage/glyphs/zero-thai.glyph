@@ -1,0 +1,11 @@
+{
+export = 0;
+glyphname = "zero-thai";
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 3664;
+}

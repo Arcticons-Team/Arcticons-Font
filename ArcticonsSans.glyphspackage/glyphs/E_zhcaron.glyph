@@ -1,0 +1,11 @@
+{
+export = 0;
+glyphname = Ezhcaron;
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 494;
+}

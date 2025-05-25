@@ -7,61 +7,64 @@ layerId = m002;
 shapes = (
 {
 attr = {
-strokeWidth = 1;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(100,0,l),
-(100,5,l)
+(530,50,l),
+(315,367,l)
 );
 },
 {
 attr = {
-strokeWidth = 1;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(104,0,l),
-(102,4,l)
+(100,51,l),
+(100,509,l),
+(100,546,o),
+(127,590,o),
+(182,590,c),
+(200,590,o),
+(215,587,o),
+(228,580,c)
 );
 },
 {
 attr = {
-strokeWidth = 1;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(100,5,l),
-(100,5,o),
-(100,6,o),
-(101,6,c),
-(101,6,o),
-(101,6,o),
-(101,6,c)
+(315,367,l),
+(100,51,l)
 );
 },
 {
 attr = {
-strokeWidth = 1;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(102,4,l),
-(100,0,l)
-);
-},
-{
-attr = {
-strokeWidth = 1;
-};
-closed = 0;
-nodes = (
-(104,6,l),
-(104,0,l)
+(530,580,l),
+(530,50,l)
 );
 }
 );
-width = 600;
+width = 630;
 }
 );
 unicode = 3612;

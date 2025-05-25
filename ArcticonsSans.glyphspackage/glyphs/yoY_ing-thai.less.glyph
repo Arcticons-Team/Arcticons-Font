@@ -4,7 +4,14 @@ glyphname = "yoYing-thai.less";
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = "yoYing-thai";
 }
 );
+width = 878;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
 }

@@ -4,8 +4,97 @@ glyphname = "noNen-thai";
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(440,208,l),
+(440,121,o),
+(511,50,o),
+(598,50,c),
+(685,50,o),
+(756,121,o),
+(756,208,c),
+(756,580,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(223,54,l),
+(199,51,l),
+(147,43,o),
+(100,84,o),
+(100,136,c),
+(100,232,l),
+(100,311,o),
+(160,362,o),
+(234,362,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(103,441,l),
+(103,535,o),
+(169,580,o),
+(270,580,c),
+(273,580,l),
+(365,580,o),
+(440,505,o),
+(440,412,c),
+(440,208,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(234,362,l),
+(103,441,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(756,208,l),
+(756,50,l)
+);
 }
 );
+width = 856;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 3603;
 }

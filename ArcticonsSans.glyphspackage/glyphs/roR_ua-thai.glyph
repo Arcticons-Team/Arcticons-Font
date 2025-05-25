@@ -4,7 +4,12 @@ glyphname = "roRua-thai";
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = s;
+}
+);
+width = 554;
 }
 );
 unicode = 3619;
