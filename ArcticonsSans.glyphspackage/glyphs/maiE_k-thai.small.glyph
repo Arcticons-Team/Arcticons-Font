@@ -4,7 +4,24 @@ glyphname = "maiEk-thai.small";
 layers = (
 {
 layerId = m002;
-width = 300;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,849,l),
+(100,729,l)
+);
 }
 );
+width = 200;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
 }

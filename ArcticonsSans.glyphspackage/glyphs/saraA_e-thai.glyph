@@ -4,7 +4,17 @@ glyphname = "saraAe-thai";
 layers = (
 {
 layerId = m002;
-width = 700;
+shapes = (
+{
+ref = "saraE-thai";
+},
+{
+alignment = -1;
+pos = (272,0);
+ref = "saraE-thai";
+}
+);
+width = 600;
 }
 );
 metricLeft = "=50";

@@ -3,8 +3,41 @@ export = 0;
 glyphname = "saraAm-thai";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (180,630);
+},
+{
+name = top;
+pos = (180,900);
+}
+);
 layerId = m002;
-width = 700;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(223,689,o),
+(260,725,o),
+(260,769,cs),
+(260,813,o),
+(223,849,o),
+(180,849,cs),
+(136,849,o),
+(100,813,o),
+(100,769,cs),
+(100,725,o),
+(136,689,o),
+(180,689,cs)
+);
+}
+);
+width = 360;
 }
 );
 metricLeft = "=50";

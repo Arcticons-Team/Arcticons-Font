@@ -9,7 +9,7 @@ shapes = (
 ref = "yoYing-thai";
 }
 );
-width = 878;
+width = 880;
 }
 );
 metricLeft = "=50";

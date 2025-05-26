@@ -4,7 +4,59 @@ glyphname = "doDek-thai";
 layers = (
 {
 layerId = m002;
-width = 700;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,395,l),
+(500,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,395,l),
+(500,490,o),
+(420,580,o),
+(300,580,c),
+(180,580,o),
+(100,490,o),
+(100,395,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,395,l),
+(100,203,l),
+(100,133,o),
+(150,50,o),
+(253,50,c),
+(270,50,o),
+(286,52,o),
+(300,55,c)
+);
+}
+);
+width = 600;
 }
 );
 metricLeft = "=50";

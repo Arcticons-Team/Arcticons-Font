@@ -14,73 +14,13 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(778,219,l),
-(778,4,l),
-(778,-89,o),
-(702,-165,o),
-(609,-165,c),
-(562,-165,o),
-(520,-146,o),
-(490,-115,c)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(778,580,l),
-(778,219,l),
-(778,126,o),
-(702,50,o),
-(609,50,c),
-(516,50,o),
-(440,126,o),
-(440,219,c)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(223,55,l),
-(199,51,l),
-(147,44,o),
-(100,84,o),
-(100,136,c),
-(100,232,l),
-(100,312,o),
-(160,363,o),
-(235,363,c)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(103,442,l),
-(103,536,o),
-(170,580,o),
+(440,440,l),
+(440,535,o),
+(372,580,o),
 (270,580,c),
-(273,580,l),
-(365,580,o),
-(440,505,o),
-(440,413,c),
-(440,219,l)
+(168,580,o),
+(100,535,o),
+(100,440,c)
 );
 },
 {
@@ -92,12 +32,111 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(235,363,l),
-(103,442,l)
+(440,440,l),
+(440,220,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,440,l),
+(250,350,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(120,122,l),
+(120,240,l),
+(120,301,o),
+(169,350,o),
+(230,350,c),
+(250,350,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(120,122,l),
+(120,82,o),
+(152,50,o),
+(192,50,c),
+(215,50,o),
+(252,57,o),
+(276,77,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(440,220,l),
+(440,126,o),
+(516,50,o),
+(610,50,c),
+(704,50,o),
+(780,126,o),
+(780,220,c),
+(780,580,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(780,220,l),
+(780,3,l),
+(780,-91,o),
+(704,-167,o),
+(610,-167,c),
+(563,-167,o),
+(521,-148,o),
+(490,-117,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(440,415,l),
+(440,220,l)
 );
 }
 );
-width = 878;
+width = 880;
 }
 );
 metricLeft = "=50";

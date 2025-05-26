@@ -4,7 +4,47 @@ glyphname = "saraA-thai";
 layers = (
 {
 layerId = m002;
-width = 700;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,430,l),
+(164,430,l),
+(135,430,o),
+(100,451,o),
+(100,494,c),
+(100,508,o),
+(103,520,o),
+(108,530,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,150,l),
+(164,150,l),
+(135,150,o),
+(100,171,o),
+(100,214,c),
+(100,228,o),
+(103,240,o),
+(108,250,c)
+);
+}
+);
+width = 400;
 }
 );
 metricLeft = "=50";
