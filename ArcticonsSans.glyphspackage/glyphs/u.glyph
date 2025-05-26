@@ -19,11 +19,7 @@ pos = (300,630);
 },
 {
 name = top_viet;
-pos = (565,596);
-},
-{
-name = topright;
-pos = (580,630);
+pos = (450,630);
 }
 );
 layerId = m002;
@@ -64,5 +60,7 @@ nodes = (
 width = 600;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 117;
 }

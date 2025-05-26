@@ -5,11 +5,7 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (0,630);
-},
-{
-name = top;
-pos = (3,580);
+pos = (51,630);
 }
 );
 layerId = m002;
@@ -23,15 +19,17 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(200,580,l),
-(274,580,o),
-(331,599,o),
-(321,694,cs)
+(100,580,l),
+(174,580,o),
+(231,599,o),
+(221,694,cs)
 );
 }
 );
-width = 422;
+width = 322;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 795;
 }
