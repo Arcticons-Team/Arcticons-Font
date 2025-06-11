@@ -10,13 +10,8 @@ shapes = (
 ref = o;
 },
 {
-pos = (80,0);
-ref = circumflexcomb;
-},
-{
-anchor = top_right;
-pos = (123,230);
-ref = gravecomb;
+pos = (-5,0);
+ref = circumflexcomb_gravecomb;
 }
 );
 width = 600;
