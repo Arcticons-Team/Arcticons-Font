@@ -1,0 +1,18 @@
+{
+glyphname = aacute.ss01;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = a.ss01;
+},
+{
+pos = (200,0);
+ref = acutecomb;
+}
+);
+width = 600;
+}
+);
+}

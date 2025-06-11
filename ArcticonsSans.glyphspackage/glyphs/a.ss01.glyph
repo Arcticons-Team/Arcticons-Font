@@ -1,5 +1,7 @@
 {
 glyphname = a.ss01;
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
 layers = (
 {
 anchors = (
@@ -27,8 +29,8 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(140,503,l),
-(188,560,o),
+(140,501,l),
+(188,558,o),
 (232,580,o),
 (325,580,cs),
 (431,580,o),
@@ -43,9 +45,8 @@ lineCapEnd = 1;
 lineCapStart = 1;
 strokeWidth = 100;
 };
-closed = 0;
+closed = 1;
 nodes = (
-(500,250,l),
 (500,139,o),
 (411,50,o),
 (301,50,c),
@@ -55,8 +56,10 @@ nodes = (
 (100,182,c),
 (100,256,o),
 (159,315,o),
-(232,315,c),
-(500,315,l)
+(232,315,cs),
+(344,315,o),
+(433,321,o),
+(500,250,c)
 );
 }
 );

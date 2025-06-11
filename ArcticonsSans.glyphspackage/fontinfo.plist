@@ -539,6 +539,7 @@ v = -50;
 z = -30;
 };
 "@MMK_L_lowerT" = {
+"@MMK_R_lowerT" = -60;
 "@MMK_R_lowercaseRound" = -70;
 "@MMK_R_lowercaseStraight" = -30;
 "@MMK_R_lowercaseStraightAscender" = -10;
@@ -1645,7 +1646,6 @@ f = -50;
 i = -40;
 j = -150;
 s = -40;
-t = -60;
 v = -30;
 w = -30;
 y = -30;
