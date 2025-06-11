@@ -1,5 +1,7 @@
 {
 glyphname = Ohorn;
+kernLeft = uppercaseRound;
+kernRight = uppercaseHorn;
 layers = (
 {
 anchors = (

@@ -1,5 +1,6 @@
 {
 glyphname = ygrave;
+kernLeft = u;
 kernRight = lowercaseStraight;
 layers = (
 {

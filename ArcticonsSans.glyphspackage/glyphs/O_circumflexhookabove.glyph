@@ -1,5 +1,7 @@
 {
 glyphname = Ocircumflexhookabove;
+kernLeft = uppercaseRound;
+kernRight = uppercaseRound;
 layers = (
 {
 layerId = m002;

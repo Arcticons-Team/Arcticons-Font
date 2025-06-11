@@ -1,6 +1,7 @@
 {
 glyphname = ocircumflexgrave;
 kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
 layers = (
 {
 layerId = m002;

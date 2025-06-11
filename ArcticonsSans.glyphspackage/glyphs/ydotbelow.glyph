@@ -1,5 +1,7 @@
 {
 glyphname = ydotbelow;
+kernLeft = u;
+kernRight = lowercaseStraight;
 layers = (
 {
 anchors = (

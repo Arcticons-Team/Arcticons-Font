@@ -1,6 +1,7 @@
 {
 glyphname = uhookabove;
 kernLeft = u;
+kernRight = lowercaseStraight;
 layers = (
 {
 layerId = m002;

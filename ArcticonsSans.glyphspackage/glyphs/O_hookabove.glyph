@@ -1,5 +1,7 @@
 {
 glyphname = Ohookabove;
+kernLeft = uppercaseRound;
+kernRight = uppercaseRound;
 layers = (
 {
 layerId = m002;

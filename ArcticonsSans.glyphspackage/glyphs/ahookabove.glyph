@@ -1,5 +1,7 @@
 {
 glyphname = ahookabove;
+kernLeft = lowercaseRound;
+kernRight = lowercaseStraight;
 layers = (
 {
 layerId = m002;

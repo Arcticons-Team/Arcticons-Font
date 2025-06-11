@@ -1,5 +1,7 @@
 {
 glyphname = Ohorntilde;
+kernLeft = uppercaseRound;
+kernRight = uppercaseHorn;
 layers = (
 {
 layerId = m002;

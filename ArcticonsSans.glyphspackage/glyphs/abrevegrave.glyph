@@ -1,5 +1,7 @@
 {
 glyphname = abrevegrave;
+kernLeft = lowercaseRound;
+kernRight = lowercaseStraight;
 layers = (
 {
 layerId = m002;

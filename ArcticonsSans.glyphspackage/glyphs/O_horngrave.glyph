@@ -1,5 +1,7 @@
 {
 glyphname = Ohorngrave;
+kernLeft = uppercaseRound;
+kernRight = uppercaseHorn;
 layers = (
 {
 layerId = m002;

@@ -1,5 +1,7 @@
 {
 glyphname = edotbelow;
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
 layers = (
 {
 layerId = m002;

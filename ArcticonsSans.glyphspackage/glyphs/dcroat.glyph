@@ -1,5 +1,6 @@
 {
 glyphname = dcroat;
+kernLeft = lowercaseRound;
 layers = (
 {
 layerId = m002;

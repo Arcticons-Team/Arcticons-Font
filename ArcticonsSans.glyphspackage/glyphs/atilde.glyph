@@ -1,5 +1,6 @@
 {
 glyphname = atilde;
+kernLeft = lowercaseRound;
 kernRight = lowercaseStraight;
 layers = (
 {

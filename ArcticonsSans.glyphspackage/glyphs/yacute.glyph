@@ -1,5 +1,6 @@
 {
 glyphname = yacute;
+kernLeft = u;
 kernRight = lowercaseStraight;
 layers = (
 {

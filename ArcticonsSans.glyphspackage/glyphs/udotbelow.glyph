@@ -1,6 +1,7 @@
 {
 glyphname = udotbelow;
 kernLeft = u;
+kernRight = lowercaseStraight;
 layers = (
 {
 layerId = m002;
