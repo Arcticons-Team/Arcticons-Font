@@ -1,14 +1,20 @@
 {
 glyphname = Uhornhookabove;
+kernLeft = U;
+kernRight = uppercaseHorn;
 layers = (
 {
 layerId = m002;
 shapes = (
 {
 ref = Uhorn;
+},
+{
+pos = (196,270);
+ref = hookabovecomb;
 }
 );
-width = 730;
+width = 852;
 }
 );
 unicode = 7916;

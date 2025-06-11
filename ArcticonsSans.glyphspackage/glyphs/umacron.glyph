@@ -1,5 +1,6 @@
 {
 glyphname = umacron;
+kernLeft = u;
 kernRight = lowercaseStraight;
 layers = (
 {

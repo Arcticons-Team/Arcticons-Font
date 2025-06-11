@@ -48,8 +48,6 @@ languagesystem cyrl BGR;
 languagesystem cyrl MKD;
 languagesystem cyrl SRB;
 
-languagesystem thai dflt;
-
 languagesystem hebr dflt;
 languagesystem hebr IWR;
 ";
@@ -377,19 +375,6 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 ";
 tag = ordn;
-},
-{
-automatic = 1;
-code = "lookup rlig_thai_0 {
-	lookupflag IgnoreMarks;
-	sub lu-thai lakkhangyao-thai by lu_lakkhangyao-thai;
-	sub ru-thai lakkhangyao-thai by ru_lakkhangyao-thai;
-} rlig_thai_0;
-
-script thai;
-lookup rlig_thai_0;
-";
-tag = rlig;
 }
 );
 fontMaster = (
@@ -491,11 +476,12 @@ bracketright = -50;
 "@MMK_R_dot" = -30;
 "@MMK_R_lowercaseRound" = -60;
 "@MMK_R_parenthesis" = -30;
-"@MMK_R_uppercaseRound" = -100;
+"@MMK_R_uppercaseRound" = -50;
 W = -50;
 bracketright = -30;
 one = -40;
 seven = -120;
+three = -39;
 w = -50;
 };
 "@MMK_L_f" = {
@@ -532,6 +518,7 @@ z = -130;
 };
 "@MMK_L_i" = {
 "@MMK_R_A" = -40;
+"@MMK_R_i" = 10;
 "@MMK_R_lowercaseStraight" = -30;
 "@MMK_R_uppercaseDiagonal" = -10;
 T = -20;
@@ -557,19 +544,21 @@ Y = -120;
 j = -60;
 };
 "@MMK_L_lowercaseHorn" = {
+"@MMK_R_dash" = -120;
 "@MMK_R_f" = 80;
 "@MMK_R_i" = 50;
 "@MMK_R_lowerT" = -40;
 "@MMK_R_lowercaseAscender" = 100;
-"@MMK_R_lowercaseRound" = 10;
-"@MMK_R_lowercaseStraight" = -40;
+"@MMK_R_lowercaseRound" = -80;
+"@MMK_R_lowercaseStraight" = -30;
 "@MMK_R_lowercaseStraightAscender" = 100;
 "@MMK_R_lowercaseStraightDecender" = -30;
 "@MMK_R_lowercaseU" = 70;
 "@MMK_R_lowercaseX" = 80;
+"@MMK_R_u" = -30;
 j = -110;
 ohorndotbelow = 10;
-s = 40;
+s = -63;
 uhorn = 0;
 uhornacute = 60;
 uogonek = 80;
@@ -746,10 +735,14 @@ epsilon = 10;
 "@MMK_R_lowercaseStraightDecender" = -140;
 j = -180;
 };
+"@MMK_L_uppercaseHorn" = {
+"@MMK_R_T" = -20;
+"@MMK_R_U" = -28;
+};
 "@MMK_L_uppercaseRound" = {
 "@MMK_R_A" = -50;
 "@MMK_R_colon" = -20;
-"@MMK_R_dot" = -30;
+"@MMK_R_dot" = -90;
 "@MMK_R_lowercaseRound" = -20;
 T = -70;
 V = -40;
@@ -1048,6 +1041,9 @@ Iota = 10;
 "Tse-cy" = {
 "u-cy" = -60;
 };
+U = {
+"@MMK_R_U" = 0;
+};
 Upsilon = {
 "@MMK_R_A" = -150;
 Phi = -150;
@@ -1287,7 +1283,7 @@ f_f_l = {
 };
 five = {
 "@MMK_R_colon" = -50;
-"@MMK_R_dot" = -60;
+"@MMK_R_dot" = -78;
 degree = -30;
 five = 10;
 j = -200;
@@ -1570,6 +1566,7 @@ uhorn = 0;
 };
 s = {
 "@MMK_R_dot" = -50;
+"@MMK_R_i" = 0;
 "@MMK_R_lowerT" = -50;
 "@MMK_R_lowercaseRound" = -30;
 "@MMK_R_lowercaseStraight" = -20;
@@ -1579,7 +1576,6 @@ Y = -170;
 a = -50;
 bracketright = -90;
 f = -40;
-i = -40;
 j = -220;
 period = -50;
 s = -30;
@@ -1590,6 +1586,7 @@ v = -20;
 };
 seven = {
 "@MMK_R_colon" = -60;
+"@MMK_R_dot" = -61;
 "@MMK_R_lowerT" = -30;
 "@MMK_R_uppercaseStraight" = 10;
 degree = -20;
@@ -1784,6 +1781,13 @@ onesuperior = -20;
 };
 zeta = {
 omega = -100;
+};
+};
+};
+kerningRTL = {
+m002 = {
+"@MMK_R_dash" = {
+"@MMK_L_lowercaseHorn" = -80;
 };
 };
 };

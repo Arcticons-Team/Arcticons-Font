@@ -1,6 +1,6 @@
 {
 glyphname = uhorntilde;
-kernLeft = lowercaseU;
+kernLeft = u;
 kernRight = lowercaseHorn;
 layers = (
 {
@@ -14,7 +14,7 @@ pos = (24,0);
 ref = tildecomb;
 }
 );
-width = 721;
+width = 722;
 }
 );
 unicode = 7919;

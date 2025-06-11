@@ -1,6 +1,6 @@
 {
 glyphname = uhorn;
-kernLeft = lowercaseU;
+kernLeft = u;
 kernRight = lowercaseHorn;
 layers = (
 {
@@ -11,13 +11,11 @@ alignment = -1;
 ref = u;
 },
 {
-alignment = -1;
-anchor = top_viet;
-pos = (399,0);
+pos = (400,0);
 ref = horncomb;
 }
 );
-width = 721;
+width = 722;
 }
 );
 metricLeft = "=50";

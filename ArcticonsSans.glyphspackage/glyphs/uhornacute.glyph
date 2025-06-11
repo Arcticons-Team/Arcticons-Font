@@ -1,6 +1,6 @@
 {
 glyphname = uhornacute;
-kernLeft = lowercaseU;
+kernLeft = u;
 kernRight = lowercaseHorn;
 layers = (
 {
@@ -14,7 +14,7 @@ pos = (200,0);
 ref = acutecomb;
 }
 );
-width = 721;
+width = 722;
 }
 );
 unicode = 7913;

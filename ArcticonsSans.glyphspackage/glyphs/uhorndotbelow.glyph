@@ -1,6 +1,6 @@
 {
 glyphname = uhorndotbelow;
-kernLeft = lowercaseU;
+kernLeft = u;
 kernRight = lowercaseHorn;
 layers = (
 {
@@ -14,7 +14,7 @@ pos = (195,50);
 ref = dotbelowcomb;
 }
 );
-width = 721;
+width = 722;
 }
 );
 unicode = 7921;

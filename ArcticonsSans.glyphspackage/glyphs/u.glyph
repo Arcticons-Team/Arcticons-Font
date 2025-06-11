@@ -1,6 +1,6 @@
 {
 glyphname = u;
-kernLeft = lowercaseU;
+kernLeft = u;
 kernRight = lowercaseStraight;
 layers = (
 {
@@ -19,7 +19,7 @@ pos = (300,630);
 },
 {
 name = top_viet;
-pos = (450,630);
+pos = (451,630);
 }
 );
 layerId = m002;

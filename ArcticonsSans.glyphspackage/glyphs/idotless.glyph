@@ -1,5 +1,7 @@
 {
 glyphname = idotless;
+kernLeft = i;
+kernRight = i;
 layers = (
 {
 anchors = (
