@@ -1,6 +1,7 @@
 {
 glyphname = c;
 kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
 layers = (
 {
 anchors = (

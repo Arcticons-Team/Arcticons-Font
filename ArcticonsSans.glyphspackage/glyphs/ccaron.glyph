@@ -1,6 +1,7 @@
 {
 glyphname = ccaron;
 kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
 layers = (
 {
 layerId = m002;

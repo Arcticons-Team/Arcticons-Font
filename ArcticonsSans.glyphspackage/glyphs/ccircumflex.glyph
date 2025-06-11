@@ -1,5 +1,7 @@
 {
 glyphname = ccircumflex;
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
 layers = (
 {
 layerId = m002;
