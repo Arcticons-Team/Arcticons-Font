@@ -7,10 +7,6 @@ anchors = (
 {
 name = _topright;
 pos = (100,630);
-},
-{
-name = topright;
-pos = (100,899);
 }
 );
 layerId = m002;

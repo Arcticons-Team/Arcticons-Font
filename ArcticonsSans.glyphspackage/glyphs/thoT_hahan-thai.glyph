@@ -4,7 +4,12 @@ glyphname = "thoThahan-thai";
 layers = (
 {
 layerId = m002;
-width = 700;
+shapes = (
+{
+ref = n;
+}
+);
+width = 600;
 }
 );
 metricLeft = "=50";

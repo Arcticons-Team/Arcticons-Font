@@ -4,7 +4,55 @@ glyphname = "thoThong-thai";
 layers = (
 {
 layerId = m002;
-width = 700;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,95,l),
+(136,64,o),
+(175,50,o),
+(264,50,cs),
+(309,50,ls),
+(382,50,o),
+(441,110,o),
+(441,183,cs),
+(441,256,o),
+(382,315,o),
+(309,315,cs),
+(219,315,ls),
+(146,315,o),
+(87,375,o),
+(87,448,cs),
+(87,521,o),
+(146,580,o),
+(219,580,cs),
+(264,580,ls),
+(353,580,o),
+(392,566,o),
+(429,536,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,195,l),
+(100,95,l)
+);
+}
+);
+width = 510;
 }
 );
 metricLeft = "=50";

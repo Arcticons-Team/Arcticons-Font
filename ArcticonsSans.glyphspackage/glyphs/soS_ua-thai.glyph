@@ -4,7 +4,65 @@ glyphname = "soSua-thai";
 layers = (
 {
 layerId = m002;
-width = 700;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(317,66,l),
+(288,50,o),
+(249,50,o),
+(231,50,c),
+(159,50,o),
+(100,110,o),
+(100,183,c),
+(100,256,o),
+(159,315,o),
+(231,315,c),
+(500,315,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(150,528,l),
+(198,576,o),
+(232,580,o),
+(325,580,c),
+(430,580,o),
+(500,534,o),
+(500,408,c),
+(500,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(571,605,l),
+(571,550,o),
+(525,520,o),
+(471,520,c)
+);
+}
+);
+width = 671;
 }
 );
 metricLeft = "=50";

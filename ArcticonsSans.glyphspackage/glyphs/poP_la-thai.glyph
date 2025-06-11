@@ -4,7 +4,29 @@ glyphname = "poPla-thai";
 layers = (
 {
 layerId = m002;
-width = 700;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,795,l),
+(500,250,ls),
+(500,140,o),
+(410,50,o),
+(300,50,cs),
+(189,50,o),
+(100,140,o),
+(100,250,cs),
+(100,580,l)
+);
+}
+);
+width = 600;
 }
 );
 metricLeft = "=50";

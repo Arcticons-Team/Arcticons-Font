@@ -4,7 +4,12 @@ glyphname = "noNu-thai";
 layers = (
 {
 layerId = m002;
-width = 700;
+shapes = (
+{
+ref = u;
+}
+);
+width = 600;
 }
 );
 metricLeft = "=50";
