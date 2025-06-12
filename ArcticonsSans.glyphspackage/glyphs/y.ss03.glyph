@@ -1,7 +1,17 @@
 {
-glyphname = y.ss02;
+glyphname = y.ss03;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (451,0);
+},
+{
+name = top;
+pos = (300,630);
+}
+);
 layerId = m002;
 shapes = (
 {

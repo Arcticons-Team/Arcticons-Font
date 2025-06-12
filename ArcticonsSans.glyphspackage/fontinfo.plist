@@ -52,6 +52,10 @@ languagesystem hebr dflt;
 languagesystem hebr IWR;
 ";
 name = Languagesystems;
+},
+{
+code = "";
+name = ss03;
 }
 );
 features = (
@@ -66,6 +70,7 @@ feature case;
 feature fwid;
 feature ss01;
 feature ss02;
+feature ss03;
 feature ordn;
 ";
 tag = aalt;
@@ -339,6 +344,28 @@ tag = fwid;
 {
 automatic = 1;
 code = "sub a by a.ss01;
+sub aacute by aacute.ss01;
+sub abreve by abreve.ss01;
+sub abreveacute by abreveacute.ss01;
+sub abrevedotbelow by abrevedotbelow.ss01;
+sub abrevegrave by abrevegrave.ss01;
+sub abrevehookabove by abrevehookabove.ss01;
+sub abrevetilde by abrevetilde.ss01;
+sub acaron by acaron.ss01;
+sub acircumflex by acircumflex.ss01;
+sub acircumflexacute by acircumflexacute.ss01;
+sub acircumflexdotbelow by acircumflexdotbelow.ss01;
+sub acircumflexgrave by acircumflexgrave.ss01;
+sub acircumflexhookabove by acircumflexhookabove.ss01;
+sub acircumflextilde by acircumflextilde.ss01;
+sub adieresis by adieresis.ss01;
+sub adotbelow by adotbelow.ss01;
+sub agrave by agrave.ss01;
+sub ahookabove by ahookabove.ss01;
+sub amacron by amacron.ss01;
+sub aogonek by aogonek.ss01;
+sub aring by aring.ss01;
+sub atilde by atilde.ss01;
 ";
 labels = (
 {
@@ -350,7 +377,19 @@ tag = ss01;
 },
 {
 automatic = 1;
-code = "sub y by y.ss02;
+code = "sub e by e.ss02;
+";
+labels = (
+{
+language = dflt;
+value = "Alternate e";
+}
+);
+tag = ss02;
+},
+{
+automatic = 1;
+code = "sub y by y.ss03;
 ";
 labels = (
 {
@@ -358,7 +397,7 @@ language = dflt;
 value = "Alternate y";
 }
 );
-tag = ss02;
+tag = ss03;
 },
 {
 code = "";
@@ -497,7 +536,7 @@ w = -50;
 "@MMK_R_A" = -200;
 "@MMK_R_dot" = -150;
 "@MMK_R_f" = -130;
-"@MMK_R_lowercaseRound" = -190;
+"@MMK_R_lowercaseRound" = -200;
 "@MMK_R_lowercaseStraight" = -130;
 "@MMK_R_lowercaseStraightDecender" = -130;
 "@MMK_R_lowercaseX" = -130;
@@ -528,7 +567,7 @@ z = -130;
 "@MMK_L_i" = {
 "@MMK_R_A" = -40;
 "@MMK_R_i" = 10;
-"@MMK_R_lowercaseRound" = -20;
+"@MMK_R_lowercaseRound" = -30;
 "@MMK_R_lowercaseStraight" = -30;
 "@MMK_R_uppercaseDiagonal" = -10;
 T = -20;
@@ -536,7 +575,7 @@ bracketright = -10;
 f = -30;
 jdotless = -70;
 v = -50;
-z = -30;
+z = -20;
 };
 "@MMK_L_lowerT" = {
 "@MMK_R_lowerT" = -60;
@@ -583,11 +622,11 @@ z = 80;
 "@MMK_R_dot" = -60;
 "@MMK_R_f" = -60;
 "@MMK_R_lowerT" = -60;
-"@MMK_R_lowercaseRound" = -10;
+"@MMK_R_lowercaseRound" = -20;
 "@MMK_R_lowercaseStraight" = 0;
 "@MMK_R_lowercaseStraightAscender" = -10;
 "@MMK_R_lowercaseX" = -90;
-"@MMK_R_quote" = -60;
+"@MMK_R_quote" = -20;
 X = -80;
 Y = -200;
 bracketright = -90;
@@ -611,6 +650,7 @@ rho = -30;
 s = -10;
 sigma = -40;
 slash = -100;
+t = -60;
 tau = -110;
 "te-cy" = -70;
 u = -10;
@@ -646,6 +686,7 @@ slash = -40;
 "@MMK_R_lowercaseRound" = 0;
 "@MMK_R_lowercaseStraight" = 10;
 "@MMK_R_lowercaseU" = 0;
+"@MMK_R_quote" = 20;
 Y = -120;
 bracketright = -60;
 "de-cy" = 0;
@@ -688,6 +729,7 @@ slash = -10;
 "@MMK_R_T" = -150;
 "@MMK_R_lowerT" = -20;
 "@MMK_R_lowercaseRound" = -60;
+"@MMK_R_quote" = -20;
 Y = -140;
 bracketright = -70;
 hyphen = -80;
@@ -1183,7 +1225,6 @@ endash = -20;
 epsilon = -30;
 i = -30;
 j = -120;
-t = -60;
 u = -30;
 };
 chi = {
@@ -1295,7 +1336,7 @@ five = 10;
 j = -200;
 one = -10;
 seven = 0;
-six = 9;
+six = -11;
 };
 fiveinferior = {
 sixinferior = -10;
@@ -1343,7 +1384,6 @@ e = -40;
 g = -30;
 j = -70;
 l = -20;
-o = -40;
 p = -30;
 period = -60;
 s = -40;
@@ -1501,7 +1541,7 @@ tau = -20;
 };
 one = {
 four = -10;
-two = 0;
+two = 20;
 zero = 10;
 };
 oslash = {
@@ -1550,7 +1590,7 @@ quotedbl = {
 "@MMK_R_lowercaseRound" = -70;
 };
 quotesingle = {
-s = -50;
+s = -30;
 };
 r = {
 "@MMK_R_dot" = -100;
@@ -1677,7 +1717,7 @@ three = {
 "@MMK_R_dot" = -90;
 T = -40;
 degree = -30;
-four = -20;
+four = -10;
 j = -200;
 nine = -20;
 seven = -40;
@@ -1712,7 +1752,7 @@ j = -200;
 one = -20;
 plus = -60;
 seven = -50;
-three = -30;
+three = -10;
 three.ss01 = -20;
 };
 twoinferior = {
@@ -1754,7 +1794,7 @@ w = {
 T = -240;
 Y = -140;
 a = -60;
-i = -40;
+i = -20;
 j = -210;
 y = -10;
 };

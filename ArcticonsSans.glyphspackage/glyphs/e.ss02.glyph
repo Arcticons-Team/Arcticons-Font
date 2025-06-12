@@ -1,5 +1,5 @@
 {
-glyphname = e;
+glyphname = e.ss02;
 kernLeft = lowercaseRound;
 kernRight = lowercaseRound;
 layers = (
@@ -11,7 +11,7 @@ pos = (300,50);
 },
 {
 name = ogonek;
-pos = (458,32);
+pos = (484,82);
 },
 {
 name = top;
@@ -22,6 +22,7 @@ layerId = m002;
 shapes = (
 {
 attr = {
+identifier = ID0x121985120;
 lineCapEnd = 1;
 lineCapStart = 1;
 strokeHeight = 100;
@@ -35,6 +36,7 @@ nodes = (
 },
 {
 attr = {
+identifier = ID0x121985120;
 lineCapEnd = 1;
 lineCapStart = 1;
 strokeHeight = 100;
@@ -42,9 +44,9 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(473,151,l),
-(437,90,o),
-(374,50,o),
+(434,82,l),
+(384,51,o),
+(350,50,o),
 (300,50,c),
 (190,50,o),
 (100,140,o),
@@ -63,5 +65,6 @@ nodes = (
 width = 600;
 }
 );
-unicode = 101;
+metricLeft = "=50";
+metricRight = "=50";
 }

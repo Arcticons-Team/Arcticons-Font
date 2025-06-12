@@ -1,0 +1,36 @@
+{
+glyphname = eogonek.ss02;
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = e.ss02;
+},
+{
+pos = (82,4);
+ref = ogonekcomb;
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(434,82,l),
+(419,74,o),
+(397,62,o),
+(377,51,cs)
+);
+}
+);
+width = 600;
+}
+);
+}

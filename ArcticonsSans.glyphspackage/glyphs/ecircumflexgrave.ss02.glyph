@@ -1,0 +1,20 @@
+{
+glyphname = ecircumflexgrave.ss02;
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = e.ss02;
+},
+{
+pos = (-5,0);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 600;
+}
+);
+}
