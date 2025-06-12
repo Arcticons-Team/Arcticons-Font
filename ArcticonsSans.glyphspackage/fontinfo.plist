@@ -378,6 +378,22 @@ tag = ss01;
 {
 automatic = 1;
 code = "sub e by e.ss02;
+sub eacute by eacute.ss02;
+sub ecaron by ecaron.ss02;
+sub ecircumflex by ecircumflex.ss02;
+sub ecircumflexacute by ecircumflexacute.ss02;
+sub ecircumflexdotbelow by ecircumflexdotbelow.ss02;
+sub ecircumflexgrave by ecircumflexgrave.ss02;
+sub ecircumflexhookabove by ecircumflexhookabove.ss02;
+sub ecircumflextilde by ecircumflextilde.ss02;
+sub edieresis by edieresis.ss02;
+sub edotaccent by edotaccent.ss02;
+sub edotbelow by edotbelow.ss02;
+sub egrave by egrave.ss02;
+sub ehookabove by ehookabove.ss02;
+sub emacron by emacron.ss02;
+sub eogonek by eogonek.ss02;
+sub etilde by etilde.ss02;
 ";
 labels = (
 {
@@ -390,6 +406,15 @@ tag = ss02;
 {
 automatic = 1;
 code = "sub y by y.ss03;
+sub yacute by yacute.ss03;
+sub ycircumflex by ycircumflex.ss03;
+sub ydieresis by ydieresis.ss03;
+sub ydotaccent by ydotaccent.ss03;
+sub ydotbelow by ydotbelow.ss03;
+sub ygrave by ygrave.ss03;
+sub yhookabove by yhookabove.ss03;
+sub ymacron by ymacron.ss03;
+sub ytilde by ytilde.ss03;
 ";
 labels = (
 {
@@ -622,7 +647,7 @@ z = 80;
 "@MMK_R_dot" = -60;
 "@MMK_R_f" = -60;
 "@MMK_R_lowerT" = -60;
-"@MMK_R_lowercaseRound" = -20;
+"@MMK_R_lowercaseRound" = -10;
 "@MMK_R_lowercaseStraight" = 0;
 "@MMK_R_lowercaseStraightAscender" = -10;
 "@MMK_R_lowercaseX" = -90;

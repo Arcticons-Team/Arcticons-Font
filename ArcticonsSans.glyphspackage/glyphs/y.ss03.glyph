@@ -1,5 +1,7 @@
 {
 glyphname = y.ss03;
+kernLeft = lowercaseX;
+kernRight = lowercaseX;
 layers = (
 {
 anchors = (
