@@ -1,6 +1,6 @@
 {
 glyphname = l;
-kernLeft = lowercaseAscender;
+kernLeft = lowercaseStraightAscender;
 layers = (
 {
 anchors = (
