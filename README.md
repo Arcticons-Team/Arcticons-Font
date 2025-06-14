@@ -1,9 +1,11 @@
-# Arcticons Sans
-The font used by Arcticons
+# The Arcticons Sans typeface
 
-This is a work in progress font, currently in its alpha stage. I've made this font a long while ago in FontForge, but decided to switch to GlyphsApp and rebuild it.
+Originating from the need to have a custom line-based typeface for the open-source Arcticons icon-pack, Arcticons Sans was created in 2021. With many updates in the years to come, the typeface expanded. Becoming a standalone font with over 1100 glyphs, including support for over 100 languages. 
 
-You are welcome to help my out by reporting errors!
+The monolinear look is based on the principle that it has to be easily scalable while working with the typeface in the icon-pack. Each icon has the same line-width of 1px, and glyphs for the font were designed to fit within an 8×14px rectangle. This all results in the semi-condensed bold look of the typeface.
 
-![Artboard 1 copy 8](https://user-images.githubusercontent.com/31142286/135538955-b8d9dc76-56c0-4c9c-aa72-c68b956870ad.png)
-![Artboard 1 copy 9](https://user-images.githubusercontent.com/31142286/135538958-983a7b88-e53b-485d-945c-be6f30793f0e.png)
+Over the years, it has received many updates with numerous fixes, thanks to all the volunteers who helped to make this open-source typeface become what it is today.
+
+Arcticons Sans supports many OpenType features including contextual alternates which adjusts punctuation depending on the shape of surrounding glyphs, tabular numbers, and much more.
+
+Feel free to help us out by testing the typeface and reporting errors here!
