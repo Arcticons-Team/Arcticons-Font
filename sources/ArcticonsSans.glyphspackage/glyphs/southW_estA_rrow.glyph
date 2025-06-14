@@ -6,12 +6,14 @@ layerId = m002;
 shapes = (
 {
 angle = -135;
-pos = (442,855);
+pos = (443,855);
 ref = rightArrow;
 }
 );
-width = 694;
+width = 695;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 8601;
 }

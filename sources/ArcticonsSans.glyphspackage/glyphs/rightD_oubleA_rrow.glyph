@@ -1,0 +1,83 @@
+{
+glyphname = rightDoubleArrow;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x31e4071c0;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,215,l),
+(699,215,l)
+);
+},
+{
+attr = {
+identifier = ID0x31e4071c0;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,415,l),
+(699,415,l)
+);
+},
+{
+attr = {
+identifier = ID0x31cb0dbf0;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(535,50,l),
+(800,315,l)
+);
+},
+{
+attr = {
+identifier = ID0x31cb0dbf0;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(800,315,l)
+);
+},
+{
+attr = {
+identifier = ID0x31cb0dbf0;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(800,315,l),
+(535,580,l)
+);
+}
+);
+width = 900;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 8658;
+}

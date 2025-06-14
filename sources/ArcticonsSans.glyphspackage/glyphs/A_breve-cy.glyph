@@ -8,11 +8,11 @@ shapes = (
 ref = "A-cy";
 },
 {
-pos = (86,270);
+pos = (85,270);
 ref = "brevecomb-cy";
 }
 );
-width = 732;
+width = 730;
 }
 );
 unicode = 1232;

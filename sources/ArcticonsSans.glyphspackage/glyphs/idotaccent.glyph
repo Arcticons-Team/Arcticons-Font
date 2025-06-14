@@ -10,10 +10,11 @@ shapes = (
 ref = idotless;
 },
 {
+pos = (-5,0);
 ref = dotaccentcomb;
 }
 );
-width = 210;
+width = 200;
 }
 );
 }

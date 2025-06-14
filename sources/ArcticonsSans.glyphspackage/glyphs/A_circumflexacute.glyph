@@ -10,11 +10,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (176,270);
+pos = (175,270);
 ref = circumflexcomb_acutecomb;
 }
 );
-width = 732;
+width = 730;
 }
 );
 unicode = 7844;

@@ -72,5 +72,6 @@ nodes = (
 width = 860;
 }
 );
+metricRight = "=50";
 unicode = 119;
 }

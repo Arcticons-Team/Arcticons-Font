@@ -8,11 +8,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-59,270);
+pos = (-69,270);
 ref = hookabovecomb;
 }
 );
-width = 220;
+width = 200;
 }
 );
 unicode = 7880;

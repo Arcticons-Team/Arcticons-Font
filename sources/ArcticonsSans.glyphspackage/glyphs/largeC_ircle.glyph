@@ -1,0 +1,35 @@
+{
+glyphname = largeCircle;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(1195,-270,o),
+(1510,44,o),
+(1510,436,cs),
+(1510,826,o),
+(1195,1140,o),
+(805,1140,cs),
+(414,1140,o),
+(100,826,o),
+(100,436,cs),
+(100,44,o),
+(414,-270,o),
+(805,-270,cs)
+);
+}
+);
+width = 1610;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 9711;
+}

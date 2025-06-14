@@ -13,5 +13,7 @@ scale = (-1,1);
 width = 1450;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 10229;
 }

@@ -10,11 +10,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (261,50);
+pos = (260,50);
 ref = dotbelowcomb;
 }
 );
-width = 732;
+width = 730;
 }
 );
 unicode = 7840;

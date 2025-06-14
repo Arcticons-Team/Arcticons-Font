@@ -44,8 +44,9 @@ nodes = (
 );
 }
 );
-width = 380;
+width = 400;
 }
 );
+metricRight = "=50";
 unicode = 114;
 }

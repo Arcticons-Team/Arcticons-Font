@@ -10,8 +10,10 @@ pos = (252,-226);
 ref = rightArrow;
 }
 );
-width = 694;
+width = 695;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 8599;
 }

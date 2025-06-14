@@ -61,5 +61,6 @@ nodes = (
 width = 600;
 }
 );
+metricRight = "=50";
 unicode = 122;
 }

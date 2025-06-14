@@ -7,15 +7,15 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (105,50);
+pos = (100,50);
 },
 {
 name = ogonek;
-pos = (156,0);
+pos = (151,0);
 },
 {
 name = top;
-pos = (105,630);
+pos = (100,630);
 }
 );
 layerId = m002;
@@ -29,13 +29,15 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(105,580,l),
-(105,50,l)
+(100,580,l),
+(100,50,l)
 );
 }
 );
-width = 210;
+width = 200;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 305;
 }

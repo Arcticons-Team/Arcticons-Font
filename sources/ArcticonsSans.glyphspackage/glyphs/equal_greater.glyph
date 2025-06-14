@@ -1,0 +1,14 @@
+{
+glyphname = equal_greater;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = rightDoubleArrow;
+}
+);
+width = 900;
+}
+);
+}

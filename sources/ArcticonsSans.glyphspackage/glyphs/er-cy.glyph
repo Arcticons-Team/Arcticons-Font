@@ -16,7 +16,7 @@ shapes = (
 ref = p;
 }
 );
-width = 600;
+width = 590;
 }
 );
 unicode = 1088;
