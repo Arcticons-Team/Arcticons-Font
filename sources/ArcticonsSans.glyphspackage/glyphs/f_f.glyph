@@ -64,7 +64,7 @@ nodes = (
 );
 }
 );
-width = 872;
+width = 861;
 }
 );
 metricLeft = f;

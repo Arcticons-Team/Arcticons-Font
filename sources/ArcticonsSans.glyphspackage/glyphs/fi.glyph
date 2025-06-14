@@ -57,10 +57,10 @@ nodes = (
 );
 }
 );
-width = 647;
+width = 642;
 }
 );
 metricLeft = f;
-metricRight = i;
+metricRight = idotless;
 unicode = 64257;
 }

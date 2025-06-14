@@ -15,8 +15,8 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(366,850,l),
-(631,50,l)
+(365,850,l),
+(630,50,l)
 );
 },
 {
@@ -28,12 +28,12 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(101,50,l),
-(366,850,l)
+(100,50,l),
+(365,850,l)
 );
 }
 );
-width = 732;
+width = 730;
 }
 );
 metricLeft = A;

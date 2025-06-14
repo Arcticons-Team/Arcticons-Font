@@ -52,10 +52,6 @@ languagesystem hebr dflt;
 languagesystem hebr IWR;
 ";
 name = Languagesystems;
-},
-{
-code = "";
-name = ss03;
 }
 );
 features = (
@@ -673,6 +669,7 @@ z = -10;
 "@MMK_R_lowercaseStraightAscender" = -10;
 "@MMK_R_lowercaseX" = -60;
 "@MMK_R_quote" = -20;
+Iogonek = -110;
 X = -80;
 Y = -200;
 bracketright = -90;
@@ -734,6 +731,7 @@ slash = -40;
 "@MMK_R_lowercaseStraightAscender" = 10;
 "@MMK_R_lowercaseU" = 0;
 "@MMK_R_quote" = 20;
+Iogonek = -60;
 Y = -120;
 bracketright = -60;
 "de-cy" = 0;
@@ -763,6 +761,7 @@ w = -10;
 "@MMK_R_T" = -150;
 "@MMK_R_dot" = -20;
 "@MMK_R_lowercaseRound" = -20;
+Iogonek = -50;
 Y = -130;
 bracketright = -20;
 ecircumflexgrave = -20;
@@ -777,6 +776,7 @@ slash = -10;
 "@MMK_R_lowercaseAscender" = -10;
 "@MMK_R_lowercaseRound" = -60;
 "@MMK_R_quote" = -20;
+Iogonek = -40;
 Y = -140;
 bracketright = -70;
 hyphen = -80;
@@ -837,6 +837,7 @@ epsilon = 10;
 "@MMK_L_uppercaseDiagonal" = {
 "@MMK_R_f" = -110;
 "@MMK_R_lowercaseStraightDecender" = -140;
+Iogonek = -120;
 j = -180;
 };
 "@MMK_L_uppercaseHorn" = {
@@ -849,6 +850,7 @@ j = -180;
 "@MMK_R_dot" = -90;
 "@MMK_R_f" = -40;
 "@MMK_R_lowercaseRound" = -10;
+Iogonek = -100;
 T = -70;
 V = -40;
 bracketright = -70;
@@ -994,6 +996,10 @@ Delta = -250;
 "Ii-cy" = {
 "de-cy" = -20;
 };
+Iogonek = {
+"@MMK_R_lowercaseStraightAscender" = 10;
+"@MMK_R_lowercaseStraightDecender" = 20;
+};
 Iota = {
 Kappa = -20;
 };
@@ -1090,6 +1096,7 @@ R = {
 "@MMK_R_i" = -20;
 "@MMK_R_lowercaseRound" = -50;
 A = -30;
+Iogonek = -70;
 S = -20;
 T = -70;
 bracketright = -60;
@@ -1879,6 +1886,7 @@ parenright = 50;
 z = {
 "@MMK_R_T" = -150;
 "@MMK_R_lowercaseRound" = -50;
+Iogonek = -50;
 Y = -140;
 bracketright = -90;
 i = -40;

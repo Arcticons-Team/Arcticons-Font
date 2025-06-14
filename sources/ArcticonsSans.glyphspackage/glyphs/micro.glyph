@@ -1,0 +1,79 @@
+{
+glyphname = micro;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x3224ece90;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,580,l),
+(100,250,l),
+(100,140,o),
+(189,50,o),
+(300,50,cs),
+(410,50,o),
+(500,140,o),
+(500,250,c),
+(500,580,l)
+);
+},
+{
+attr = {
+identifier = ID0x3224ece90;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,250,l),
+(500,130,ls),
+(500,86,o),
+(535,50,o),
+(580,50,c)
+);
+},
+{
+attr = {
+identifier = ID0x3224ece90;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,250,l),
+(100,-220,l)
+);
+},
+{
+attr = {
+identifier = ID0x3224ece90;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(300,50,l)
+);
+}
+);
+width = 680;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 181;
+}

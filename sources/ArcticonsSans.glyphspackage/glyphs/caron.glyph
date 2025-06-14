@@ -1,0 +1,15 @@
+{
+glyphname = caron;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = caroncomb;
+}
+);
+width = 561;
+}
+);
+unicode = 711;
+}

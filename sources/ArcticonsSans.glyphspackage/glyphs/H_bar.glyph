@@ -5,6 +5,7 @@ layers = (
 layerId = m002;
 shapes = (
 {
+pos = (80,0);
 ref = H;
 },
 {
@@ -16,13 +17,15 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(20,680,l),
-(690,680,l)
+(100,680,l),
+(770,680,l)
 );
 }
 );
-width = 710;
+width = 870;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 294;
 }

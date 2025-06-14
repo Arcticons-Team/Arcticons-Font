@@ -1,11 +1,66 @@
 {
-export = 0;
 glyphname = section;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+attr = {
+identifier = ID0x32631e4a0;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(322,215,l),
+(395,215,o),
+(454,274,o),
+(454,348,cs),
+(454,532,o),
+(100,511,o),
+(100,718,cs),
+(100,791,o),
+(159,850,o),
+(232,850,c),
+(277,850,l),
+(365,850,o),
+(405,836,o),
+(441,805,c)
+);
+},
+{
+attr = {
+identifier = ID0x32631e4a0;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(113,-43,l),
+(149,-74,o),
+(189,-88,o),
+(277,-88,c),
+(322,-88,l),
+(395,-88,o),
+(454,-29,o),
+(454,44,cs),
+(454,251,o),
+(100,230,o),
+(100,414,cs),
+(100,488,o),
+(159,547,o),
+(232,547,c)
+);
 }
 );
+width = 554;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 167;
 }
