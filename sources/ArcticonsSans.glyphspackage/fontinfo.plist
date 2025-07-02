@@ -96,6 +96,8 @@ lookup ccmp_latn_1 {
 	lookupflag 0;
 	sub fi by f i;
 	sub fl by f l;
+	sub Ldot by L periodcentered.loclCAT.case;
+	sub ldot by l periodcentered.loclCAT;
 } ccmp_latn_1;
 
 script latn;
@@ -143,8 +145,8 @@ lookup locl_latn_2 {
 script latn;
 language CAT;
 lookup locl_latn_3 {
-	sub  l' periodcentered' l by ldot;
-	sub  L' periodcentered' L by Ldot;
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
 } locl_latn_3;
 
 script latn;
@@ -271,6 +273,7 @@ automatic = 1;
 code = "sub colon by colon.case;
 sub bullet by bullet.case;
 sub asterisk by asterisk.case;
+sub periodcentered.loclCAT by periodcentered.loclCAT.case;
 sub hyphen by hyphen.case;
 sub endash by endash.case;
 sub emdash by emdash.case;
@@ -286,6 +289,7 @@ sub dblanglebracketleft by dblanglebracketleft.case;
 sub dblanglebracketright by dblanglebracketright.case;
 sub tortoiseshellbracketleft by tortoiseshellbracketleft.case;
 sub tortoiseshellbracketright by tortoiseshellbracketright.case;
+sub at by at.case;
 sub plus by plus.case;
 sub minus by minus.case;
 sub multiply by multiply.case;
@@ -299,6 +303,24 @@ sub lessequal by lessequal.case;
 sub plusminus by plusminus.case;
 sub approxequal by approxequal.case;
 sub asciitilde by asciitilde.case;
+sub northEastArrow by northEastArrow.case;
+sub rightArrow by rightArrow.case;
+sub southEastArrow by southEastArrow.case;
+sub southWestArrow by southWestArrow.case;
+sub leftArrow by leftArrow.case;
+sub northWestArrow by northWestArrow.case;
+sub leftRightArrow by leftRightArrow.case;
+sub rightDoubleArrow by rightDoubleArrow.case;
+sub leftDoubleArrow by leftDoubleArrow.case;
+sub leftRightDoubleArrow by leftRightDoubleArrow.case;
+sub leftLongArrow by leftLongArrow.case;
+sub rightLongArrow by rightLongArrow.case;
+sub leftRightLongArrow by leftRightLongArrow.case;
+sub leftLongDoubleArrow by leftLongDoubleArrow.case;
+sub rightLongDoubleArrow by rightLongDoubleArrow.case;
+sub leftRightLongDoubleArrow by leftRightLongDoubleArrow.case;
+sub leftLongArrow2 by leftLongArrow2.case;
+sub rightLongArrow2 by rightLongArrow2.case;
 ";
 tag = case;
 },
@@ -449,6 +471,11 @@ fontMaster = (
 axesValues = (
 400
 );
+guides = (
+{
+pos = (-100,450);
+}
+);
 iconName = SemiBold;
 id = m002;
 metricValues = (
@@ -509,6 +536,7 @@ y = -20;
 T = -190;
 U = -50;
 W = -140;
+at.case = -80;
 bracketright = -50;
 epsilontonos = -30;
 j = -200;
@@ -838,6 +866,7 @@ epsilon = 10;
 "@MMK_R_f" = -110;
 "@MMK_R_lowercaseStraightDecender" = -140;
 Iogonek = -120;
+at.case = -120;
 j = -180;
 };
 "@MMK_L_uppercaseHorn" = {
@@ -1267,6 +1296,10 @@ xi = -50;
 asciitilde = {
 asciitilde = 0;
 slash = -30;
+};
+at.case = {
+"@MMK_R_A" = -110;
+"@MMK_R_uppercaseDiagonal" = -70;
 };
 "ayin-hb" = {
 "yod-hb" = 0;

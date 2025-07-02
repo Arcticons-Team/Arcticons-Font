@@ -1,16 +1,16 @@
 {
 color = 10;
-glyphname = periodcentered.loclCAT.case;
+glyphname = rightLongArrow2.case;
 layers = (
 {
 layerId = m002;
 shapes = (
 {
 pos = (0,135);
-ref = periodcentered;
+ref = rightLongArrow2;
 }
 );
-width = 270;
+width = 2000;
 }
 );
 }
