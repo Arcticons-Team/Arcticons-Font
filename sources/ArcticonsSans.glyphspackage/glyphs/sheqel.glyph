@@ -1,11 +1,74 @@
 {
-export = 0;
 glyphname = sheqel;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,300,l),
+(500,380,l),
+(500,491,o),
+(411,580,o),
+(300,580,c),
+(100,580,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,50,l),
+(100,580,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(700,580,l),
+(700,250,l),
+(700,140,o),
+(611,50,o),
+(500,50,c),
+(300,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,50,l),
+(300,330,l)
+);
 }
 );
+width = 800;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 8362;
 }
