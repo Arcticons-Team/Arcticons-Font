@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'Arcticons Sans';
+    src: url(../fonts/ArcticonsSans-Regular.woff2) format('woff2');
+}
+
+:root {
+    --white: #efefef;
+    --black: #0a0a0a;
+    --red: #f64740;
+    --blue: #00467f;
+    --yellow: #ffd447;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arcticons Sans', sans-serif;
+    font-weight: normal;
+    background-color: var(--white);
+    color: var(--black);
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 11vw;
+    line-height: 11vw;
+    font-weight: normal;
+    margin-top: 0px;
+}
+
+h2 {
+    font-size: 8vw;
+    line-height: 8vw;
+    margin-bottom: 60px;
+    font-weight: normal;
+    color: var(--blue);
+}
+
+h3 {
+    font-size:6vw;
+    line-height: 6vw;
+    margin-bottom: 0px;
+    font-weight: normal;
+}
+
+.content {
+    display: flexbox;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    padding: 20px;
+    gap: 10vh;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 20px;
+    margin: 0 auto;
+}
+
+.letter-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+    align-content: start;
+}
+
+.grid-content-3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin: 0 auto;
+}
+
+
+.grid-item {
+    aspect-ratio: 1;
+    background-color: var(--white);
+    border: 1px solid var(--black);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: pointer;
+}
+
+.grid-item:hover {
+    background-color: var(--black);
+    color: var(--white);
+    border: 0px solid var(--black);
+    
+}
+
+.grid-item.unsupported {
+    color: #cecece;
+}
+
+.glyph-preview {
+    position: sticky;
+    top: 20px;
+    background-color: var(--white);
+    border: 1px solid var(--black);
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease;
+}
+
+.preview-content {
+    font-size: 11vw;
+    transition: all 0.3s ease;
+}
+
+.previewlarge {
+    margin-top: 0px;
+    font-size: 9vw;
+    line-height: initial;
+}
+
+.languages-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    font-size: .9em;
+}
+
+.languages-grid div {
+    padding: 10px;
+}
+
+.fullscreen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--white);
+    color: var(--blue);
+}
+
+.heading {
+    width: 78vw;
+}
+
+@media screen and (max-width: 800px) {
+    h1 {
+    font-size: 18vw;
+    line-height: 21vw;
+}
+h2 {
+    font-size: 12vw;
+    line-height: 12vw;
+}
+.grid-content-3 {
+    grid-template-columns: 1fr;
+}
+}
