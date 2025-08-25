@@ -629,7 +629,7 @@ z = -130;
 };
 "@MMK_L_i" = {
 "@MMK_R_A" = -40;
-"@MMK_R_i" = 10;
+"@MMK_R_i" = 40;
 "@MMK_R_lowercaseRound" = -20;
 "@MMK_R_lowercaseStraight" = -10;
 "@MMK_R_uppercaseDiagonal" = -10;
@@ -750,7 +750,7 @@ slash = -40;
 };
 "@MMK_L_lowercaseStraight" = {
 "@MMK_R_A" = -10;
-"@MMK_R_T" = -150;
+"@MMK_R_T" = -130;
 "@MMK_R_dot" = -30;
 "@MMK_R_lowercaseAscender" = 10;
 "@MMK_R_lowercaseRound" = -20;
@@ -1345,9 +1345,8 @@ o = -10;
 "tav-hb" = -10;
 };
 dcroat = {
-"@MMK_R_i" = 20;
+"@MMK_R_i" = 60;
 "@MMK_R_lowercaseRound" = 20;
-igrave = 80;
 };
 "de-cy" = {
 "@MMK_R_lowercaseRound" = -70;
