@@ -49,7 +49,7 @@ decomposeTransformedComponents: false
 # overlaps: booleanOperations
 # expandFeaturesToInstances: false
 # reverseOutlineDirection: true
-removeOutlineOverlaps: false
+removeOutlineOverlaps: true
 # extraFontmakeArgs: ""
 # extraVariableFontmakeArgs: ""
 # extraStaticFontmakeArgs: ""
