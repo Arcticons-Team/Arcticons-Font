@@ -46,7 +46,7 @@ includeSourceFixes: true
 flattenComponents: true
 decomposeTransformedComponents: false
 # checkCompatibility: true
-overlaps: booleanOperations
+# overlaps: booleanOperations
 # expandFeaturesToInstances: false
 # reverseOutlineDirection: true
 removeOutlineOverlaps: true
