@@ -1,5 +1,5 @@
 {
-.appVersion = "3343";
+.appVersion = "3434";
 .formatVersion = 3;
 axes = (
 {
@@ -531,16 +531,18 @@ y = -20;
 "@MMK_R_f" = -120;
 "@MMK_R_i" = -40;
 "@MMK_R_lowerT" = -120;
-"@MMK_R_lowercaseRound" = -70;
+"@MMK_R_lowercaseRound" = -50;
 "@MMK_R_lowercaseStraight" = -10;
 T = -190;
 U = -50;
 W = -140;
 at.case = -80;
 bracketright = -50;
+delta = -40;
 epsilontonos = -30;
 j = -200;
 l = -40;
+lambda = -60;
 parenright = -70;
 s = -40;
 u = -40;
@@ -688,20 +690,23 @@ z = -10;
 };
 "@MMK_L_lowercaseRound" = {
 "@MMK_R_T" = -150;
+"@MMK_R_X" = -70;
 "@MMK_R_dot" = -70;
 "@MMK_R_f" = -60;
 "@MMK_R_lowerT" = -60;
 "@MMK_R_lowercaseRound" = -30;
-"@MMK_R_lowercaseStraight" = -10;
+"@MMK_R_lowercaseStraight" = 0;
 "@MMK_R_lowercaseStraightAscender" = -10;
 "@MMK_R_lowercaseX" = -60;
 "@MMK_R_quote" = -20;
+"Ha-cy" = -80;
 Iogonek = -110;
+Sigma = -40;
 X = -80;
 Y = -200;
 bracketright = -90;
 "de-cy" = -80;
-delta = 30;
+delta = -30;
 "el-cy" = -60;
 epsilon = -20;
 "er-cy" = -10;
@@ -753,7 +758,7 @@ slash = -40;
 "@MMK_R_T" = -130;
 "@MMK_R_dot" = -30;
 "@MMK_R_lowercaseAscender" = 10;
-"@MMK_R_lowercaseRound" = -20;
+"@MMK_R_lowercaseRound" = -10;
 "@MMK_R_lowercaseStraight" = 10;
 "@MMK_R_lowercaseStraightAscender" = 10;
 "@MMK_R_lowercaseU" = 0;
@@ -805,6 +810,7 @@ slash = -10;
 "@MMK_R_quote" = -20;
 Iogonek = -40;
 Y = -140;
+"Ze-cy" = -40;
 bracketright = -70;
 hyphen = -80;
 j = -120;
@@ -899,7 +905,9 @@ y = -10;
 "@MMK_R_i" = 10;
 "@MMK_R_lowercaseRound" = -10;
 "@MMK_R_uppdercaseStraight" = 20;
+eta = 10;
 j = -200;
+pi = 10;
 };
 A = {
 A = -20;
@@ -936,6 +944,9 @@ C = {
 A = -60;
 T = -70;
 };
+Chi = {
+chi = -40;
+};
 D = {
 O = -10;
 };
@@ -963,6 +974,7 @@ v = -90;
 };
 "Ef-cy" = {
 "@MMK_R_lowercaseRound" = -40;
+"Ha-cy" = -40;
 };
 Egrave = {
 v = -60;
@@ -974,6 +986,7 @@ Epsilon = {
 "@MMK_R_lowercaseRound" = -60;
 "@MMK_R_lowercaseStraight" = -20;
 "@MMK_R_tonosCase" = 180;
+epsilon = -10;
 kappa = -10;
 tau = -150;
 };
@@ -982,6 +995,9 @@ Epsilontonos = {
 };
 "Er-cy" = {
 "@MMK_R_lowercaseRound" = -60;
+};
+"Ereversed-cy" = {
+"Yu-cy" = 10;
 };
 "Es-cy" = {
 "@MMK_R_lowercaseRound" = -10;
@@ -1005,9 +1021,11 @@ two = -80;
 };
 Gamma = {
 Delta = -250;
+gamma = -70;
 };
 "Ge-cy" = {
-"@MMK_R_lowercaseStraight" = -210;
+"@MMK_R_lowercaseStraight" = -50;
+"De-cy" = -120;
 };
 "Gestroke-cy" = {
 "@MMK_R_lowercaseStraight" = -110;
@@ -1132,6 +1150,7 @@ bracketright = -60;
 Rho = {
 "@MMK_R_lowercaseRound" = -50;
 Sigma = -80;
+rho = -40;
 };
 S = {
 "@MMK_R_lowercaseRound" = -30;
@@ -1145,8 +1164,11 @@ w = -80;
 "el-cy" = -60;
 };
 Sigma = {
-"@MMK_R_lowercaseRound" = -80;
+"@MMK_R_lowercaseRound" = -70;
 epsilon = -60;
+};
+"Softsign-cy" = {
+"Hardsign-cy" = -40;
 };
 T = {
 "@MMK_R_S" = -50;
@@ -1176,25 +1198,33 @@ w = -240;
 Tau = {
 "@MMK_R_lowercaseStraight" = -160;
 epsilon = -220;
+tau = -30;
 };
 "Te-cy" = {
 "@MMK_R_lowercaseRound" = -240;
 "i-cy" = -20;
+"te-cy" = -50;
 };
 Theta = {
 Iota = 10;
 };
 "Tse-cy" = {
+"Sha-cy" = 0;
 "u-cy" = -60;
 };
 U = {
 "@MMK_R_U" = 0;
 "@MMK_R_f" = -40;
 };
+"U-cy" = {
+"Ef-cy" = -50;
+"u-cy" = -60;
+};
 Upsilon = {
 "@MMK_R_A" = -150;
 Phi = -150;
 lambda = -10;
+upsilon = -30;
 };
 Upsilontonos = {
 "@MMK_R_tonosCase" = 20;
@@ -1227,6 +1257,9 @@ X = {
 "@MMK_R_lowerT" = -120;
 "@MMK_R_lowercaseRound" = -70;
 };
+Xi = {
+xi = -40;
+};
 Y = {
 "@MMK_R_dash" = -160;
 "@MMK_R_i" = -30;
@@ -1250,10 +1283,22 @@ z = -150;
 Ydieresis = {
 "tsadiFinal-hb" = -30;
 };
+"Yeru-cy" = {
+"Ereversed-cy" = 10;
+};
+"Yi-cy" = {
+"yi-cy" = 280;
+};
+"Yu-cy" = {
+"Ya-cy" = -10;
+};
 Z = {
 "@MMK_R_lowercaseRound" = -90;
 "@MMK_R_uppercaseRound" = -80;
 A = -30;
+};
+Zeta = {
+zeta = 10;
 };
 "Zhe-cy" = {
 "@MMK_R_lowercaseRound" = -30;
@@ -1332,6 +1377,8 @@ u = -30;
 };
 chi = {
 "@MMK_R_lowercaseRound" = -110;
+Psi = -50;
+psi = -50;
 };
 colon = {
 parenright = -50;
@@ -1349,7 +1396,7 @@ dcroat = {
 "@MMK_R_lowercaseRound" = 20;
 };
 "de-cy" = {
-"@MMK_R_lowercaseRound" = -70;
+"@MMK_R_lowercaseRound" = -60;
 "@MMK_R_lowercaseStraight" = 10;
 "u-cy" = -60;
 };
@@ -1363,7 +1410,10 @@ one = -10;
 two = -50;
 };
 delta = {
+"@MMK_R_dot" = -30;
+"@MMK_R_lowercaseRound" = -10;
 "@MMK_R_lowercaseStraight" = 0;
+delta = -10;
 epsilon = -40;
 };
 e = {
@@ -1405,6 +1455,7 @@ phi = -30;
 "es-cy" = {
 "@MMK_R_dot" = -50;
 "@MMK_R_lowercaseRound" = -20;
+"Te-cy" = -80;
 "te-cy" = -40;
 "u-cy" = -20;
 };
@@ -1466,9 +1517,13 @@ g = {
 i = -10;
 };
 gamma = {
+"@MMK_R_A" = -30;
 "@MMK_R_lowercaseRound" = -60;
 alphatonos = -30;
 rho = -20;
+};
+"ge-cy" = {
+"de-cy" = -90;
 };
 "ge-cy.loclSRB" = {
 "de-cy.loclSRB" = -150;
@@ -1494,6 +1549,7 @@ x = -20;
 };
 "i-cy" = {
 "@MMK_R_dot" = -60;
+"Yi-cy" = 150;
 "el-cy" = -10;
 "ka-cy" = -20;
 "te-cy" = -40;
@@ -1513,11 +1569,15 @@ igrave = {
 "iishort-cy" = {
 "te-cy" = -10;
 };
+"io-cy" = {
+"@MMK_R_lowercaseX" = -40;
+};
 iota = {
 "@MMK_R_dot" = -50;
 "@MMK_R_lowercaseRound" = -50;
 "@MMK_R_lowercaseStraight" = -30;
 "@MMK_R_parenthesis" = -30;
+Kappa = -20;
 delta = -50;
 epsilon = -30;
 gamma = -120;
@@ -1593,6 +1653,7 @@ w = -100;
 y = -60;
 };
 lambda = {
+"@MMK_R_dot" = -20;
 "@MMK_R_lowercaseRound" = -40;
 "@MMK_R_lowercaseStraight" = -40;
 alpha = -40;
@@ -1626,6 +1687,7 @@ zero = 0;
 nu = {
 "@MMK_R_dot" = -150;
 "@MMK_R_lowercaseRound" = -70;
+Xi = -10;
 alpha = -50;
 delta = -110;
 epsilon = -50;
@@ -1669,6 +1731,7 @@ five = -50;
 };
 phi = {
 "@MMK_R_lowercaseRound" = -30;
+chi = -40;
 epsilon = -40;
 };
 pi = {
@@ -1755,13 +1818,20 @@ zero = -40;
 sevensuperior = {
 eightsuperior = -10;
 };
+"shcha-cy" = {
+"@MMK_R_lowercaseStraight" = -30;
+};
 sigma = {
 "@MMK_R_dot" = -130;
 "@MMK_R_lowercaseRound" = -80;
 "@MMK_R_lowercaseStraight" = -30;
 epsilon = -40;
 sigma = -30;
+sigmafinal = -30;
 tau = -20;
+};
+sigmafinal = {
+Tau = -80;
 };
 six = {
 eight = -10;
@@ -1783,6 +1853,9 @@ slash = {
 asciitilde = -30;
 v = -80;
 };
+"softsign-cy" = {
+"hardsign-cy" = -50;
+};
 space = {
 "Be-cy" = -10;
 L = 0;
@@ -1801,6 +1874,7 @@ y = -30;
 };
 tau = {
 "@MMK_R_lowercaseRound" = -40;
+Upsilon = -30;
 epsilon = -20;
 epsilontonos = -20;
 };
@@ -1812,6 +1886,7 @@ epsilontonos = -20;
 "te-cy" = {
 "@MMK_R_lowercaseRound" = -70;
 "@MMK_R_lowercaseStraight" = -10;
+"U-cy" = -40;
 "i-cy" = -30;
 "u-cy" = -30;
 };
@@ -1848,6 +1923,7 @@ foursuperior = -10;
 "@MMK_R_dot" = -30;
 "@MMK_R_lowercaseRound" = -80;
 "@MMK_R_lowercaseStraight" = -10;
+"Che-cy" = -50;
 "te-cy" = -110;
 "u-cy" = -30;
 };
@@ -1908,6 +1984,12 @@ y = -10;
 };
 whitelenticularbracketright = {
 parenright = 50;
+};
+xi = {
+"@MMK_R_uppercaseRound" = -30;
+};
+"yi-cy" = {
+"Iishort-cy" = 130;
 };
 "yod-hb" = {
 "@MMK_R_hebrewStraight" = 10;

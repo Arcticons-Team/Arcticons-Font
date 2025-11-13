@@ -1,5 +1,7 @@
 {
 glyphname = "A-cy";
+kernLeft = A;
+kernRight = A;
 layers = (
 {
 layerId = m002;
