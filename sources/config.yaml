@@ -43,17 +43,18 @@ includeSourceFixes: true
 
 # These options give fine-grained control over how fontmake builds
 # the fonts.
-flattenComponents: false
-decomposeTransformedComponents: true
+# flattenComponents: true
+decomposeTransformedComponents: false
 # checkCompatibility: true
 # overlaps: booleanOperations
 # expandFeaturesToInstances: false
 # reverseOutlineDirection: true
-removeOutlineOverlaps: true
+removeOutlineOverlaps: false
 # extraFontmakeArgs: ""
 # extraVariableFontmakeArgs: ""
 # extraStaticFontmakeArgs: ""
 # glyphData: GlyphData.xml
+extraFontmakeArgs: --filter "ufostroker::StrokeFilter(Segmentwise=True,Width=100,pre=True,StartCap='circle', EndCap='circle',JoinType='round')"
 
 # This control how STAT tables are generated. The STAT table is
 # specified here as a list of axis names, tags and values. You
