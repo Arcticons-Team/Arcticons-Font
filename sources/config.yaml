@@ -50,6 +50,7 @@ decomposeTransformedComponents: false
 # expandFeaturesToInstances: false
 # reverseOutlineDirection: true
 removeOutlineOverlaps: false
+extraFontmakeArgs: --filter "ufostroker::StrokeFilter(Segmentwise=True,Width=100,pre=True,StartCap='circle', EndCap='circle',JoinType='round')"
 # extraVariableFontmakeArgs: ""
 # extraStaticFontmakeArgs: ""
 # glyphData: GlyphData.xml
