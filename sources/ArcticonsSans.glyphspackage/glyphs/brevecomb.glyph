@@ -21,9 +21,8 @@ lineCapStart = "1";
 strokeHeight = 100;
 strokeWidth = 100;
 };
-closed = 0;
+closed = 1;
 nodes = (
-(160,811,l)
 );
 },
 {
@@ -38,7 +37,7 @@ nodes = (
 (160,811,l),
 (174,759,o),
 (223,719,o),
-(280,719,c),
+(280,719,cs),
 (338,719,o),
 (386,759,o),
 (401,812,c)
@@ -51,9 +50,8 @@ lineCapStart = "1";
 strokeHeight = 100;
 strokeWidth = 100;
 };
-closed = 0;
+closed = 1;
 nodes = (
-(401,812,l)
 );
 }
 );

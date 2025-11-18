@@ -54,9 +54,8 @@ lineCapStart = 1;
 strokeHeight = 100;
 strokeWidth = 100;
 };
-closed = 0;
+closed = 1;
 nodes = (
-(800,315,l)
 );
 },
 {
