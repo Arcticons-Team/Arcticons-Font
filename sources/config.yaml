@@ -44,7 +44,7 @@ includeSourceFixes: true
 # These options give fine-grained control over how fontmake builds
 # the fonts.
 flattenComponents: true
-decomposeTransformedComponents: false
+decomposeTransformedComponents: true
 # checkCompatibility: true
 # overlaps: booleanOperations
 # expandFeaturesToInstances: false
