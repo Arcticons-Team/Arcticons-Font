@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="smilingFaceWithOpenMouthAndColdSweat" format="2">
+  <advance width="1120"/>
+  <unicode hex="1F605"/>
+  <outline>
+    <component base="smilingFaceWithOpenMouthAndSmilingEyes"/>
+    <contour>
+      <point x="891" y="612" type="move"/>
+      <point x="891" y="801" type="line"/>
+    </contour>
+  </outline>
+</glyph>

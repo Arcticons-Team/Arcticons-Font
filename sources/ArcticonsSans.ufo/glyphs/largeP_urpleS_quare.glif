@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="largePurpleSquare" format="2">
+  <advance width="1120"/>
+  <unicode hex="1F7EA"/>
+  <outline>
+    <component base="blackLargeSquare"/>
+  </outline>
+</glyph>

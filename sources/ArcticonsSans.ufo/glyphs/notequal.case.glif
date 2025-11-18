@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal.case" format="2">
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <point x="100" y="295" type="move"/>
+      <point x="600" y="295" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="595" type="move"/>
+      <point x="600" y="595" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="135" type="move"/>
+      <point x="450" y="765" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

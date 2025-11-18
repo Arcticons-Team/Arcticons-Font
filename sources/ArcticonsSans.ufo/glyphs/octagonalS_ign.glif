@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="octagonalSign" format="2">
+  <advance width="1120"/>
+  <unicode hex="1F6D1"/>
+  <outline>
+    <contour>
+      <point x="751" y="850" type="move"/>
+      <point x="370" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="-70" type="move"/>
+      <point x="751" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="1020" y="199" type="move"/>
+      <point x="1020" y="581" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="581" type="move"/>
+      <point x="100" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="850" type="move"/>
+      <point x="100" y="581" type="line"/>
+    </contour>
+    <contour>
+      <point x="1020" y="581" type="move"/>
+      <point x="751" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="751" y="-70" type="move"/>
+      <point x="1020" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="199" type="move"/>
+      <point x="370" y="-70" type="line"/>
+    </contour>
+  </outline>
+</glyph>

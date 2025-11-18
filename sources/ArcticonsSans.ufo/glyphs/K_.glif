@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="630"/>
+  <unicode hex="004B"/>
+  <anchor x="315" y="0" name="bottom"/>
+  <anchor x="315" y="900" name="top"/>
+  <outline>
+    <contour>
+      <point x="100" y="850" type="move"/>
+      <point x="100" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="328" type="move"/>
+      <point x="530" y="847" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="50" type="move"/>
+      <point x="201" y="450" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

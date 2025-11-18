@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftRightDoubleArrow" format="2">
+  <advance width="1220"/>
+  <unicode hex="21D4"/>
+  <outline>
+    <contour identifier="ID0x31e228460">
+      <point x="1019" y="215" type="move"/>
+      <point x="201" y="215" type="line"/>
+    </contour>
+    <contour>
+      <point x="855" y="50" type="move"/>
+      <point x="1120" y="315" type="line"/>
+    </contour>
+    <contour>
+      <point x="1120" y="315" type="move"/>
+      <point x="855" y="580" type="line"/>
+    </contour>
+    <contour identifier="ID0x171949150">
+      <point x="201" y="415" type="move"/>
+      <point x="1018" y="415" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="315" type="move"/>
+      <point x="365" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="580" type="move"/>
+      <point x="100" y="315" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

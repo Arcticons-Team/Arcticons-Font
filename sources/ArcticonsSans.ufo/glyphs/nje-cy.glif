@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nje-cy" format="2">
+  <advance width="880"/>
+  <unicode hex="045A"/>
+  <outline>
+    <contour identifier="ID0x2a88b2400">
+      <point x="100" y="580" type="move"/>
+      <point x="100" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="316" type="move"/>
+      <point x="440" y="316" type="line"/>
+    </contour>
+    <contour identifier="ID0x2a8875f50">
+      <point x="440" y="50" type="move"/>
+      <point x="649" y="50" type="line" smooth="yes"/>
+      <point x="721" y="50"/>
+      <point x="780" y="109"/>
+      <point x="780" y="183" type="curve" smooth="yes"/>
+      <point x="780" y="256"/>
+      <point x="721" y="315"/>
+      <point x="649" y="315" type="curve" smooth="yes"/>
+      <point x="440" y="315" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="580" type="move"/>
+      <point x="440" y="50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>softsign-cy</string>
+    </dict>
+  </lib>
+</glyph>

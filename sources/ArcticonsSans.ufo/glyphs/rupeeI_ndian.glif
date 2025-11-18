@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rupeeIndian" format="2">
+  <advance width="730"/>
+  <unicode hex="20B9"/>
+  <outline>
+    <contour>
+      <point x="100" y="836" type="move"/>
+      <point x="262" y="836" type="line" smooth="yes"/>
+      <point x="410" y="836"/>
+      <point x="530" y="715"/>
+      <point x="530" y="567" type="curve" smooth="yes"/>
+      <point x="530" y="418"/>
+      <point x="410" y="298"/>
+      <point x="262" y="298" type="curve"/>
+    </contour>
+    <contour>
+      <point x="262" y="836" type="move"/>
+      <point x="630" y="836" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="566" type="move"/>
+      <point x="630" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="298" type="move"/>
+      <point x="530" y="36" type="line"/>
+    </contour>
+  </outline>
+</glyph>

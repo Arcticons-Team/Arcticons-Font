@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="730"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="529" y="850" type="move"/>
+      <point x="100" y="313" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="313" type="move"/>
+      <point x="630" y="313" type="line"/>
+    </contour>
+    <contour>
+      <point x="529" y="50" type="move"/>
+      <point x="529" y="850" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

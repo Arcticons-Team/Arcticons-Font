@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="te-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="0442"/>
+  <anchor x="580" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="100" y="580" type="move"/>
+      <point x="500" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="50" type="move"/>
+      <point x="300" y="580" type="line"/>
+    </contour>
+  </outline>
+</glyph>

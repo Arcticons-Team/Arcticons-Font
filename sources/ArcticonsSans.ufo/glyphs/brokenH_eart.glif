@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenHeart" format="2">
+  <advance width="1120"/>
+  <unicode hex="1F494"/>
+  <outline>
+    <component base="heavyBlackHeart_VS16"/>
+    <contour>
+      <point x="560" y="730" type="move"/>
+      <point x="477" y="592" type="line"/>
+    </contour>
+    <contour>
+      <point x="628" y="450" type="move"/>
+      <point x="477" y="592" type="line"/>
+    </contour>
+    <contour>
+      <point x="628" y="450" type="move"/>
+      <point x="492" y="309" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="19" type="move"/>
+      <point x="492" y="309" type="line"/>
+    </contour>
+  </outline>
+</glyph>

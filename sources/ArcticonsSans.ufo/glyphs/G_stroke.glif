@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gstroke" format="2">
+  <advance width="730"/>
+  <unicode hex="01E4"/>
+  <outline>
+    <component base="G"/>
+    <contour identifier="ID0x1243ab640">
+      <point x="429" y="188" type="move"/>
+      <point x="725" y="188" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="palochka-cy" format="2">
+  <advance width="210"/>
+  <unicode hex="04CF"/>
+  <outline>
+    <contour identifier="ID0x2989961d0">
+      <point x="105" y="730" type="move"/>
+      <point x="105" y="50" type="line"/>
+    </contour>
+  </outline>
+</glyph>

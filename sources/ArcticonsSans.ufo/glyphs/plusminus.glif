@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plusminus" format="2">
+  <advance width="700"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <component base="underscore"/>
+    <contour identifier="ID0x120c5e5a0">
+      <point x="100" y="400" type="move"/>
+      <point x="600" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="580" type="move"/>
+      <point x="350" y="220" type="line"/>
+    </contour>
+  </outline>
+</glyph>

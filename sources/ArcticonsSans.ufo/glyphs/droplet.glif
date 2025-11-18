@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="droplet" format="2">
+  <advance width="931"/>
+  <unicode hex="1F4A7"/>
+  <outline>
+    <contour>
+      <point x="465" y="-70" type="move"/>
+      <point x="263" y="-70"/>
+      <point x="100" y="94"/>
+      <point x="100" y="296" type="curve" smooth="yes"/>
+      <point x="100" y="620"/>
+      <point x="465" y="850"/>
+      <point x="465" y="850" type="curve"/>
+    </contour>
+    <contour>
+      <point x="465" y="850" type="move"/>
+      <point x="465" y="850"/>
+      <point x="831" y="619"/>
+      <point x="831" y="296" type="curve" smooth="yes"/>
+      <point x="831" y="94"/>
+      <point x="667" y="-70"/>
+      <point x="465" y="-70" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

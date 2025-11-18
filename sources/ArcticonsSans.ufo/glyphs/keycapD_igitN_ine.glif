@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="keycapDigitNine" format="2">
+  <advance width="1120"/>
+  <outline>
+    <contour>
+      <point x="880" y="850" type="curve" smooth="yes"/>
+      <point x="240" y="850" type="line" smooth="yes"/>
+      <point x="162" y="850"/>
+      <point x="100" y="787"/>
+      <point x="100" y="710" type="curve" smooth="yes"/>
+      <point x="100" y="70" type="line" smooth="yes"/>
+      <point x="100" y="-7"/>
+      <point x="162" y="-70"/>
+      <point x="240" y="-70" type="curve" smooth="yes"/>
+      <point x="880" y="-70" type="line" smooth="yes"/>
+      <point x="957" y="-70"/>
+      <point x="1020" y="-7"/>
+      <point x="1020" y="70" type="curve" smooth="yes"/>
+      <point x="1020" y="710" type="line" smooth="yes"/>
+      <point x="1020" y="787"/>
+      <point x="957" y="850"/>
+    </contour>
+    <contour>
+      <point x="374" y="485" type="curve" smooth="yes"/>
+      <point x="374" y="587"/>
+      <point x="457" y="670"/>
+      <point x="560" y="670" type="curve" smooth="yes"/>
+      <point x="662" y="670"/>
+      <point x="745" y="587"/>
+      <point x="745" y="485" type="curve" smooth="yes"/>
+      <point x="745" y="382"/>
+      <point x="662" y="299"/>
+      <point x="560" y="299" type="curve" smooth="yes"/>
+      <point x="457" y="299"/>
+      <point x="374" y="382"/>
+    </contour>
+    <contour>
+      <point x="390" y="178" type="move"/>
+      <point x="421" y="138"/>
+      <point x="468" y="110"/>
+      <point x="546" y="110" type="curve" smooth="yes"/>
+      <point x="560" y="110" type="line" smooth="yes"/>
+      <point x="662" y="110"/>
+      <point x="745" y="193"/>
+      <point x="745" y="296" type="curve" smooth="yes"/>
+      <point x="745" y="485" type="line"/>
+    </contour>
+  </outline>
+</glyph>

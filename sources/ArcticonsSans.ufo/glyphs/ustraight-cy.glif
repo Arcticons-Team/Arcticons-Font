@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraight-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="04AF"/>
+  <outline>
+    <component base="v"/>
+    <contour>
+      <point x="300" y="69" type="move"/>
+      <point x="300" y="-220" type="line"/>
+    </contour>
+  </outline>
+</glyph>

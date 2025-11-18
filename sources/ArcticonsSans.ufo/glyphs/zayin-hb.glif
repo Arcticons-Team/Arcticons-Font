@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zayin-hb" format="2">
+  <advance width="460"/>
+  <unicode hex="05D6"/>
+  <anchor x="400" y="0" name="bottom"/>
+  <anchor x="120" y="0" name="bottomleft"/>
+  <anchor x="400" y="508" name="center"/>
+  <anchor x="400" y="1015" name="top"/>
+  <anchor x="120" y="1015" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="100" y="795" type="move"/>
+      <point x="360" y="795" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="50" type="move"/>
+      <point x="230" y="565" type="line" smooth="yes"/>
+      <point x="230" y="674"/>
+      <point x="270" y="750"/>
+      <point x="360" y="795" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

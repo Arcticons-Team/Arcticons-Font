@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="camera" format="2">
+  <advance width="1120"/>
+  <unicode hex="1F4F7"/>
+  <outline>
+    <contour>
+      <point x="1020" y="50" type="move"/>
+      <point x="1020" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="670" type="move"/>
+      <point x="100" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="385" y="850" type="move"/>
+      <point x="305" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="815" y="670" type="move"/>
+      <point x="735" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="50" type="move"/>
+      <point x="1020" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="305" y="670" type="move"/>
+      <point x="100" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="815" y="670" type="move"/>
+      <point x="1020" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="760" y="400" type="curve" smooth="yes"/>
+      <point x="760" y="510"/>
+      <point x="670" y="600"/>
+      <point x="560" y="600" type="curve" smooth="yes"/>
+      <point x="450" y="600"/>
+      <point x="360" y="510"/>
+      <point x="360" y="400" type="curve" smooth="yes"/>
+      <point x="360" y="290"/>
+      <point x="450" y="200"/>
+      <point x="560" y="200" type="curve" smooth="yes"/>
+      <point x="670" y="200"/>
+      <point x="760" y="290"/>
+    </contour>
+    <contour>
+      <point x="735" y="850" type="move"/>
+      <point x="385" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

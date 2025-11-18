@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nunFinal-hb" format="2">
+  <advance width="240"/>
+  <unicode hex="05DF"/>
+  <anchor x="120" y="0" name="bottom"/>
+  <anchor x="20" y="0" name="bottomleft"/>
+  <anchor x="120" y="508" name="center"/>
+  <anchor x="120" y="1015" name="top"/>
+  <anchor x="20" y="1015" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="140" y="-165" type="move"/>
+      <point x="140" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="580" type="move"/>
+      <point x="100" y="795" type="line"/>
+    </contour>
+  </outline>
+</glyph>

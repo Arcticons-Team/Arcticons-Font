@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilontonos" format="2">
+  <advance width="730"/>
+  <unicode hex="038E"/>
+  <outline>
+    <component base="Upsilon"/>
+    <component base="tonos" xOffset="-214" identifier="7EAFB131"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7EAFB131</key>
+        <dict>
+          <key>com.schriftgestaltung.anchor</key>
+          <string>top_left</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

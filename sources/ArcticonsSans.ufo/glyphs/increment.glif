@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="increment" format="2">
+  <advance width="730"/>
+  <unicode hex="2206"/>
+  <outline>
+    <component base="Lambda"/>
+    <contour>
+      <point x="101" y="50" type="move"/>
+      <point x="620" y="50" type="line"/>
+    </contour>
+  </outline>
+</glyph>

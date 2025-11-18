@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="largeOrangeDiamond" format="2">
+  <advance width="1120"/>
+  <unicode hex="1F536"/>
+  <outline>
+    <contour>
+      <point x="100" y="390" type="move"/>
+      <point x="560" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="1020" y="390" type="move"/>
+      <point x="560" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="-70" type="move"/>
+      <point x="1020" y="390" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="850" type="move"/>
+      <point x="100" y="390" type="line"/>
+    </contour>
+  </outline>
+</glyph>

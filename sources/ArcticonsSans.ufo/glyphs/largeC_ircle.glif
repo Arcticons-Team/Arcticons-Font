@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="largeCircle" format="2">
+  <advance width="1610"/>
+  <unicode hex="25EF"/>
+  <outline>
+    <contour>
+      <point x="805" y="-270" type="curve" smooth="yes"/>
+      <point x="1195" y="-270"/>
+      <point x="1510" y="44"/>
+      <point x="1510" y="436" type="curve" smooth="yes"/>
+      <point x="1510" y="826"/>
+      <point x="1195" y="1140"/>
+      <point x="805" y="1140" type="curve" smooth="yes"/>
+      <point x="414" y="1140"/>
+      <point x="100" y="826"/>
+      <point x="100" y="436" type="curve" smooth="yes"/>
+      <point x="100" y="44"/>
+      <point x="414" y="-270"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

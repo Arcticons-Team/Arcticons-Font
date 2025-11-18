@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mobilePhone" format="2">
+  <advance width="800"/>
+  <unicode hex="1F4F1"/>
+  <outline>
+    <contour>
+      <point x="660" y="850" type="curve" smooth="yes"/>
+      <point x="140" y="850" type="line" smooth="yes"/>
+      <point x="118" y="850"/>
+      <point x="100" y="832"/>
+      <point x="100" y="810" type="curve" smooth="yes"/>
+      <point x="100" y="-30" type="line" smooth="yes"/>
+      <point x="100" y="-52"/>
+      <point x="118" y="-70"/>
+      <point x="140" y="-70" type="curve" smooth="yes"/>
+      <point x="660" y="-70" type="line" smooth="yes"/>
+      <point x="682" y="-70"/>
+      <point x="700" y="-52"/>
+      <point x="700" y="-30" type="curve" smooth="yes"/>
+      <point x="700" y="810" type="line" smooth="yes"/>
+      <point x="700" y="832"/>
+      <point x="682" y="850"/>
+    </contour>
+    <contour>
+      <point x="100" y="90" type="move"/>
+      <point x="694" y="90" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="690" type="move"/>
+      <point x="694" y="690" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb" format="2">
+  <advance width="322"/>
+  <unicode hex="031B"/>
+  <anchor x="51" y="630" name="_top_viet"/>
+  <outline>
+    <contour>
+      <point x="100" y="580" type="move"/>
+      <point x="174" y="580"/>
+      <point x="231" y="599"/>
+      <point x="221" y="694" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

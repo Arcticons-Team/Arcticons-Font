@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.alt" format="2">
+  <advance width="662"/>
+  <anchor x="296" y="630" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="296" y="745" type="move"/>
+      <point x="366" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

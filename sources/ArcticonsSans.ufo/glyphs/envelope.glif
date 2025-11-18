@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="envelope" format="2">
+  <advance width="1120"/>
+  <unicode hex="2709"/>
+  <outline>
+    <contour>
+      <point x="1020" y="720" type="move"/>
+      <point x="1020" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="1020" y="60" type="move"/>
+      <point x="100" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="720" type="move"/>
+      <point x="560" y="330" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="60" type="move"/>
+      <point x="456" y="416" type="line"/>
+    </contour>
+    <contour>
+      <point x="1020" y="60" type="move"/>
+      <point x="664" y="416" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="330" type="move"/>
+      <point x="1020" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="720" type="move"/>
+      <point x="1020" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="60" type="move"/>
+      <point x="100" y="720" type="line"/>
+    </contour>
+  </outline>
+</glyph>

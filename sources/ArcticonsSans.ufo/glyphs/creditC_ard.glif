@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="creditCard" format="2">
+  <advance width="1120"/>
+  <unicode hex="1F4B3"/>
+  <outline>
+    <component base="closedBook" xScale="0" xyScale="-1" yScale="0" yxScale="1" xOffset="170" yOffset="840"/>
+  </outline>
+</glyph>

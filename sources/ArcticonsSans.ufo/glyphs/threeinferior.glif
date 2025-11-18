@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threeinferior" format="2">
+  <advance width="440"/>
+  <unicode hex="2083"/>
+  <outline>
+    <contour identifier="ID0x15af827e0">
+      <point x="100" y="317" type="move"/>
+      <point x="128" y="340"/>
+      <point x="158" y="350"/>
+      <point x="225" y="350" type="curve" smooth="yes"/>
+      <point x="240" y="350" type="line" smooth="yes"/>
+      <point x="296" y="350"/>
+      <point x="340" y="305"/>
+      <point x="340" y="250" type="curve" smooth="yes"/>
+      <point x="340" y="195"/>
+      <point x="296" y="150"/>
+      <point x="240" y="150" type="curve"/>
+    </contour>
+    <contour>
+      <point x="100" y="-16" type="move"/>
+      <point x="128" y="-39"/>
+      <point x="158" y="-50"/>
+      <point x="225" y="-50" type="curve" smooth="yes"/>
+      <point x="240" y="-50" type="line" smooth="yes"/>
+      <point x="296" y="-50"/>
+      <point x="340" y="-5"/>
+      <point x="340" y="50" type="curve" smooth="yes"/>
+      <point x="340" y="105"/>
+      <point x="296" y="150"/>
+      <point x="240" y="150" type="curve"/>
+    </contour>
+    <contour>
+      <point x="164" y="150" type="move"/>
+      <point x="241" y="150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>three</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>three</string>
+    </dict>
+  </lib>
+</glyph>

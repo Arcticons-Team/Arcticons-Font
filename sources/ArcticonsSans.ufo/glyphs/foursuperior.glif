@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior" format="2">
+  <advance width="465"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour identifier="ID0x15af7ed90">
+      <point x="314" y="950" type="move"/>
+      <point x="100" y="682" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="682" type="move"/>
+      <point x="365" y="682" type="line"/>
+    </contour>
+    <contour>
+      <point x="314" y="550" type="move"/>
+      <point x="314" y="950" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>four</string>
+    </dict>
+  </lib>
+</glyph>

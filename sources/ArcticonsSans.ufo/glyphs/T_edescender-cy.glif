@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tedescender-cy" format="2">
+  <advance width="730"/>
+  <unicode hex="04AC"/>
+  <outline>
+    <component base="Te-cy"/>
+    <contour>
+      <point x="365" y="50" type="move"/>
+      <point x="465" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="465" y="50" type="move"/>
+      <point x="465" y="-50" type="line"/>
+    </contour>
+  </outline>
+</glyph>

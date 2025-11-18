@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nu" format="2">
+  <advance width="600"/>
+  <unicode hex="03BD"/>
+  <outline>
+    <contour>
+      <point x="300" y="50" type="move"/>
+      <point x="100" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="580" type="move"/>
+      <point x="300" y="50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>v</string>
+    </dict>
+  </lib>
+</glyph>

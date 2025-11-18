@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pageFacingUp" format="2">
+  <advance width="900"/>
+  <unicode hex="1F4C4"/>
+  <outline>
+    <contour>
+      <point x="800" y="-70" type="move"/>
+      <point x="100" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="-70" type="move"/>
+      <point x="100" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="797" y="527" type="move"/>
+      <point x="800" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="850" type="move"/>
+      <point x="477" y="847" type="line"/>
+    </contour>
+    <contour>
+      <point x="477" y="847" type="move"/>
+      <point x="477" y="527" type="line"/>
+    </contour>
+    <contour>
+      <point x="477" y="527" type="move"/>
+      <point x="797" y="527" type="line"/>
+    </contour>
+    <contour>
+      <point x="477" y="847" type="move"/>
+      <point x="797" y="527" type="line"/>
+    </contour>
+  </outline>
+</glyph>

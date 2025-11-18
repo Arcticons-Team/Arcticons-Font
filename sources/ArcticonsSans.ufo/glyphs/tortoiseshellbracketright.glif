@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tortoiseshellbracketright" format="2">
+  <advance width="360"/>
+  <unicode hex="3015"/>
+  <outline>
+    <component base="tortoiseshellbracketleft" xScale="-1" xOffset="360"/>
+  </outline>
+</glyph>

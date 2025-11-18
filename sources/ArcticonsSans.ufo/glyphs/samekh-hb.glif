@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="samekh-hb" format="2">
+  <advance width="762"/>
+  <unicode hex="05E1"/>
+  <anchor x="381" y="0" name="bottom"/>
+  <anchor x="20" y="0" name="bottomleft"/>
+  <anchor x="381" y="508" name="center"/>
+  <anchor x="381" y="1015" name="top"/>
+  <anchor x="20" y="1015" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="100" y="795" type="move"/>
+      <point x="381" y="795" type="line"/>
+    </contour>
+    <contour>
+      <point x="381" y="50" type="curve" smooth="yes"/>
+      <point x="226" y="50"/>
+      <point x="100" y="176"/>
+      <point x="100" y="331" type="curve" smooth="yes"/>
+      <point x="100" y="514" type="line" smooth="yes"/>
+      <point x="100" y="669"/>
+      <point x="226" y="795"/>
+      <point x="381" y="795" type="curve" smooth="yes"/>
+      <point x="536" y="795"/>
+      <point x="662" y="669"/>
+      <point x="662" y="514" type="curve" smooth="yes"/>
+      <point x="662" y="331" type="line" smooth="yes"/>
+      <point x="662" y="176"/>
+      <point x="536" y="50"/>
+    </contour>
+  </outline>
+</glyph>

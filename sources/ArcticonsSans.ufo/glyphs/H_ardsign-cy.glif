@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hardsign-cy" format="2">
+  <advance width="910"/>
+  <unicode hex="042A"/>
+  <anchor x="455" y="900" name="top"/>
+  <outline>
+    <contour>
+      <point x="280" y="50" type="move"/>
+      <point x="610" y="50" type="line" smooth="yes"/>
+      <point x="720" y="50"/>
+      <point x="810" y="140"/>
+      <point x="810" y="250" type="curve" smooth="yes"/>
+      <point x="810" y="360"/>
+      <point x="720" y="450"/>
+      <point x="610" y="450" type="curve" smooth="yes"/>
+      <point x="280" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="850" type="move"/>
+      <point x="100" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="850" type="move"/>
+      <point x="280" y="50" type="line"/>
+    </contour>
+  </outline>
+</glyph>

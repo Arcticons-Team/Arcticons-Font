@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seveninferior" format="2">
+  <advance width="445"/>
+  <unicode hex="2087"/>
+  <outline>
+    <contour identifier="ID0x15af83a20">
+      <point x="365" y="350" type="move"/>
+      <point x="100" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="-50" type="move"/>
+      <point x="365" y="350" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>seven</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>seven</string>
+    </dict>
+  </lib>
+</glyph>

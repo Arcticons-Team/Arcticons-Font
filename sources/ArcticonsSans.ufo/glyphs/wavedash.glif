@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wavedash" format="2">
+  <advance width="600"/>
+  <unicode hex="301C"/>
+  <outline>
+    <contour>
+      <point x="500" y="365" type="move"/>
+      <point x="500" y="310"/>
+      <point x="455" y="265"/>
+      <point x="399" y="265" type="curve" smooth="yes"/>
+      <point x="338" y="265"/>
+      <point x="319" y="297"/>
+      <point x="300" y="315" type="curve" smooth="yes"/>
+      <point x="281" y="333"/>
+      <point x="262" y="365"/>
+      <point x="200" y="365" type="curve" smooth="yes"/>
+      <point x="145" y="365"/>
+      <point x="100" y="320"/>
+      <point x="100" y="265" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

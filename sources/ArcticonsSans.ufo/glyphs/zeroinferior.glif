@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zeroinferior" format="2">
+  <advance width="465"/>
+  <unicode hex="2080"/>
+  <outline>
+    <contour identifier="ID0x15af81790">
+      <point x="365" y="83" type="line" smooth="yes"/>
+      <point x="365" y="10"/>
+      <point x="305" y="-50"/>
+      <point x="232" y="-50" type="curve" smooth="yes"/>
+      <point x="159" y="-50"/>
+      <point x="100" y="10"/>
+      <point x="100" y="83" type="curve" smooth="yes"/>
+      <point x="100" y="218" type="line" smooth="yes"/>
+      <point x="100" y="291"/>
+      <point x="159" y="350"/>
+      <point x="232" y="350" type="curve" smooth="yes"/>
+      <point x="305" y="350"/>
+      <point x="365" y="291"/>
+      <point x="365" y="218" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zero</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>zero</string>
+    </dict>
+  </lib>
+</glyph>

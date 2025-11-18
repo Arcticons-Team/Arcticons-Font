@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yu-cy" format="2">
+  <advance width="1000"/>
+  <unicode hex="042E"/>
+  <anchor x="500" y="900" name="top"/>
+  <outline>
+    <contour>
+      <point x="100" y="50" type="move"/>
+      <point x="100" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="450" type="move"/>
+      <point x="370" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="900" y="317" type="line" smooth="yes"/>
+      <point x="900" y="171"/>
+      <point x="781" y="52"/>
+      <point x="635" y="52" type="curve" smooth="yes"/>
+      <point x="489" y="52"/>
+      <point x="370" y="171"/>
+      <point x="370" y="317" type="curve" smooth="yes"/>
+      <point x="370" y="587" type="line" smooth="yes"/>
+      <point x="370" y="733"/>
+      <point x="489" y="852"/>
+      <point x="635" y="852" type="curve" smooth="yes"/>
+      <point x="781" y="852"/>
+      <point x="900" y="733"/>
+      <point x="900" y="587" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

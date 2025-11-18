@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="600"/>
+  <unicode hex="0075"/>
+  <anchor x="300" y="50" name="bottom"/>
+  <anchor x="549" y="0" name="ogonek"/>
+  <anchor x="300" y="630" name="top"/>
+  <anchor x="451" y="630" name="top_viet"/>
+  <outline>
+    <contour>
+      <point x="500" y="580" type="move"/>
+      <point x="500" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="250" type="move"/>
+      <point x="500" y="140"/>
+      <point x="410" y="50"/>
+      <point x="300" y="50" type="curve" smooth="yes"/>
+      <point x="189" y="50"/>
+      <point x="100" y="140"/>
+      <point x="100" y="250" type="curve" smooth="yes"/>
+      <point x="100" y="580" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

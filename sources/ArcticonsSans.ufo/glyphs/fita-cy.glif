@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fita-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="0473"/>
+  <outline>
+    <component base="o"/>
+    <contour>
+      <point x="101" y="318" type="move"/>
+      <point x="126" y="329"/>
+      <point x="151" y="340"/>
+      <point x="201" y="340" type="curve" smooth="yes"/>
+      <point x="300" y="340"/>
+      <point x="300" y="295"/>
+      <point x="399" y="295" type="curve" smooth="yes"/>
+      <point x="449" y="295"/>
+      <point x="474" y="307"/>
+      <point x="499" y="318" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

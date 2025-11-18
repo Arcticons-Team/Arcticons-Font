@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De-cy" format="2">
+  <advance width="900"/>
+  <unicode hex="0414"/>
+  <outline>
+    <contour>
+      <point x="800" y="50" type="move"/>
+      <point x="100" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="690" y="50" type="move"/>
+      <point x="690" y="805" type="line"/>
+    </contour>
+    <contour>
+      <point x="800" y="-155" type="move"/>
+      <point x="800" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="50" type="move"/>
+      <point x="100" y="-155" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="805" type="move"/>
+      <point x="310" y="497"/>
+      <point x="288" y="296"/>
+      <point x="200" y="50" type="curve"/>
+    </contour>
+    <contour>
+      <point x="690" y="805" type="move"/>
+      <point x="310" y="805" type="line"/>
+    </contour>
+  </outline>
+</glyph>

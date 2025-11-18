@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <advance width="274"/>
+  <unicode hex="0301"/>
+  <anchor x="100" y="630" name="_top"/>
+  <anchor x="100" y="900" name="top"/>
+  <outline>
+    <contour>
+      <point x="100" y="725" type="move"/>
+      <point x="174" y="850" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

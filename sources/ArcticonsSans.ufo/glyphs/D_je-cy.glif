@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dje-cy" format="2">
+  <advance width="865"/>
+  <unicode hex="0402"/>
+  <outline>
+    <contour identifier="ID0x109cffc60">
+      <point x="100" y="850" type="move"/>
+      <point x="630" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="50" type="move"/>
+      <point x="365" y="850" type="line"/>
+    </contour>
+    <contour identifier="ID0x109c38d80">
+      <point x="365" y="380" type="move"/>
+      <point x="365" y="490"/>
+      <point x="454" y="580"/>
+      <point x="565" y="580" type="curve" smooth="yes"/>
+      <point x="675" y="580"/>
+      <point x="765" y="490"/>
+      <point x="765" y="380" type="curve" smooth="yes"/>
+      <point x="765" y="178" type="line"/>
+    </contour>
+    <contour>
+      <point x="639" y="50" type="move"/>
+      <point x="709" y="50"/>
+      <point x="765" y="107"/>
+      <point x="765" y="178" type="curve" smooth="yes"/>
+      <point x="765" y="185" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h</string>
+    </dict>
+  </lib>
+</glyph>

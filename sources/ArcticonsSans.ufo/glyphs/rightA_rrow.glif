@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightArrow" format="2">
+  <advance width="900"/>
+  <unicode hex="2192"/>
+  <outline>
+    <contour>
+      <point x="535" y="50" type="move"/>
+      <point x="800" y="315" type="line"/>
+    </contour>
+    <contour>
+      <point x="800" y="315" type="move"/>
+      <point x="100" y="315" type="line"/>
+    </contour>
+    <contour>
+      <point x="800" y="315" type="move"/>
+      <point x="535" y="580" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

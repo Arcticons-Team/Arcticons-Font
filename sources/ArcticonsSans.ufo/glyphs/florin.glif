@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin" format="2">
+  <advance width="700"/>
+  <unicode hex="0192"/>
+  <outline>
+    <component base="integral"/>
+    <contour>
+      <point x="480" y="530" type="move"/>
+      <point x="220" y="530" type="line"/>
+    </contour>
+  </outline>
+</glyph>

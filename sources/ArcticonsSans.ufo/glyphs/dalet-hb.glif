@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalet-hb" format="2">
+  <advance width="660"/>
+  <unicode hex="05D3"/>
+  <anchor x="330" y="0" name="bottom"/>
+  <anchor x="20" y="0" name="bottomleft"/>
+  <anchor x="330" y="508" name="center"/>
+  <anchor x="330" y="1015" name="top"/>
+  <anchor x="20" y="1015" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="100" y="795" type="move"/>
+      <point x="560" y="795" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="50" type="move"/>
+      <point x="430" y="665" type="line" smooth="yes"/>
+      <point x="430" y="737"/>
+      <point x="488" y="795"/>
+      <point x="560" y="795" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

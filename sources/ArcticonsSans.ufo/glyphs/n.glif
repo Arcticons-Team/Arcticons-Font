@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="600"/>
+  <unicode hex="006E"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="630" name="top"/>
+  <outline>
+    <contour>
+      <point x="100" y="580" type="move"/>
+      <point x="100" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="380" type="move"/>
+      <point x="100" y="490"/>
+      <point x="190" y="580"/>
+      <point x="300" y="580" type="curve" smooth="yes"/>
+      <point x="411" y="580"/>
+      <point x="500" y="490"/>
+      <point x="500" y="380" type="curve" smooth="yes"/>
+      <point x="500" y="50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

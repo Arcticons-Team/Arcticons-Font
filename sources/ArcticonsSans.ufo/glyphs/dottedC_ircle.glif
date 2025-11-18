@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dottedCircle" format="2">
+  <advance width="1001"/>
+  <unicode hex="25CC"/>
+  <outline>
+    <contour>
+      <point x="500" y="850" type="move"/>
+      <point x="501" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="900" y="450" type="move"/>
+      <point x="901" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="50" type="move"/>
+      <point x="501" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="450" type="move"/>
+      <point x="101" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="797" type="move"/>
+      <point x="301" y="797" type="line"/>
+    </contour>
+    <contour>
+      <point x="846" y="650" type="move"/>
+      <point x="847" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="700" y="104" type="move"/>
+      <point x="701" y="104" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="250" type="move"/>
+      <point x="155" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="650" type="move"/>
+      <point x="155" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="700" y="797" type="move"/>
+      <point x="701" y="797" type="line"/>
+    </contour>
+    <contour>
+      <point x="846" y="250" type="move"/>
+      <point x="847" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="104" type="move"/>
+      <point x="301" y="104" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterism" format="2">
+  <advance width="942"/>
+  <unicode hex="2042"/>
+  <outline>
+    <contour>
+      <point x="471" y="503" type="move"/>
+      <point x="471" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="622" y="589" type="move"/>
+      <point x="321" y="763" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="589" type="move"/>
+      <point x="622" y="763" type="line"/>
+    </contour>
+    <contour>
+      <point x="732" y="50" type="move"/>
+      <point x="732" y="397" type="line"/>
+    </contour>
+    <contour>
+      <point x="882" y="137" type="move"/>
+      <point x="581" y="310" type="line"/>
+    </contour>
+    <contour>
+      <point x="581" y="137" type="move"/>
+      <point x="882" y="310" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="50" type="move"/>
+      <point x="211" y="397" type="line"/>
+    </contour>
+    <contour>
+      <point x="361" y="137" type="move"/>
+      <point x="60" y="310" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="137" type="move"/>
+      <point x="361" y="310" type="line"/>
+    </contour>
+  </outline>
+</glyph>

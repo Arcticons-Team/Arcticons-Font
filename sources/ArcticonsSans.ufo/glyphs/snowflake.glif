@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="snowflake" format="2">
+  <advance width="997"/>
+  <unicode hex="2744"/>
+  <outline>
+    <contour>
+      <point x="499" y="850" type="move"/>
+      <point x="499" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="649" y="16" type="move"/>
+      <point x="499" y="166" type="line"/>
+      <point x="349" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="764" type="move"/>
+      <point x="499" y="614" type="line"/>
+      <point x="649" y="764" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="620" type="move"/>
+      <point x="897" y="160" type="line"/>
+    </contour>
+    <contour>
+      <point x="897" y="333" type="move"/>
+      <point x="693" y="278" type="line"/>
+      <point x="747" y="73" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="447" type="move"/>
+      <point x="305" y="502" type="line"/>
+      <point x="250" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="160" type="move"/>
+      <point x="897" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="747" y="707" type="move"/>
+      <point x="693" y="502" type="line"/>
+      <point x="897" y="447" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="73" type="move"/>
+      <point x="305" y="278" type="line"/>
+      <point x="100" y="333" type="line"/>
+    </contour>
+  </outline>
+</glyph>
