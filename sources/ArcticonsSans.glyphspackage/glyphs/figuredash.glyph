@@ -1,11 +1,11 @@
 {
-color = 10;
 export = 0;
-glyphname = figuredash.case;
+glyphname = figuredash;
 layers = (
 {
 layerId = m002;
 width = 600;
 }
 );
+unicode = 8210;
 }

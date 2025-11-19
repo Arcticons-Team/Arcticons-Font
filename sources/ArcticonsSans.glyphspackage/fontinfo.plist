@@ -483,6 +483,26 @@ value = 425;
 {
 name = typoLineGap;
 value = 100;
+},
+{
+name = winAscent;
+value = 1450;
+},
+{
+name = winDescent;
+value = 425;
+},
+{
+name = hheaAscender;
+value = 1450;
+},
+{
+name = hheaDescender;
+value = 425;
+},
+{
+name = hheaLineGap;
+value = 100;
 }
 );
 guides = (
