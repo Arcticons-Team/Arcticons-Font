@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_gravecomb" format="2">
+  <advance width="496"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="85"/>
+    <component base="gravecomb" yOffset="174"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AC0C2F6C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+          <key>com.schriftgestaltung.anchor</key>
+          <string>top_viet</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

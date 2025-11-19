@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb-cy" format="2">
+  <advance width="561"/>
+  <anchor x="280" y="630" name="_top"/>
+  <anchor x="280" y="901" name="top"/>
+  <outline>
+    <component base="brevecomb"/>
+  </outline>
+</glyph>

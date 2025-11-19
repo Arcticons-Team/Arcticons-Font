@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gedescender-cy" format="2">
+  <advance width="720"/>
+  <unicode hex="04F6"/>
+  <outline>
+    <contour>
+      <point x="100" y="100" type="curve" smooth="yes"/>
+      <point x="200" y="100" type="line" smooth="yes"/>
+      <point x="227" y="100"/>
+      <point x="250" y="77"/>
+      <point x="250" y="50" type="curve" smooth="yes"/>
+      <point x="250" y="23"/>
+      <point x="227" y="0"/>
+      <point x="200" y="0" type="curve" smooth="yes"/>
+      <point x="100" y="0" type="line" smooth="yes"/>
+      <point x="73" y="0"/>
+      <point x="50" y="23"/>
+      <point x="50" y="50" type="curve" smooth="yes"/>
+      <point x="50" y="77"/>
+      <point x="73" y="100"/>
+    </contour>
+    <contour>
+      <point x="250" y="50" type="curve" smooth="yes"/>
+      <point x="250" y="-50" type="line" smooth="yes"/>
+      <point x="250" y="-77"/>
+      <point x="227" y="-100"/>
+      <point x="200" y="-100" type="curve" smooth="yes"/>
+      <point x="173" y="-100"/>
+      <point x="150" y="-77"/>
+      <point x="150" y="-50" type="curve" smooth="yes"/>
+      <point x="150" y="50" type="line" smooth="yes"/>
+      <point x="150" y="77"/>
+      <point x="173" y="100"/>
+      <point x="200" y="100" type="curve" smooth="yes"/>
+      <point x="227" y="100"/>
+      <point x="250" y="77"/>
+    </contour>
+    <component base="Ge-cy"/>
+  </outline>
+</glyph>

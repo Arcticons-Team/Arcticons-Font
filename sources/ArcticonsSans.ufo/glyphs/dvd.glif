@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvd" format="2">
+  <advance width="1120"/>
+  <unicode hex="1F4C0"/>
+  <outline>
+    <component base="opticalDisc" xScale="-1" xOffset="1120"/>
+  </outline>
+</glyph>

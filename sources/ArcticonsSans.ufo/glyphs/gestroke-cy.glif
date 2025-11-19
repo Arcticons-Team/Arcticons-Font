@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestroke-cy" format="2">
+  <advance width="650"/>
+  <unicode hex="0493"/>
+  <outline>
+    <contour>
+      <point x="100" y="350" type="curve" smooth="yes"/>
+      <point x="450" y="350" type="line" smooth="yes"/>
+      <point x="477" y="350"/>
+      <point x="500" y="327"/>
+      <point x="500" y="300" type="curve" smooth="yes"/>
+      <point x="500" y="273"/>
+      <point x="477" y="250"/>
+      <point x="450" y="250" type="curve" smooth="yes"/>
+      <point x="100" y="250" type="line" smooth="yes"/>
+      <point x="73" y="250"/>
+      <point x="50" y="273"/>
+      <point x="50" y="300" type="curve" smooth="yes"/>
+      <point x="50" y="327"/>
+      <point x="73" y="350"/>
+    </contour>
+    <component base="ge-cy" xOffset="100"/>
+  </outline>
+</glyph>

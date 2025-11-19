@@ -68,18 +68,6 @@ lineCapStart = "1";
 strokeHeight = 100;
 strokeWidth = 100;
 };
-closed = 1;
-nodes = (
-);
-},
-{
-attr = {
-identifier = ID0x1038e8170;
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 100;
-strokeWidth = 100;
-};
 closed = 0;
 nodes = (
 (1850,315,l),

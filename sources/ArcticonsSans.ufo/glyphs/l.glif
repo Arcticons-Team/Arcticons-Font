@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="330"/>
+  <unicode hex="006C"/>
+  <anchor x="165" y="0" name="bottom"/>
+  <anchor x="165" y="508" name="center"/>
+  <anchor x="50" y="900" name="top"/>
+  <anchor x="100" y="900" name="top_2"/>
+  <anchor x="240" y="630" name="topright"/>
+  <outline>
+    <contour>
+      <point x="150" y="850" type="curve" smooth="yes"/>
+      <point x="150" y="150" type="line" smooth="yes"/>
+      <point x="150" y="122"/>
+      <point x="173" y="100"/>
+      <point x="200" y="100" type="curve" smooth="yes"/>
+      <point x="230" y="100" type="line" smooth="yes"/>
+      <point x="257" y="100"/>
+      <point x="280" y="77"/>
+      <point x="280" y="50" type="curve" smooth="yes"/>
+      <point x="280" y="23"/>
+      <point x="257" y="0"/>
+      <point x="230" y="0" type="curve" smooth="yes"/>
+      <point x="200" y="0" type="line" smooth="yes"/>
+      <point x="118" y="0"/>
+      <point x="50" y="68"/>
+      <point x="50" y="150" type="curve" smooth="yes"/>
+      <point x="50" y="850" type="line" smooth="yes"/>
+      <point x="50" y="877"/>
+      <point x="73" y="900"/>
+      <point x="100" y="900" type="curve" smooth="yes"/>
+      <point x="127" y="900"/>
+      <point x="150" y="877"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

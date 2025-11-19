@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="moMa-thai" format="2">
+  <advance width="600"/>
+  <unicode hex="0E21"/>
+  <anchor x="505" y="0" name="bottomright"/>
+  <anchor x="500" y="630" name="topright"/>
+  <outline>
+    <component base="u" xScale="-1" xOffset="600"/>
+  </outline>
+</glyph>

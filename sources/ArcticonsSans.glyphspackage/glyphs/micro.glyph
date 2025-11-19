@@ -55,18 +55,6 @@ nodes = (
 (100,250,l),
 (100,-220,l)
 );
-},
-{
-attr = {
-identifier = ID0x3224ece90;
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
-);
 }
 );
 width = 680;

@@ -496,7 +496,7 @@ pos = -270;
 );
 name = Regular;
 userData = {
-GSCornerRadius = 3;
+GSCornerRadius = 2.1;
 GSExtrudeAngle = 30;
 GSExtrudeOffset = 15;
 };

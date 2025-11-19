@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ngoNgu-thai" format="2">
+  <advance width="650"/>
+  <unicode hex="0E07"/>
+  <outline>
+    <contour>
+      <point x="319" y="630" type="curve" smooth="yes"/>
+      <point x="475" y="630"/>
+      <point x="600" y="505"/>
+      <point x="600" y="349" type="curve" smooth="yes"/>
+      <point x="600" y="282" type="line" smooth="yes"/>
+      <point x="600" y="126"/>
+      <point x="475" y="0"/>
+      <point x="319" y="0" type="curve" smooth="yes"/>
+      <point x="249" y="0" type="line" smooth="yes"/>
+      <point x="222" y="0"/>
+      <point x="199" y="23"/>
+      <point x="199" y="50" type="curve" smooth="yes"/>
+      <point x="199" y="77"/>
+      <point x="222" y="100"/>
+      <point x="249" y="100" type="curve" smooth="yes"/>
+      <point x="319" y="100" type="line" smooth="yes"/>
+      <point x="419" y="100"/>
+      <point x="500" y="182"/>
+      <point x="500" y="282" type="curve" smooth="yes"/>
+      <point x="500" y="349" type="line" smooth="yes"/>
+      <point x="500" y="449"/>
+      <point x="419" y="530"/>
+      <point x="319" y="530" type="curve" smooth="yes"/>
+      <point x="292" y="530"/>
+      <point x="269" y="553"/>
+      <point x="269" y="580" type="curve" smooth="yes"/>
+      <point x="269" y="607"/>
+      <point x="292" y="630"/>
+    </contour>
+    <contour>
+      <point x="201" y="36" type="curve" smooth="yes"/>
+      <point x="52" y="566" type="line" smooth="yes"/>
+      <point x="45" y="592"/>
+      <point x="60" y="621"/>
+      <point x="86" y="628" type="curve" smooth="yes"/>
+      <point x="112" y="635"/>
+      <point x="141" y="620"/>
+      <point x="148" y="594" type="curve" smooth="yes"/>
+      <point x="297" y="64" type="line" smooth="yes"/>
+      <point x="304" y="38"/>
+      <point x="289" y="9"/>
+      <point x="263" y="2" type="curve" smooth="yes"/>
+      <point x="237" y="-5"/>
+      <point x="208" y="10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior" format="2">
+  <advance width="465"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="353" y="919" type="curve" smooth="yes"/>
+      <point x="139" y="651" type="line" smooth="yes"/>
+      <point x="122" y="630"/>
+      <point x="90" y="626"/>
+      <point x="69" y="643" type="curve" smooth="yes"/>
+      <point x="48" y="660"/>
+      <point x="44" y="692"/>
+      <point x="61" y="713" type="curve" smooth="yes"/>
+      <point x="275" y="981" type="line" smooth="yes"/>
+      <point x="292" y="1002"/>
+      <point x="324" y="1006"/>
+      <point x="345" y="989" type="curve" smooth="yes"/>
+      <point x="366" y="972"/>
+      <point x="370" y="940"/>
+    </contour>
+    <contour>
+      <point x="100" y="732" type="curve" smooth="yes"/>
+      <point x="365" y="732" type="line" smooth="yes"/>
+      <point x="392" y="732"/>
+      <point x="415" y="709"/>
+      <point x="415" y="682" type="curve" smooth="yes"/>
+      <point x="415" y="655"/>
+      <point x="392" y="632"/>
+      <point x="365" y="632" type="curve" smooth="yes"/>
+      <point x="100" y="632" type="line" smooth="yes"/>
+      <point x="73" y="632"/>
+      <point x="50" y="655"/>
+      <point x="50" y="682" type="curve" smooth="yes"/>
+      <point x="50" y="709"/>
+      <point x="73" y="732"/>
+    </contour>
+    <contour>
+      <point x="264" y="550" type="curve" smooth="yes"/>
+      <point x="264" y="950" type="line" smooth="yes"/>
+      <point x="264" y="977"/>
+      <point x="287" y="1000"/>
+      <point x="314" y="1000" type="curve" smooth="yes"/>
+      <point x="341" y="1000"/>
+      <point x="364" y="977"/>
+      <point x="364" y="950" type="curve" smooth="yes"/>
+      <point x="364" y="550" type="line" smooth="yes"/>
+      <point x="364" y="523"/>
+      <point x="341" y="500"/>
+      <point x="314" y="500" type="curve" smooth="yes"/>
+      <point x="287" y="500"/>
+      <point x="264" y="523"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>four</string>
+    </dict>
+  </lib>
+</glyph>

@@ -29,15 +29,6 @@ layerId = m002;
 shapes = (
 {
 attr = {
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
-);
-},
-{
-attr = {
 lineCapEnd = 1;
 lineCapStart = 1;
 strokeHeight = 100;

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="saraAa-thai" format="2">
+  <advance width="490"/>
+  <unicode hex="0E32"/>
+  <outline>
+    <contour>
+      <point x="71" y="590" type="curve" smooth="yes"/>
+      <point x="109" y="616"/>
+      <point x="158" y="630"/>
+      <point x="219" y="630" type="curve" smooth="yes"/>
+      <point x="353" y="630"/>
+      <point x="440" y="537"/>
+      <point x="440" y="416" type="curve" smooth="yes"/>
+      <point x="440" y="50" type="line" smooth="yes"/>
+      <point x="440" y="23"/>
+      <point x="417" y="0"/>
+      <point x="390" y="0" type="curve" smooth="yes"/>
+      <point x="363" y="0"/>
+      <point x="340" y="23"/>
+      <point x="340" y="50" type="curve" smooth="yes"/>
+      <point x="340" y="416" type="line" smooth="yes"/>
+      <point x="340" y="483"/>
+      <point x="291" y="530"/>
+      <point x="219" y="530" type="curve" smooth="yes"/>
+      <point x="182" y="530"/>
+      <point x="151" y="524"/>
+      <point x="129" y="508" type="curve" smooth="yes"/>
+      <point x="107" y="493"/>
+      <point x="75" y="498"/>
+      <point x="59" y="520" type="curve" smooth="yes"/>
+      <point x="44" y="542"/>
+      <point x="49" y="574"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

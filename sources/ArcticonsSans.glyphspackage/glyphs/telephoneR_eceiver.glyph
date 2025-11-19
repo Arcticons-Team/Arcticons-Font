@@ -44,15 +44,6 @@ nodes = (
 (722,243,cs),
 (541,62,l)
 );
-},
-{
-attr = {
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
-);
 }
 );
 width = 1116;

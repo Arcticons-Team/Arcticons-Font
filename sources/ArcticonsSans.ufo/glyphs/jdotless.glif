@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="416"/>
+  <unicode hex="0237"/>
+  <anchor x="118" y="-254" name="bottom"/>
+  <anchor x="316" y="630" name="top"/>
+  <outline>
+    <contour>
+      <point x="366" y="580" type="curve" smooth="yes"/>
+      <point x="366" y="-92" type="line" smooth="yes"/>
+      <point x="366" y="-191"/>
+      <point x="287" y="-270"/>
+      <point x="190" y="-270" type="curve" smooth="yes"/>
+      <point x="141" y="-270"/>
+      <point x="96" y="-250"/>
+      <point x="64" y="-217" type="curve" smooth="yes"/>
+      <point x="45" y="-197"/>
+      <point x="46" y="-165"/>
+      <point x="65" y="-146" type="curve" smooth="yes"/>
+      <point x="85" y="-127"/>
+      <point x="117" y="-128"/>
+      <point x="136" y="-147" type="curve" smooth="yes"/>
+      <point x="150" y="-162"/>
+      <point x="169" y="-170"/>
+      <point x="190" y="-170" type="curve" smooth="yes"/>
+      <point x="233" y="-170"/>
+      <point x="266" y="-135"/>
+      <point x="266" y="-92" type="curve" smooth="yes"/>
+      <point x="266" y="580" type="line" smooth="yes"/>
+      <point x="266" y="607"/>
+      <point x="289" y="630"/>
+      <point x="316" y="630" type="curve" smooth="yes"/>
+      <point x="343" y="630"/>
+      <point x="366" y="607"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=50</string>
+    </dict>
+  </lib>
+</glyph>

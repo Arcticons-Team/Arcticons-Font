@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldotbelowmacron" format="2">
+  <advance width="600"/>
+  <unicode hex="1E38"/>
+  <outline>
+    <component base="L"/>
+    <component base="dotbelowcomb" xOffset="195"/>
+    <component base="macroncomb" xOffset="-30" yOffset="257"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>109213AF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -21,17 +21,6 @@ lineCapStart = "1";
 strokeHeight = 100;
 strokeWidth = 100;
 };
-closed = 1;
-nodes = (
-);
-},
-{
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 100;
-strokeWidth = 100;
-};
 closed = 0;
 nodes = (
 (160,811,l),
@@ -41,17 +30,6 @@ nodes = (
 (338,719,o),
 (386,759,o),
 (401,812,c)
-);
-},
-{
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
 );
 }
 );

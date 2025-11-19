@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotatonos" format="2">
+  <advance width="200"/>
+  <unicode hex="038A"/>
+  <outline>
+    <component base="Iota"/>
+    <component base="tonos" xOffset="-204"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>876F5DED</key>
+        <dict>
+          <key>com.schriftgestaltung.anchor</key>
+          <string>top_left</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

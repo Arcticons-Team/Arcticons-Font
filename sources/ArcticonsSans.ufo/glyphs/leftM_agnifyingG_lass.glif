@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftMagnifyingGlass" format="2">
+  <advance width="1105"/>
+  <unicode hex="1F50D"/>
+  <outline>
+    <contour>
+      <point x="491" y="800" type="curve" smooth="yes"/>
+      <point x="303" y="800"/>
+      <point x="150" y="648"/>
+      <point x="150" y="460" type="curve" smooth="yes"/>
+      <point x="150" y="272"/>
+      <point x="303" y="120"/>
+      <point x="491" y="120" type="curve" smooth="yes"/>
+      <point x="678" y="120"/>
+      <point x="830" y="272"/>
+      <point x="830" y="460" type="curve" smooth="yes"/>
+      <point x="830" y="648"/>
+      <point x="678" y="800"/>
+    </contour>
+    <contour>
+      <point x="491" y="900" type="curve" smooth="yes"/>
+      <point x="734" y="900"/>
+      <point x="930" y="704"/>
+      <point x="930" y="460" type="curve" smooth="yes"/>
+      <point x="930" y="216"/>
+      <point x="734" y="20"/>
+      <point x="491" y="20" type="curve" smooth="yes"/>
+      <point x="247" y="20"/>
+      <point x="50" y="216"/>
+      <point x="50" y="460" type="curve" smooth="yes"/>
+      <point x="50" y="704"/>
+      <point x="247" y="900"/>
+    </contour>
+    <contour>
+      <point x="809" y="212" type="curve" smooth="yes"/>
+      <point x="1055" y="-35" type="line" smooth="yes"/>
+      <point x="1074" y="-54"/>
+      <point x="1074" y="-86"/>
+      <point x="1055" y="-105" type="curve" smooth="yes"/>
+      <point x="1036" y="-124"/>
+      <point x="1004" y="-124"/>
+      <point x="985" y="-105" type="curve" smooth="yes"/>
+      <point x="739" y="142" type="line" smooth="yes"/>
+      <point x="720" y="161"/>
+      <point x="720" y="193"/>
+      <point x="739" y="212" type="curve" smooth="yes"/>
+      <point x="758" y="231"/>
+      <point x="790" y="231"/>
+    </contour>
+  </outline>
+</glyph>

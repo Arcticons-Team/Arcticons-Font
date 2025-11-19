@@ -41,17 +41,6 @@ nodes = (
 (612,789,o),
 (664,698,c)
 );
-},
-{
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
-);
 }
 );
 width = 764;

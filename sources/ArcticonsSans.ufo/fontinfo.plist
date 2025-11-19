@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>1140</integer>
+    <key>capHeight</key>
+    <integer>900</integer>
+    <key>copyright</key>
+    <string>Onno van den Dungen</string>
+    <key>descender</key>
+    <integer>-270</integer>
+    <key>familyName</key>
+    <string>Arcticons Sans</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>76Stn0pPsL</string>
+        <key>x</key>
+        <integer>-100</integer>
+        <key>y</key>
+        <integer>450</integer>
+      </dict>
+    </array>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>note</key>
+    <string>Always check "remove overlap" before exporting</string>
+    <key>openTypeHeadCreated</key>
+    <string>2024/01/01 19:40:33</string>
+    <key>openTypeNameDesigner</key>
+    <string>Onno van den Dungen</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://onnno.nl/</string>
+    <key>openTypeNameLicense</key>
+    <string>SIL Open Font License, Version 1.1</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://openfontlicense.org/open-font-license-official-text/</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Regular</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptFontName</key>
+    <string>ArcticonsSans-Regular</string>
+    <key>postscriptOtherBlues</key>
+    <array/>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>0</integer>
+    <key>versionMinor</key>
+    <integer>610</integer>
+    <key>xHeight</key>
+    <integer>630</integer>
+  </dict>
+</plist>

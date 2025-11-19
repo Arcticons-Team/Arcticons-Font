@@ -50,15 +50,6 @@ strokeWidth = 100;
 };
 closed = 1;
 nodes = (
-);
-},
-{
-attr = {
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
 (664,670,o),
 (747,587,o),
 (747,485,cs),

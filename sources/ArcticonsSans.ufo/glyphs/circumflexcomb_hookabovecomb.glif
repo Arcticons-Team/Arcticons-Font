@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_hookabovecomb" format="2">
+  <advance width="441"/>
+  <outline>
+    <component base="circumflexcomb"/>
+    <component base="hookabovecomb" xOffset="192" yOffset="174"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3DDAA81C</key>
+        <dict>
+          <key>com.schriftgestaltung.anchor</key>
+          <string>top_viet</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
