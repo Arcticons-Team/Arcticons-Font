@@ -45,35 +45,22 @@ lineCapStart = 1;
 strokeHeight = 100;
 strokeWidth = 100;
 };
-closed = 0;
+closed = 1;
 nodes = (
-(560,50,l),
 (450,50,o),
 (360,140,o),
-(360,250,c),
-(360,380,l),
+(360,250,cs),
+(360,380,ls),
 (360,490,o),
 (450,580,o),
 (560,580,cs),
 (670,580,o),
 (760,490,o),
-(760,380,c),
-(760,250,l),
+(760,380,cs),
+(760,250,ls),
 (760,140,o),
 (670,50,o),
-(560,50,c)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
-(560,580,l)
+(560,50,cs)
 );
 }
 );

@@ -45,8 +45,8 @@ nodes = (
 (300,580,cs),
 (190,580,o),
 (100,490,o),
-(100,380,c),
-(100,250,l),
+(100,380,cs),
+(100,250,ls),
 (100,139,o),
 (190,50,o),
 (300,50,cs),
@@ -66,30 +66,6 @@ closed = 0;
 nodes = (
 (500,50,l),
 (500,850,l)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
-(300,580,l)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
-(300,50,l)
 );
 }
 );

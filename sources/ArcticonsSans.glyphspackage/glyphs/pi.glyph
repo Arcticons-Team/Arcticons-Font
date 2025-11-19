@@ -45,20 +45,8 @@ nodes = (
 (617,50,cs),
 (553,50,o),
 (500,103,o),
-(500,168,c),
+(500,168,cs),
 (500,580,l)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
-(617,50,l)
 );
 }
 );
