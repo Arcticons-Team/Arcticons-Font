@@ -49,7 +49,7 @@ decomposeTransformedComponents: false
 # overlaps: booleanOperations
 # expandFeaturesToInstances: false
 # reverseOutlineDirection: true
-removeOutlineOverlaps: false
+removeOutlineOverlaps: true
 # extraFontmakeArgs: --filter "ufostroker::StrokeFilter(Segmentwise=True,Width=50,pre=True,StartCap='circle', EndCap='circle',JoinType='round')"
 # extraVariableFontmakeArgs: ""
 # extraStaticFontmakeArgs: ""
