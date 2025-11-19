@@ -471,6 +471,20 @@ fontMaster = (
 axesValues = (
 400
 );
+customParameters = (
+{
+name = typoAscender;
+value = 1450;
+},
+{
+name = typoDescender;
+value = 425;
+},
+{
+name = typoLineGap;
+value = 100;
+}
+);
 guides = (
 {
 pos = (-100,450);
