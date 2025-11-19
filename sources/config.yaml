@@ -40,7 +40,6 @@ autohintOTF: true
 # are better dealt with in the font sources. Set this to true if you
 # want gftools-fix to automatically fix source problems.
 includeSourceFixes: true
-extraFontmakeArgs: --filter "ufostroker::StrokeFilter(Segmentwise=True,Width=50,pre=True,StartCap='circle', EndCap='circle',JoinType='round')"
 # These options give fine-grained control over how fontmake builds
 # the fonts.
 flattenComponents: true
@@ -49,10 +48,12 @@ decomposeTransformedComponents: false
 # overlaps: booleanOperations
 # expandFeaturesToInstances: false
 # reverseOutlineDirection: true
-removeOutlineOverlaps: true
+removeOutlineOverlaps: false
 # extraVariableFontmakeArgs: ""
 # extraStaticFontmakeArgs: ""
 # glyphData: GlyphData.xml
+extraFontmakeArgs: --filter "ufostroker::StrokeFilter(Segmentwise=True,Width=50,pre=True,StartCap='circle', EndCap='circle',JoinType='round')"
+
 # This control how STAT tables are generated. The STAT table is
 # specified here as a list of axis names, tags and values. You
 # can either map a list to each output VF, or provide a single
