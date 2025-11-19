@@ -42,38 +42,14 @@ nodes = (
 (200,795,cs),
 (366,795,o),
 (500,661,o),
-(500,495,c),
-(500,350,l),
+(500,495,cs),
+(500,350,ls),
 (500,184,o),
 (366,50,o),
 (200,50,cs),
 (165,50,o),
 (131,56,o),
 (100,67,c)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
-(200,50,l)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
-(200,795,l)
 );
 }
 );

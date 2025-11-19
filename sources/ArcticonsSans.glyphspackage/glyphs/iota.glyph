@@ -26,20 +26,8 @@ nodes = (
 (217,50,cs),
 (152,50,o),
 (100,103,o),
-(100,168,c),
+(100,168,cs),
 (100,580,l)
-);
-},
-{
-attr = {
-lineCapEnd = "1";
-lineCapStart = "1";
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
-(217,50,l)
 );
 }
 );

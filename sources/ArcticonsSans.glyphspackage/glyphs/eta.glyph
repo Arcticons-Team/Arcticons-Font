@@ -20,7 +20,7 @@ strokeWidth = 100;
 closed = 0;
 nodes = (
 (500,-220,l),
-(500,380,l),
+(500,380,ls),
 (500,490,o),
 (411,580,o),
 (300,580,cs),
@@ -40,18 +40,6 @@ closed = 0;
 nodes = (
 (100,50,l),
 (100,580,l)
-);
-},
-{
-attr = {
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 1;
-nodes = (
-(300,580,l)
 );
 }
 );

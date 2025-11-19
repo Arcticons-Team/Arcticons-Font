@@ -42,19 +42,6 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(1120,315,l)
-);
-},
-{
-attr = {
-identifier = ID0x31e228460;
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
 (1120,315,l),
 (855,580,l)
 );
@@ -85,19 +72,6 @@ closed = 0;
 nodes = (
 (100,315,l),
 (365,50,l)
-);
-},
-{
-attr = {
-identifier = ID0x171949150;
-lineCapEnd = 1;
-lineCapStart = 1;
-strokeHeight = 100;
-strokeWidth = 100;
-};
-closed = 0;
-nodes = (
-(100,315,l)
 );
 },
 {
