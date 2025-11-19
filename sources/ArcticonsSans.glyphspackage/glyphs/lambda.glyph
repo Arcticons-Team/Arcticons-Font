@@ -1,0 +1,55 @@
+{
+glyphname = lambda;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(384,580,l),
+(171,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,782,l),
+(113,809,o),
+(136,831,o),
+(167,842,cs),
+(228,864,o),
+(295,831,o),
+(317,770,cs),
+(571,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+);
+}
+);
+width = 671;
+}
+);
+unicode = 955;
+}

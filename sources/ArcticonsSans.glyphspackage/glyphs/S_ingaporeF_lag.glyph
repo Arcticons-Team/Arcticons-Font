@@ -1,0 +1,15 @@
+{
+export = 0;
+glyphname = SingaporeFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = PolandFlag;
+}
+);
+width = 1120;
+}
+);
+}

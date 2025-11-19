@@ -1,0 +1,21 @@
+{
+glyphname = igrave;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-77,0);
+ref = gravecomb;
+}
+);
+width = 200;
+}
+);
+unicode = 236;
+}

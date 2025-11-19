@@ -1,0 +1,19 @@
+{
+glyphname = omicrontonos;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = omicron;
+},
+{
+pos = (200,0);
+ref = tonos;
+}
+);
+width = 600;
+}
+);
+unicode = 972;
+}

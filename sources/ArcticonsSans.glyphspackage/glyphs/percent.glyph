@@ -1,0 +1,67 @@
+{
+glyphname = percent;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(100,617,o),
+(167,550,o),
+(250,550,cs),
+(333,550,o),
+(400,617,o),
+(400,700,cs),
+(400,783,o),
+(333,850,o),
+(250,850,cs),
+(167,850,o),
+(100,783,o),
+(100,700,cs)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(500,117,o),
+(567,50,o),
+(650,50,cs),
+(733,50,o),
+(800,117,o),
+(800,200,cs),
+(800,283,o),
+(733,350,o),
+(650,350,cs),
+(567,350,o),
+(500,283,o),
+(500,200,cs)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(190,50,l),
+(710,850,l)
+);
+}
+);
+width = 900;
+}
+);
+unicode = 37;
+}

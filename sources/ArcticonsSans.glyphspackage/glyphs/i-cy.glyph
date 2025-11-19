@@ -1,0 +1,21 @@
+{
+glyphname = "i-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (105,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = i;
+}
+);
+width = 200;
+}
+);
+unicode = 1110;
+}

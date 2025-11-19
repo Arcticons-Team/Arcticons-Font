@@ -1,0 +1,20 @@
+{
+glyphname = Omegatonos;
+kernLeft = tonosCase;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Omega;
+},
+{
+pos = (-100,0);
+ref = tonos;
+}
+);
+width = 1000;
+}
+);
+unicode = 911;
+}

@@ -1,0 +1,52 @@
+{
+glyphname = r;
+kernLeft = lowercaseStraight;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (100,0);
+},
+{
+name = top;
+pos = (190,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,380,l),
+(100,490,o),
+(189,580,o),
+(300,580,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,580,l),
+(100,50,l)
+);
+}
+);
+width = 400;
+}
+);
+metricRight = "=50";
+unicode = 114;
+}

@@ -1,0 +1,61 @@
+{
+glyphname = twelveThirtyClock;
+kernLeft = emojiRound;
+kernRight = emojiRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(815,850,o),
+(1020,644,o),
+(1020,389,cs),
+(1020,135,o),
+(815,-70,o),
+(561,-70,cs),
+(306,-70,o),
+(100,135,o),
+(100,389,cs),
+(100,644,o),
+(306,850,o),
+(561,850,cs)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(560,390,l),
+(560,81,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(560,390,l),
+(560,620,l)
+);
+}
+);
+width = 1120;
+}
+);
+unicode = 128359;
+}

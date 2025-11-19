@@ -1,0 +1,21 @@
+{
+glyphname = Ncaron;
+kernLeft = uppercaseStraight;
+kernRight = uppercaseStraight;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (85,270);
+ref = caroncomb;
+}
+);
+width = 730;
+}
+);
+unicode = 327;
+}

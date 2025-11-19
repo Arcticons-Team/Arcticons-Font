@@ -1,0 +1,77 @@
+{
+glyphname = ohorn;
+kernLeft = lowercaseRound;
+kernRight = lowercaseHorn;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,50);
+},
+{
+name = center;
+pos = (300,340);
+},
+{
+name = ogonek;
+pos = (410,109);
+},
+{
+name = top;
+pos = (300,630);
+},
+{
+name = topright;
+pos = (580,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x101ae2a30;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(410,50,o),
+(500,140,o),
+(500,250,cs),
+(500,380,ls),
+(500,490,o),
+(410,580,o),
+(300,580,cs),
+(190,580,o),
+(100,490,o),
+(100,380,cs),
+(100,250,ls),
+(100,140,o),
+(190,50,o),
+(300,50,cs)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,580,l),
+(448,580,ls),
+(522,580,o),
+(579,599,o),
+(569,694,cs)
+);
+}
+);
+width = 670;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 417;
+}

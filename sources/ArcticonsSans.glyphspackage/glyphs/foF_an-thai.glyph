@@ -1,0 +1,67 @@
+{
+export = 0;
+glyphname = "foFan-thai";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(233,50,l),
+(100,580,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(498,50,l),
+(365,580,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(365,580,l),
+(233,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(683,795,l),
+(498,50,l)
+);
+}
+);
+width = 783;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 3615;
+}

@@ -1,0 +1,11 @@
+{
+export = 0;
+glyphname = dieresisbelowcomb;
+layers = (
+{
+layerId = m002;
+width = 300;
+}
+);
+unicode = 804;
+}

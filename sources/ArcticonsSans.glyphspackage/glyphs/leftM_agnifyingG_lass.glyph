@@ -1,0 +1,46 @@
+{
+glyphname = leftMagnifyingGlass;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(706,850,o),
+(880,676,o),
+(880,460,cs),
+(880,244,o),
+(706,70,o),
+(491,70,cs),
+(275,70,o),
+(100,244,o),
+(100,460,cs),
+(100,676,o),
+(275,850,o),
+(491,850,cs)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(774,177,l),
+(1020,-70,l)
+);
+}
+);
+width = 1105;
+}
+);
+unicode = 128269;
+}

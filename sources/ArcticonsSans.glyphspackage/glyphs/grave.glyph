@@ -1,0 +1,15 @@
+{
+glyphname = grave;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 274;
+}
+);
+unicode = 96;
+}

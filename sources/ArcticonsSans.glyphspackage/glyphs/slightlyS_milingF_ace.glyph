@@ -1,0 +1,79 @@
+{
+glyphname = slightlySmilingFace;
+kernLeft = emojiRound;
+kernRight = emojiRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(714,580,l),
+(714,520,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(408,580,l),
+(408,520,l)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(815,-70,o),
+(1020,136,o),
+(1020,391,cs),
+(1020,645,o),
+(815,850,o),
+(561,850,cs),
+(306,850,o),
+(100,645,o),
+(100,391,cs),
+(100,136,o),
+(306,-70,o),
+(561,-70,cs)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(271,347,l),
+(292,206,o),
+(414,98,o),
+(561,98,cs),
+(707,98,o),
+(828,206,o),
+(849,347,c)
+);
+}
+);
+width = 1120;
+}
+);
+unicode = 128578;
+}

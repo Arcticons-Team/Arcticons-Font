@@ -1,0 +1,15 @@
+{
+glyphname = whiteExclamationOrnament;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = exclam;
+}
+);
+width = 270;
+}
+);
+unicode = 10069;
+}

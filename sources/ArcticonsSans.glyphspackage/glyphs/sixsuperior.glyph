@@ -1,0 +1,57 @@
+{
+glyphname = sixsuperior;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x15af7f6b0;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(365,610,o),
+(306,550,o),
+(232,550,cs),
+(159,550,o),
+(100,610,o),
+(100,683,cs),
+(100,756,o),
+(159,815,o),
+(232,815,cs),
+(306,815,o),
+(365,756,o),
+(365,683,cs)
+);
+},
+{
+attr = {
+identifier = ID0x15af7f6b0;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(353,901,l),
+(331,930,o),
+(298,950,o),
+(242,950,cs),
+(232,950,ls),
+(159,950,o),
+(100,891,o),
+(100,818,cs),
+(100,683,l)
+);
+}
+);
+width = 465;
+}
+);
+metricLeft = six;
+metricRight = six;
+unicode = 8310;
+}

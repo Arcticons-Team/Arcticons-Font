@@ -1,0 +1,18 @@
+{
+glyphname = ycircumflex.ss03;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = y.ss03;
+},
+{
+pos = (80,0);
+ref = circumflexcomb;
+}
+);
+width = 600;
+}
+);
+}

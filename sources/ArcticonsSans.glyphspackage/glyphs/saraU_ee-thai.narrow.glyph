@@ -1,0 +1,10 @@
+{
+export = 0;
+glyphname = "saraUee-thai.narrow";
+layers = (
+{
+layerId = m002;
+width = 300;
+}
+);
+}

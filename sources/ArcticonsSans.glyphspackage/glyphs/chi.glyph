@@ -1,0 +1,57 @@
+{
+glyphname = chi;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(426,180,l),
+(658,-169,ls),
+(679,-201,o),
+(714,-220,o),
+(753,-220,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(426,180,l),
+(195,529,ls),
+(174,561,o),
+(138,580,o),
+(100,580,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(691,580,l),
+(161,-220,l)
+);
+}
+);
+width = 853;
+}
+);
+unicode = 967;
+}

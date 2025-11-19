@@ -1,0 +1,16 @@
+{
+color = 10;
+glyphname = rightDoubleArrow.case;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,135);
+ref = rightDoubleArrow;
+}
+);
+width = 900;
+}
+);
+}

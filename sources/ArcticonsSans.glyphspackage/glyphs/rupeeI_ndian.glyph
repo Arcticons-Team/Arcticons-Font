@@ -1,0 +1,70 @@
+{
+glyphname = rupeeIndian;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,836,l),
+(262,836,ls),
+(410,836,o),
+(530,715,o),
+(530,567,cs),
+(530,418,o),
+(410,298,o),
+(262,298,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(262,836,l),
+(630,836,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,566,l),
+(630,566,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(262,298,l),
+(530,36,l)
+);
+}
+);
+width = 730;
+}
+);
+unicode = 8377;
+}

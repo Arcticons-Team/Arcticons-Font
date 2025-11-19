@@ -1,0 +1,34 @@
+{
+export = 0;
+glyphname = "maiEk-thai";
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (100,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,849,l),
+(100,729,l)
+);
+}
+);
+width = 200;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 3656;
+}

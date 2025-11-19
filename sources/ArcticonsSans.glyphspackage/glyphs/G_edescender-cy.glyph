@@ -1,0 +1,42 @@
+{
+export = 0;
+glyphname = "Gedescender-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "Ge-cy";
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,50,l),
+(200,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(200,50,l),
+(200,-50,l)
+);
+}
+);
+width = 720;
+}
+);
+unicode = 1270;
+}

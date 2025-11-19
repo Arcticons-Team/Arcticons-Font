@@ -1,0 +1,17 @@
+{
+glyphname = "Shha-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (730,900);
+ref = "Che-cy";
+}
+);
+width = 730;
+}
+);
+unicode = 1210;
+}

@@ -1,0 +1,24 @@
+{
+glyphname = "brevecomb-cy";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (280,630);
+},
+{
+name = top;
+pos = (280,901);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = brevecomb;
+}
+);
+width = 561;
+}
+);
+}

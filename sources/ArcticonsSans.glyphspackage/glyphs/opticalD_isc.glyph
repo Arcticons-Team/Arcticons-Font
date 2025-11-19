@@ -1,0 +1,98 @@
+{
+glyphname = opticalDisc;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(815,-70,o),
+(1020,136,o),
+(1020,391,cs),
+(1020,645,o),
+(815,850,o),
+(561,850,cs),
+(306,850,o),
+(100,645,o),
+(100,391,cs),
+(100,136,o),
+(306,-70,o),
+(561,-70,cs)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(648,230,o),
+(720,301,o),
+(720,390,cs),
+(720,478,o),
+(648,550,o),
+(560,550,cs),
+(471,550,o),
+(400,478,o),
+(400,390,cs),
+(400,301,o),
+(471,230,o),
+(560,230,cs)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(790,788,l),
+(640,528,l)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(480,251,l),
+(330,-9,l)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(992,547,l),
+(710,444,l)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(409,335,l),
+(127,232,l)
+);
+}
+);
+width = 1120;
+}
+);
+unicode = 128191;
+}

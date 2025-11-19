@@ -1,0 +1,19 @@
+{
+glyphname = "Io-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "Ie-cy";
+},
+{
+pos = (20,270);
+ref = dieresiscomb;
+}
+);
+width = 600;
+}
+);
+unicode = 1025;
+}

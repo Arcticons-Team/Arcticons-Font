@@ -1,0 +1,18 @@
+{
+glyphname = ahookabove.ss01;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = a.ss01;
+},
+{
+pos = (131,0);
+ref = hookabovecomb;
+}
+);
+width = 600;
+}
+);
+}

@@ -1,0 +1,58 @@
+{
+export = 0;
+glyphname = "hoHip-thai";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,580,l),
+(100,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(415,580,l),
+(101,280,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(210,384,l),
+(314,384,ls),
+(385,384,o),
+(444,326,o),
+(444,254,cs),
+(444,50,l)
+);
+}
+);
+width = 544;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 3627;
+}

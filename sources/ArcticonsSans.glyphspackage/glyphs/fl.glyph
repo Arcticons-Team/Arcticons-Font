@@ -1,0 +1,70 @@
+{
+glyphname = fl;
+layers = (
+{
+anchors = (
+{
+name = caret_1;
+pos = (386,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,580,l),
+(367,580,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(206,50,l),
+(206,710,ls),
+(206,787,o),
+(268,850,o),
+(346,850,cs),
+(400,850,ls),
+(469,850,o),
+(513,830,o),
+(542,791,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(542,791,l),
+(542,150,ls),
+(542,95,o),
+(587,50,o),
+(642,50,cs),
+(672,50,l)
+);
+}
+);
+width = 772;
+}
+);
+metricLeft = f;
+metricRight = l;
+unicode = 64258;
+}

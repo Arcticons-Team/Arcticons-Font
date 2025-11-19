@@ -1,0 +1,69 @@
+{
+glyphname = a.ss01;
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = ogonek;
+pos = (550,6);
+},
+{
+name = top;
+pos = (300,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(140,501,l),
+(188,558,o),
+(232,580,o),
+(325,580,cs),
+(431,580,o),
+(500,533,o),
+(500,408,cs),
+(500,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(500,139,o),
+(411,50,o),
+(301,50,cs),
+(232,50,ls),
+(159,50,o),
+(100,109,o),
+(100,182,cs),
+(100,256,o),
+(159,315,o),
+(232,315,cs),
+(344,315,o),
+(433,321,o),
+(500,250,c)
+);
+}
+);
+width = 600;
+}
+);
+}

@@ -1,0 +1,16 @@
+{
+glyphname = minus;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (50,0);
+ref = hyphen;
+}
+);
+width = 700;
+}
+);
+unicode = 8722;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = leftArrow;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (900,0);
+ref = rightArrow;
+scale = (-1,1);
+}
+);
+width = 900;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 8592;
+}

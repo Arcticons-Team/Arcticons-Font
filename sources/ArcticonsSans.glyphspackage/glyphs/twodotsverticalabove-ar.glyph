@@ -1,0 +1,10 @@
+{
+export = 0;
+glyphname = "twodotsverticalabove-ar";
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+}

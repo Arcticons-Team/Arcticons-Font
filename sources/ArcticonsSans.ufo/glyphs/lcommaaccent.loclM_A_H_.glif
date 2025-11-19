@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="lcommaaccent.loclMAH" format="2">
-  <advance width="330"/>
-  <outline>
-    <component base="l"/>
-    <component base="commaaccentcomb.loclMAH" xOffset="-166"/>
-  </outline>
-</glyph>

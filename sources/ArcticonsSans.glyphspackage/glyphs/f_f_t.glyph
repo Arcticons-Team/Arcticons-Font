@@ -1,0 +1,115 @@
+{
+glyphname = f_f_t;
+layers = (
+{
+anchors = (
+{
+name = bottom_1;
+pos = (173,0);
+},
+{
+name = bottom_2;
+pos = (519,0);
+},
+{
+name = bottom_3;
+pos = (865,0);
+},
+{
+name = caret_1;
+pos = (346,0);
+},
+{
+name = caret_2;
+pos = (692,0);
+},
+{
+name = top_1;
+pos = (173,1015);
+},
+{
+name = top_2;
+pos = (519,1015);
+},
+{
+name = top_3;
+pos = (865,1015);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(808,745,l),
+(808,150,ls),
+(808,95,o),
+(853,50,o),
+(908,50,cs),
+(938,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(913,580,l),
+(100,580,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(480,50,l),
+(480,710,ls),
+(480,787,o),
+(543,850,o),
+(620,850,c),
+(620,850,o),
+(652,849,o),
+(666,847,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(205,50,l),
+(205,710,ls),
+(205,787,o),
+(267,850,o),
+(345,850,c),
+(345,850,o),
+(376,849,o),
+(390,847,c)
+);
+}
+);
+width = 1038;
+}
+);
+metricLeft = f;
+metricRight = t;
+}

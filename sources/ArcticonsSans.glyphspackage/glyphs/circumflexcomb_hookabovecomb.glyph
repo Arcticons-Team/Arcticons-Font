@@ -1,0 +1,19 @@
+{
+glyphname = circumflexcomb_hookabovecomb;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+anchor = top_viet;
+pos = (192,174);
+ref = hookabovecomb;
+}
+);
+width = 441;
+}
+);
+}

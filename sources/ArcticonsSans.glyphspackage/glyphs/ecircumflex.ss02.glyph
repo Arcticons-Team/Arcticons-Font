@@ -1,0 +1,20 @@
+{
+glyphname = ecircumflex.ss02;
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = e.ss02;
+},
+{
+pos = (80,0);
+ref = circumflexcomb;
+}
+);
+width = 600;
+}
+);
+}

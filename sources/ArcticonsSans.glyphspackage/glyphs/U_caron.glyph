@@ -1,0 +1,15 @@
+{
+glyphname = Ucaron;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = U;
+}
+);
+width = 730;
+}
+);
+unicode = 467;
+}

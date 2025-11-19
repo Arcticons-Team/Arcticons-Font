@@ -1,0 +1,66 @@
+{
+glyphname = fiveinferior;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x15af83100;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,-16,l),
+(128,-39,o),
+(154,-50,o),
+(221,-50,cs),
+(232,-50,ls),
+(295,-50,o),
+(345,1,o),
+(345,63,cs),
+(345,125,o),
+(295,175,o),
+(232,175,cs),
+(100,175,l)
+);
+},
+{
+attr = {
+identifier = ID0x15af83100;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,350,l),
+(345,350,l)
+);
+},
+{
+attr = {
+identifier = ID0x15af83100;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,175,l),
+(100,350,l)
+);
+}
+);
+width = 445;
+}
+);
+metricLeft = five;
+metricRight = five;
+unicode = 8325;
+}

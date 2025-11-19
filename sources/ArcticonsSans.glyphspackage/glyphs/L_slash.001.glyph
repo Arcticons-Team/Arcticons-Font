@@ -1,0 +1,14 @@
+{
+glyphname = Lslash.001;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Lslash;
+}
+);
+width = 700;
+}
+);
+}

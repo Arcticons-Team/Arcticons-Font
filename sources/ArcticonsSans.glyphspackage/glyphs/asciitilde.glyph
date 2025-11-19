@@ -1,0 +1,16 @@
+{
+glyphname = asciitilde;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (50,0);
+ref = wavedash;
+}
+);
+width = 700;
+}
+);
+unicode = 126;
+}

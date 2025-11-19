@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="threeThirtyClock" format="2">
-  <advance width="1120"/>
-  <unicode hex="1F55E"/>
-  <outline>
-    <component base="threeClock" yScale="-1" yOffset="780"/>
-  </outline>
-</glyph>

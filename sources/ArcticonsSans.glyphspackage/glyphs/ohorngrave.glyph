@@ -1,0 +1,21 @@
+{
+glyphname = ohorngrave;
+kernLeft = lowercaseRound;
+kernRight = lowercaseHorn;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (123,0);
+ref = gravecomb;
+}
+);
+width = 670;
+}
+);
+unicode = 7901;
+}

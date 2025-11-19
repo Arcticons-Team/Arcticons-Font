@@ -1,0 +1,53 @@
+{
+glyphname = "Che-cy";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+pos = (710,0);
+},
+{
+name = top;
+pos = (365,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(630,850,l),
+(630,350,l),
+(380,350,ls),
+(226,350,o),
+(100,475,o),
+(100,630,cs),
+(100,850,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(630,350,l),
+(630,50,l)
+);
+}
+);
+width = 730;
+}
+);
+unicode = 1063;
+}

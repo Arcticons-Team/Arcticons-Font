@@ -1,0 +1,74 @@
+{
+glyphname = kaiSymbol;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(228,156,l),
+(228,508,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(228,508,l),
+(228,545,o),
+(201,589,o),
+(146,589,cs),
+(128,589,o),
+(113,586,o),
+(100,579,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(511,-165,l),
+(575,-165,o),
+(628,-112,o),
+(628,-47,cs),
+(628,87,o),
+(518,183,o),
+(508,484,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(148,50,l),
+(588,580,l)
+);
+}
+);
+width = 728;
+}
+);
+unicode = 983;
+}

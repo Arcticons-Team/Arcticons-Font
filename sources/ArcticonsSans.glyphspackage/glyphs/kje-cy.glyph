@@ -1,0 +1,19 @@
+{
+glyphname = "kje-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "ka-cy";
+},
+{
+pos = (200,0);
+ref = acutecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 1116;
+}

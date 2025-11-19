@@ -1,0 +1,18 @@
+{
+glyphname = dblanglebracketleft;
+kernRight = parenthesis;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (560,0);
+ref = dblanglebracketright;
+scale = (-1,1);
+}
+);
+width = 560;
+}
+);
+unicode = 12298;
+}

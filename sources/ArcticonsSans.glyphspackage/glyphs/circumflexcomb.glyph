@@ -1,0 +1,52 @@
+{
+glyphname = circumflexcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (220,630);
+},
+{
+name = top;
+pos = (220,860);
+},
+{
+name = top_viet;
+pos = (361,804);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(130,741,l),
+(220,811,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(220,811,l),
+(311,741,l)
+);
+}
+);
+width = 441;
+}
+);
+unicode = 770;
+}

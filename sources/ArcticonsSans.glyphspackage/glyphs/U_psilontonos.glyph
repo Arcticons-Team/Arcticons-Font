@@ -1,0 +1,21 @@
+{
+glyphname = Upsilontonos;
+kernLeft = tonosCase;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Upsilon;
+},
+{
+anchor = top_left;
+pos = (-214,0);
+ref = tonos;
+}
+);
+width = 730;
+}
+);
+unicode = 910;
+}

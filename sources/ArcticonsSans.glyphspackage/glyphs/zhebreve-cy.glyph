@@ -1,0 +1,19 @@
+{
+glyphname = "zhebreve-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "zhe-cy";
+},
+{
+pos = (170,0);
+ref = "brevecomb-cy";
+}
+);
+width = 900;
+}
+);
+unicode = 1218;
+}

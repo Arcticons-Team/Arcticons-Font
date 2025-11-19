@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="leftLongArrow2" format="2">
-  <advance width="2000"/>
-  <outline>
-    <component base="rightLongArrow2" xScale="-1" xOffset="2000"/>
-  </outline>
-</glyph>

@@ -1,0 +1,15 @@
+{
+glyphname = Tau;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = T;
+}
+);
+width = 730;
+}
+);
+unicode = 932;
+}

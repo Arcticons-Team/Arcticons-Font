@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="eightClock" format="2">
-  <advance width="1120"/>
-  <unicode hex="1F557"/>
-  <outline>
-    <component base="fourClock" xScale="-1" xOffset="1120"/>
-  </outline>
-</glyph>

@@ -1,0 +1,15 @@
+{
+glyphname = breve;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = brevecomb;
+}
+);
+width = 561;
+}
+);
+unicode = 728;
+}

@@ -1,0 +1,80 @@
+{
+glyphname = g;
+kernLeft = lowercaseRound;
+kernRight = lowercaseDescender;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,-270);
+},
+{
+name = top;
+pos = (300,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 2;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,580,l),
+(500,-20,ls),
+(500,-131,o),
+(411,-220,o),
+(300,-220,cs),
+(245,-220,o),
+(195,-198,o),
+(159,-162,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,250,l),
+(500,139,o),
+(411,50,o),
+(300,50,cs),
+(190,50,o),
+(100,139,o),
+(100,250,cs),
+(100,380,ls),
+(100,490,o),
+(190,580,o),
+(300,580,cs),
+(411,580,o),
+(500,490,o),
+(500,380,c)
+);
+},
+{
+attr = {
+lineCapEnd = 2;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+);
+}
+);
+width = 600;
+}
+);
+metricRight = "=50";
+unicode = 103;
+}

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="purpleHeart" format="2">
-  <advance width="1120"/>
-  <unicode hex="1F49C"/>
-  <outline>
-    <component base="heavyBlackHeart_VS16"/>
-  </outline>
-</glyph>

@@ -1,0 +1,21 @@
+{
+glyphname = Nacute;
+kernLeft = uppercaseStraight;
+kernRight = uppercaseStraight;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (265,270);
+ref = acutecomb;
+}
+);
+width = 730;
+}
+);
+unicode = 323;
+}

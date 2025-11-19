@@ -1,0 +1,19 @@
+{
+glyphname = "Yi-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-180,270);
+ref = dieresiscomb;
+}
+);
+width = 200;
+}
+);
+unicode = 1031;
+}

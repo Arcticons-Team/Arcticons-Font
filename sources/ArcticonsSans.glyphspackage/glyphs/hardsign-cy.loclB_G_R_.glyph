@@ -1,0 +1,14 @@
+{
+glyphname = "hardsign-cy.loclBGR";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "hardsign-cy";
+}
+);
+width = 740;
+}
+);
+}

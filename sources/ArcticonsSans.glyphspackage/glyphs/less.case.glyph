@@ -1,0 +1,17 @@
+{
+color = 10;
+glyphname = less.case;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (700,135);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 700;
+}
+);
+}

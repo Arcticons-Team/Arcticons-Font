@@ -1,0 +1,14 @@
+{
+glyphname = less_hyphen_greater;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = leftRightArrow;
+}
+);
+width = 1220;
+}
+);
+}

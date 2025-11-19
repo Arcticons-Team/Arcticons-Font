@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="copyleft" format="2">
-  <advance width="1000"/>
-  <unicode hex="1F12F"/>
-  <outline>
-    <component base="copyright" xScale="-1" xOffset="1000"/>
-  </outline>
-</glyph>

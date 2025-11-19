@@ -1,0 +1,21 @@
+{
+glyphname = Ehookabove;
+kernLeft = uppercaseStraight;
+kernRight = E;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (131,270);
+ref = hookabovecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7866;
+}

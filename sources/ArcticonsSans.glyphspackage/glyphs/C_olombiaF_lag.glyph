@@ -1,0 +1,116 @@
+{
+export = 0;
+glyphname = ColombiaFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(1020,680,l),
+(962,695,o),
+(905,710,o),
+(790,710,cs),
+(590,710,o),
+(530,650,o),
+(330,650,cs),
+(215,650,o),
+(157,665,o),
+(100,680,c)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(1020,120,l),
+(962,135,o),
+(905,150,o),
+(790,150,cs),
+(590,150,o),
+(530,90,o),
+(330,90,cs),
+(215,90,o),
+(157,105,o),
+(100,120,c)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(1020,433,l),
+(962,448,o),
+(905,463,o),
+(790,463,cs),
+(590,463,o),
+(530,403,o),
+(330,403,cs),
+(215,403,o),
+(157,418,o),
+(100,433,c)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(1020,277,l),
+(962,292,o),
+(905,307,o),
+(790,307,cs),
+(590,307,o),
+(530,247,o),
+(330,247,cs),
+(215,247,o),
+(157,262,o),
+(100,277,c)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,680,l),
+(100,120,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(1020,120,l),
+(1020,680,l)
+);
+}
+);
+width = 1120;
+}
+);
+}

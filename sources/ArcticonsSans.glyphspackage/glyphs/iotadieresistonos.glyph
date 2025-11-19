@@ -1,0 +1,19 @@
+{
+glyphname = iotadieresistonos;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-178,0);
+ref = dieresistonos;
+}
+);
+width = 400;
+}
+);
+unicode = 912;
+}

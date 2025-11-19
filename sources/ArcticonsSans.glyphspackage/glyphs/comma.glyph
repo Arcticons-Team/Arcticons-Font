@@ -1,0 +1,50 @@
+{
+glyphname = comma;
+kernLeft = dot;
+kernRight = dot;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(110,-99,l),
+(160,-74,o),
+(160,-25,o),
+(160,0,cs),
+(160,66,l)
+);
+},
+{
+attr = {
+fill = 1;
+};
+closed = 1;
+nodes = (
+(210,117,o),
+(177,150,o),
+(135,150,cs),
+(94,150,o),
+(60,117,o),
+(60,75,cs),
+(60,34,o),
+(94,0,o),
+(135,0,cs),
+(177,0,o),
+(210,34,o),
+(210,75,cs)
+);
+}
+);
+width = 270;
+}
+);
+unicode = 44;
+}

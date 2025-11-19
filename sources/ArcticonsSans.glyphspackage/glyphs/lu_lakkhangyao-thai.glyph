@@ -1,0 +1,12 @@
+{
+export = 0;
+glyphname = "lu_lakkhangyao-thai";
+layers = (
+{
+layerId = m002;
+width = 700;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+}

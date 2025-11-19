@@ -1,0 +1,18 @@
+{
+glyphname = bracketright;
+kernLeft = parenthesis;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (360,0);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+width = 360;
+}
+);
+unicode = 93;
+}

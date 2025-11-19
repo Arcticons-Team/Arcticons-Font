@@ -1,0 +1,19 @@
+{
+glyphname = nineClock;
+kernLeft = emojiRound;
+kernRight = emojiRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (1120,0);
+ref = threeClock;
+scale = (-1,1);
+}
+);
+width = 1120;
+}
+);
+unicode = 128344;
+}

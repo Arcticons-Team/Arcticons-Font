@@ -1,0 +1,55 @@
+{
+export = 0;
+glyphname = "saraAiMaimuan-thai";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(172,500,l),
+(172,132,ls),
+(172,94,o),
+(198,50,o),
+(253,50,cs),
+(271,50,o),
+(287,54,o),
+(299,60,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,831,l),
+(118,844,o),
+(144,850,o),
+(174,850,cs),
+(238,850,o),
+(280,807,o),
+(280,748,cs),
+(280,656,o),
+(172,605,o),
+(172,500,c)
+);
+}
+);
+width = 399;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 3651;
+}

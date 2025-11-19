@@ -1,0 +1,15 @@
+{
+export = 0;
+glyphname = EquatorialGuineaFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = PalestinianTerritoriesFlag;
+}
+);
+width = 1120;
+}
+);
+}

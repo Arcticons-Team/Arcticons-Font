@@ -1,0 +1,86 @@
+{
+glyphname = onequarter;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x2bbdd0dd0;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(220,850,l),
+(220,370,l)
+);
+},
+{
+attr = {
+identifier = ID0x2bbdd0dd0;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,785,l),
+(220,850,l)
+);
+},
+{
+pos = (120,0);
+ref = fraction;
+},
+{
+attr = {
+identifier = ID0x1184a9dd0;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(844,530,l),
+(587,208,l)
+);
+},
+{
+attr = {
+identifier = ID0x1184a9dd0;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(587,208,l),
+(905,208,l)
+);
+},
+{
+attr = {
+identifier = ID0x1184a9dd0;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(844,50,l),
+(844,530,l)
+);
+}
+);
+width = 1005;
+}
+);
+unicode = 188;
+}

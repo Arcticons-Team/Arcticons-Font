@@ -1,0 +1,15 @@
+{
+glyphname = commaturnedmod;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = apostrophemod;
+}
+);
+width = 260;
+}
+);
+unicode = 699;
+}

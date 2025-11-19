@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dblanglebracketright" format="2">
-  <advance width="560"/>
-  <unicode hex="300B"/>
-  <outline>
-    <component base="anglebracketright" xOffset="200"/>
-    <component base="anglebracketright"/>
-  </outline>
-</glyph>

@@ -1,0 +1,15 @@
+{
+export = 0;
+glyphname = ThailandFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = MauritiusFlag;
+}
+);
+width = 1120;
+}
+);
+}

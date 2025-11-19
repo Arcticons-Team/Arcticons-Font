@@ -1,0 +1,11 @@
+{
+export = 0;
+glyphname = Eng;
+layers = (
+{
+layerId = m002;
+width = 730;
+}
+);
+unicode = 330;
+}

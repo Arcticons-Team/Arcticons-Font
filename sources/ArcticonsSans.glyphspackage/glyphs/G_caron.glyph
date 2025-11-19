@@ -1,0 +1,19 @@
+{
+glyphname = Gcaron;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (85,270);
+ref = caroncomb;
+}
+);
+width = 730;
+}
+);
+unicode = 486;
+}

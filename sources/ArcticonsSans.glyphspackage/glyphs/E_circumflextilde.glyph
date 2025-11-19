@@ -1,0 +1,21 @@
+{
+glyphname = Ecircumflextilde;
+kernLeft = uppercaseStraight;
+kernRight = E;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (80,270);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7876;
+}

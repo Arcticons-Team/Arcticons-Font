@@ -1,0 +1,27 @@
+{
+glyphname = i;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (135,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-5,0);
+ref = dotaccentcomb;
+}
+);
+width = 200;
+}
+);
+unicode = 105;
+}

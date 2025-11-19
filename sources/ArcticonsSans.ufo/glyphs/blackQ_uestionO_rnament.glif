@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="blackQuestionOrnament" format="2">
-  <advance width="640"/>
-  <unicode hex="2753"/>
-  <outline>
-    <component base="question"/>
-  </outline>
-</glyph>

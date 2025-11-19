@@ -1,0 +1,19 @@
+{
+glyphname = "Gje-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "Ge-cy";
+},
+{
+pos = (260,270);
+ref = acutecomb;
+}
+);
+width = 720;
+}
+);
+unicode = 1027;
+}

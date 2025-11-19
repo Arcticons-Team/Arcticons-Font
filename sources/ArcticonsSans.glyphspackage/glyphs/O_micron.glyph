@@ -1,0 +1,23 @@
+{
+glyphname = Omicron;
+kernLeft = uppercaseRound;
+kernRight = uppercaseRound;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (-25,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = O;
+}
+);
+width = 730;
+}
+);
+unicode = 927;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = ygrave.ss03;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = y.ss03;
+},
+{
+pos = (123,0);
+ref = gravecomb;
+}
+);
+width = 600;
+}
+);
+}

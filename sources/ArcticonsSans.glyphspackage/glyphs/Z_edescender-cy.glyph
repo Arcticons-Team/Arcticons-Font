@@ -1,0 +1,19 @@
+{
+glyphname = "Zedescender-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "Ze-cy";
+},
+{
+pos = (111,0);
+ref = cedillacomb;
+}
+);
+width = 680;
+}
+);
+unicode = 1176;
+}

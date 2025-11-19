@@ -1,0 +1,15 @@
+{
+export = 0;
+glyphname = AndorraFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = FranceFlag;
+}
+);
+width = 1120;
+}
+);
+}

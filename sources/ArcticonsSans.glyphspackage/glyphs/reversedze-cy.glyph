@@ -1,0 +1,16 @@
+{
+export = 0;
+glyphname = "reversedze-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = epsilon;
+}
+);
+width = 550;
+}
+);
+unicode = 1297;
+}

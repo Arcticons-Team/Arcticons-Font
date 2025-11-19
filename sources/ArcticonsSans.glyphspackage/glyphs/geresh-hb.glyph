@@ -1,0 +1,15 @@
+{
+glyphname = "geresh-hb";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = quoteleft;
+}
+);
+width = 220;
+}
+);
+unicode = 1523;
+}

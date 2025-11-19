@@ -1,0 +1,70 @@
+{
+export = 0;
+glyphname = "khoKhon-thai";
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,490,l),
+(300,546,o),
+(255,590,o),
+(200,590,cs),
+(145,590,o),
+(100,546,o),
+(100,490,cs),
+(100,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(300,310,l),
+(189,310,o),
+(100,221,o),
+(100,110,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,50,l),
+(500,490,ls),
+(500,546,o),
+(455,590,o),
+(400,590,cs),
+(345,590,o),
+(300,546,o),
+(300,490,c)
+);
+}
+);
+width = 600;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 3589;
+}

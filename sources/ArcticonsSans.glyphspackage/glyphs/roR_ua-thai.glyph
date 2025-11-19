@@ -1,0 +1,16 @@
+{
+export = 0;
+glyphname = "roRua-thai";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = s;
+}
+);
+width = 554;
+}
+);
+unicode = 3619;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = Ecircumflexacute;
+kernLeft = uppercaseStraight;
+kernRight = E;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (110,270);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 7870;
+}

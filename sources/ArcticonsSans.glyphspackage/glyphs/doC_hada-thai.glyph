@@ -1,0 +1,98 @@
+{
+export = 0;
+glyphname = "doChada-thai";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(223,232,l),
+(223,312,o),
+(282,363,o),
+(357,363,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(225,442,l),
+(225,536,o),
+(292,580,o),
+(393,580,cs),
+(395,580,ls),
+(488,580,o),
+(563,505,o),
+(563,413,cs),
+(563,-165,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(357,363,l),
+(225,442,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,55,l),
+(124,51,ls),
+(176,44,o),
+(223,84,o),
+(223,136,cs),
+(223,232,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(223,-165,l),
+(223,-110,o),
+(268,-65,o),
+(323,-65,cs),
+(490,-65,o),
+(563,-165,o),
+(563,-165,c)
+);
+}
+);
+width = 663;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 3598;
+}

@@ -1,0 +1,15 @@
+{
+glyphname = lacute;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = l;
+}
+);
+width = 330;
+}
+);
+unicode = 314;
+}

@@ -1,0 +1,15 @@
+{
+export = 0;
+glyphname = WesternSaharaFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = PalestinianTerritoriesFlag;
+}
+);
+width = 1120;
+}
+);
+}

@@ -1,0 +1,56 @@
+{
+glyphname = fourinferior;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x15af82c70;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(314,350,l),
+(100,82,l)
+);
+},
+{
+attr = {
+identifier = ID0x15af82c70;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,82,l),
+(365,82,l)
+);
+},
+{
+attr = {
+identifier = ID0x15af82c70;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(314,-50,l),
+(314,350,l)
+);
+}
+);
+width = 465;
+}
+);
+metricLeft = four;
+metricRight = four;
+unicode = 8324;
+}

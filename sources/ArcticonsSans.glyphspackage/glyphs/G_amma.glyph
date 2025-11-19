@@ -1,0 +1,15 @@
+{
+glyphname = Gamma;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "Ge-cy";
+}
+);
+width = 720;
+}
+);
+unicode = 915;
+}

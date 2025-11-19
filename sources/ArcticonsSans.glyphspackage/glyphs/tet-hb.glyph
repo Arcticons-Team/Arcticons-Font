@@ -1,0 +1,68 @@
+{
+glyphname = "tet-hb";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (350,0);
+},
+{
+name = bottomleft;
+pos = (70,0);
+},
+{
+name = center;
+pos = (350,508);
+},
+{
+name = top;
+pos = (350,1015);
+},
+{
+name = topleft;
+pos = (70,1015);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(381,795,l),
+(536,795,o),
+(662,669,o),
+(662,514,cs),
+(662,331,ls),
+(662,176,o),
+(536,50,o),
+(381,50,cs),
+(226,50,o),
+(100,176,o),
+(100,331,cs),
+(100,795,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+);
+}
+);
+width = 762;
+}
+);
+unicode = 1496;
+}

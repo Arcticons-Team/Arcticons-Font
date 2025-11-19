@@ -1,0 +1,17 @@
+{
+color = 10;
+glyphname = bullet.case;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,-180);
+ref = periodcentered;
+scale = (2,2);
+}
+);
+width = 540;
+}
+);
+}

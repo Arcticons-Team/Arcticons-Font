@@ -1,0 +1,19 @@
+{
+glyphname = epsilontonos;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = epsilon;
+},
+{
+pos = (175,0);
+ref = tonos;
+}
+);
+width = 550;
+}
+);
+unicode = 941;
+}

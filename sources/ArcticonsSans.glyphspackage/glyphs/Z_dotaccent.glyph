@@ -1,0 +1,15 @@
+{
+glyphname = Zdotaccent;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Z;
+}
+);
+width = 730;
+}
+);
+unicode = 379;
+}

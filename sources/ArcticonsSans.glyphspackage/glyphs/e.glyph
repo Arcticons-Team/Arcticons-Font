@@ -1,0 +1,68 @@
+{
+glyphname = e;
+kernLeft = lowercaseRound;
+kernRight = lowercaseRound;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,50);
+},
+{
+name = ogonek;
+pos = (458,32);
+},
+{
+name = top;
+pos = (300,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,315,l),
+(500,315,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(473,151,l),
+(437,90,o),
+(374,50,o),
+(300,50,cs),
+(190,50,o),
+(100,140,o),
+(100,250,cs),
+(100,380,ls),
+(100,490,o),
+(190,580,o),
+(300,580,cs),
+(411,580,o),
+(500,490,o),
+(500,380,cs),
+(500,315,l)
+);
+}
+);
+width = 600;
+}
+);
+metricRight = "=50";
+unicode = 101;
+}

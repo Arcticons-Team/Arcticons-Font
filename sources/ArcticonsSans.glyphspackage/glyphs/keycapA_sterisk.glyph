@@ -1,0 +1,78 @@
+{
+export = 0;
+glyphname = keycapAsterisk;
+kernLeft = emojiSquare;
+kernRight = emojiSquare;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(240,850,ls),
+(162,850,o),
+(100,787,o),
+(100,710,cs),
+(100,70,ls),
+(100,-7,o),
+(162,-70,o),
+(240,-70,cs),
+(880,-70,ls),
+(957,-70,o),
+(1020,-7,o),
+(1020,70,cs),
+(1020,710,ls),
+(1020,787,o),
+(957,850,o),
+(880,850,cs)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(560,640,l),
+(560,140,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(343,515,l),
+(776,265,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(343,265,l),
+(776,515,l)
+);
+}
+);
+width = 1120;
+}
+);
+}

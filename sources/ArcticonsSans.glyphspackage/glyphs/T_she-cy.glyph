@@ -1,0 +1,76 @@
+{
+glyphname = "Tshe-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (365,50);
+},
+{
+name = center;
+pos = (365,475);
+},
+{
+name = top;
+pos = (365,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x109cffc60;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,850,l),
+(630,850,l)
+);
+},
+{
+attr = {
+identifier = ID0x109cffc60;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(365,50,l),
+(365,850,l)
+);
+},
+{
+attr = {
+identifier = ID0x109c38d80;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(365,380,l),
+(365,490,o),
+(454,580,o),
+(565,580,cs),
+(675,580,o),
+(765,490,o),
+(765,380,cs),
+(765,50,l)
+);
+}
+);
+width = 865;
+}
+);
+metricLeft = T;
+metricRight = h;
+unicode = 1035;
+}

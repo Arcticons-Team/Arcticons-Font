@@ -1,0 +1,18 @@
+{
+glyphname = yacute.ss03;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = y.ss03;
+},
+{
+pos = (200,0);
+ref = acutecomb;
+}
+);
+width = 600;
+}
+);
+}

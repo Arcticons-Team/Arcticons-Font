@@ -1,0 +1,99 @@
+{
+export = 0;
+glyphname = keycapDigitFive;
+kernLeft = emojiSquare;
+kernRight = emojiSquare;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(240,850,ls),
+(163,850,o),
+(100,787,o),
+(100,710,cs),
+(100,70,ls),
+(100,-7,o),
+(163,-70,o),
+(240,-70,cs),
+(880,-70,ls),
+(957,-70,o),
+(1020,-7,o),
+(1020,70,cs),
+(1020,710,ls),
+(1020,787,o),
+(957,850,o),
+(880,850,cs)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(388,157,l),
+(427,125,o),
+(465,110,o),
+(558,110,cs),
+(574,110,ls),
+(661,110,o),
+(731,180,o),
+(731,267,cs),
+(731,354,o),
+(661,424,o),
+(574,424,cs),
+(388,424,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(388,670,l),
+(731,670,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(388,424,l),
+(388,670,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+);
+}
+);
+width = 1120;
+}
+);
+}

@@ -1,0 +1,17 @@
+{
+glyphname = dvd;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (1120,0);
+ref = opticalDisc;
+scale = (-1,1);
+}
+);
+width = 1120;
+}
+);
+unicode = 128192;
+}

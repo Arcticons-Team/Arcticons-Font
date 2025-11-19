@@ -1,0 +1,105 @@
+{
+glyphname = grinningFaceWithSmilingEyes;
+kernLeft = emojiRound;
+kernRight = emojiRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(815,-70,o),
+(1020,136,o),
+(1020,391,cs),
+(1020,645,o),
+(815,850,o),
+(561,850,cs),
+(306,850,o),
+(100,645,o),
+(100,391,cs),
+(100,136,o),
+(306,-70,o),
+(561,-70,cs)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(268,391,l),
+(268,229,o),
+(399,98,o),
+(561,98,cs),
+(722,98,o),
+(852,229,o),
+(852,391,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(852,391,l),
+(852,391,o),
+(734,296,o),
+(561,296,cs),
+(388,296,o),
+(268,391,o),
+(268,391,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(485,520,l),
+(446,608,ls),
+(431,640,o),
+(385,640,o),
+(370,608,cs),
+(331,520,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(791,520,l),
+(752,608,ls),
+(737,640,o),
+(691,640,o),
+(676,608,cs),
+(637,520,l)
+);
+}
+);
+width = 1120;
+}
+);
+unicode = 128513;
+}

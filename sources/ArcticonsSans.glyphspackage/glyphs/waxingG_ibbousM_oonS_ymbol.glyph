@@ -1,0 +1,19 @@
+{
+glyphname = waxingGibbousMoonSymbol;
+kernLeft = emojiRound;
+kernRight = emojiRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (1120,0);
+ref = waxingCrescentMoonSymbol;
+scale = (-1,1);
+}
+);
+width = 1120;
+}
+);
+unicode = 127764;
+}

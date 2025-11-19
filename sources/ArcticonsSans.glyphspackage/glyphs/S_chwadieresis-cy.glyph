@@ -1,0 +1,19 @@
+{
+glyphname = "Schwadieresis-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "Schwa-cy";
+},
+{
+pos = (122,270);
+ref = dieresiscomb;
+}
+);
+width = 803;
+}
+);
+unicode = 1242;
+}

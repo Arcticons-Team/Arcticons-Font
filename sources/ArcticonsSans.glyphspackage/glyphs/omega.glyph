@@ -1,0 +1,79 @@
+{
+glyphname = omega;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (480,0);
+},
+{
+name = top;
+pos = (480,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(164,580,l),
+(120,528,o),
+(100,471,o),
+(100,344,cs),
+(100,240,ls),
+(100,135,o),
+(185,50,o),
+(290,50,cs),
+(395,50,o),
+(480,135,o),
+(480,240,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(797,580,l),
+(841,528,o),
+(860,471,o),
+(860,344,cs),
+(860,240,ls),
+(860,135,o),
+(775,50,o),
+(670,50,cs),
+(565,50,o),
+(480,135,o),
+(480,240,c)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(480,460,l),
+(480,240,l)
+);
+}
+);
+width = 960;
+}
+);
+unicode = 969;
+}

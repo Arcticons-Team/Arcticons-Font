@@ -1,0 +1,18 @@
+{
+color = 10;
+glyphname = bracketright.case;
+kernLeft = parenthesis;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (360,80);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+width = 360;
+}
+);
+}

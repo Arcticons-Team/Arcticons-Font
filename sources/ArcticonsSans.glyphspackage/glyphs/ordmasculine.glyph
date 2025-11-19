@@ -1,0 +1,58 @@
+{
+glyphname = ordmasculine;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (251,50);
+},
+{
+name = center;
+pos = (251,340);
+},
+{
+name = ogonek;
+pos = (361,109);
+},
+{
+name = top;
+pos = (251,630);
+},
+{
+name = topright;
+pos = (531,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x136eb6e60;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(334,450,o),
+(402,518,o),
+(402,601,cs),
+(402,699,ls),
+(402,782,o),
+(334,850,o),
+(251,850,cs),
+(168,850,o),
+(100,782,o),
+(100,699,cs),
+(100,601,ls),
+(100,518,o),
+(168,450,o),
+(251,450,cs)
+);
+}
+);
+width = 502;
+}
+);
+unicode = 186;
+}

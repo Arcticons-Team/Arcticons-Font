@@ -1,0 +1,14 @@
+{
+glyphname = "sha-cy.loclBGR";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "sha-cy";
+}
+);
+width = 860;
+}
+);
+}

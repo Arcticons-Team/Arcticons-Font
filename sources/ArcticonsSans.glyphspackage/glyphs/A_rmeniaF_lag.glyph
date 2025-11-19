@@ -1,0 +1,15 @@
+{
+export = 0;
+glyphname = ArmeniaFlag;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = NetherlandsFlag;
+}
+);
+width = 1120;
+}
+);
+}

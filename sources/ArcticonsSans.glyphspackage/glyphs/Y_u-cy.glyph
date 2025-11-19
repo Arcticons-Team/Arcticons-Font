@@ -1,0 +1,67 @@
+{
+glyphname = "Yu-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (500,900);
+}
+);
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,50,l),
+(100,850,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,450,l),
+(370,450,l)
+);
+},
+{
+attr = {
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 1;
+nodes = (
+(900,171,o),
+(781,52,o),
+(635,52,cs),
+(489,52,o),
+(370,171,o),
+(370,317,cs),
+(370,587,ls),
+(370,733,o),
+(489,852,o),
+(635,852,cs),
+(781,852,o),
+(900,733,o),
+(900,587,cs),
+(900,317,ls)
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 1070;
+}

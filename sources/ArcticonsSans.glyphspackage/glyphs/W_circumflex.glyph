@@ -1,0 +1,15 @@
+{
+glyphname = Wcircumflex;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = W;
+}
+);
+width = 1000;
+}
+);
+unicode = 372;
+}

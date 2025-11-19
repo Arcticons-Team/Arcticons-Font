@@ -1,0 +1,10 @@
+{
+color = 10;
+glyphname = figuredash.case;
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+}

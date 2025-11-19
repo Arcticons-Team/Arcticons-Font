@@ -1,0 +1,21 @@
+{
+glyphname = Odotbelow;
+kernLeft = uppercaseRound;
+kernRight = uppercaseRound;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (260,50);
+ref = dotbelowcomb;
+}
+);
+width = 730;
+}
+);
+unicode = 7884;
+}
