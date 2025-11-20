@@ -953,6 +953,7 @@ y = -60;
 Iogonek = -100;
 T = -70;
 V = -40;
+backslash = -40;
 bracketright = -70;
 degree = -40;
 four = -10;
@@ -1405,6 +1406,9 @@ at.case = {
 };
 "ayin-hb" = {
 "yod-hb" = 0;
+};
+backslash = {
+"@MMK_R_uppercaseRound" = -120;
 };
 "be-cy" = {
 "@MMK_R_lowercaseRound" = -30;
