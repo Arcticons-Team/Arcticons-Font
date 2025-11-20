@@ -1,4 +1,4 @@
-Copyright 2025 Arcticons Typeface Authors (ttps://github.com/Arcticons-Team/Arcticons-Font/)
+Copyright 2025 The Arcticons Typeface Authors (ttps://github.com/Arcticons-Team/Arcticons-Font/)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

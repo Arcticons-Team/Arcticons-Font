@@ -25,7 +25,7 @@ value = 1;
 }
 );
 date = "2024-01-01 19:40:33 +0000";
-familyName = arcticonssans;
+familyName = "Arcticons Sans";
 featurePrefixes = (
 {
 automatic = 1;
@@ -2113,7 +2113,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 Arcticons Typeface Authors (https://github.com/Arcticons-Team/Arcticons-Font/)";
+value = "Copyright 2025 The Arcticons Typeface Authors (https://github.com/Arcticons-Team/Arcticons-Font/)";
 }
 );
 },
@@ -2173,6 +2173,6 @@ HV = "0";
 };
 };
 };
-versionMajor = 0;
-versionMinor = 610;
+versionMajor = 1;
+versionMinor = 0;
 }
