@@ -29,7 +29,7 @@ woffDir: $outputDir/webfonts
 buildStatic: true
 buildTTF: true
 buildOTF: true
-# buildSmallCap: false
+buildSmallCap: false
 
 # The next flags control autohinting.
 autohintTTF: true
