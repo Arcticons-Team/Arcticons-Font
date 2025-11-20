@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = Etadasiaperispomeniprosgegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Eta;
+},
+{
+pos = (710,0);
+ref = dasiaperispomeni.case;
+},
+{
+pos = (1010,0);
+ref = prosgegrammeni;
+}
+);
+width = 1610;
+}
+);
+unicode = 8095;
+}

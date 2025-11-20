@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Etapsiliperispomeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Eta;
+},
+{
+pos = (710,0);
+ref = psiliperispomeni.case;
+}
+);
+width = 1010;
+}
+);
+unicode = 7982;
+}

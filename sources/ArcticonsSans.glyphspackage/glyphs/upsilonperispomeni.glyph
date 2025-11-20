@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = upsilonperispomeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (24,0);
+ref = perispomeni;
+}
+);
+width = 600;
+}
+);
+unicode = 8166;
+}

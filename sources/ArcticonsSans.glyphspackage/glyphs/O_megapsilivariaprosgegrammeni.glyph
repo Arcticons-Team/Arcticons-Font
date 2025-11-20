@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = Omegapsilivariaprosgegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Omega;
+},
+{
+pos = (1000,0);
+ref = psilivaria.case;
+},
+{
+pos = (1300,0);
+ref = prosgegrammeni;
+}
+);
+width = 1900;
+}
+);
+unicode = 8106;
+}

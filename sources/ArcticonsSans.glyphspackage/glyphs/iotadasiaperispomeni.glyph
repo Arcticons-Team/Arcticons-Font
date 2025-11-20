@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = iotadasiaperispomeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (400,0);
+ref = dasiaperispomeni;
+}
+);
+width = 700;
+}
+);
+unicode = 7991;
+}

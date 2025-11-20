@@ -1,0 +1,16 @@
+{
+export = 0;
+glyphname = perispomeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = tilde;
+}
+);
+width = 552;
+}
+);
+unicode = 8128;
+}

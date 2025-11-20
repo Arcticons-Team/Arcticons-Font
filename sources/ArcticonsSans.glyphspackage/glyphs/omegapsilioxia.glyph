@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = omegapsilioxia;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (960,0);
+ref = psilioxia;
+}
+);
+width = 1260;
+}
+);
+unicode = 8036;
+}

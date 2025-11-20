@@ -1,0 +1,15 @@
+{
+export = 0;
+glyphname = perispomeni.case;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = tilde;
+}
+);
+width = 552;
+}
+);
+}

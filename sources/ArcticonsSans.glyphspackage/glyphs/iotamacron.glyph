@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = iotamacron;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-230,0);
+ref = macroncomb;
+}
+);
+width = 400;
+}
+);
+unicode = 8145;
+}

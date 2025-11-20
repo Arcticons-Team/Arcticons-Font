@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = upsilondasiaoxia;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (600,0);
+ref = dasiaoxia;
+}
+);
+width = 900;
+}
+);
+unicode = 8021;
+}

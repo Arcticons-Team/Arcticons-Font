@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Omegadasia;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Omega;
+},
+{
+pos = (1000,0);
+ref = dasia.case;
+}
+);
+width = 1300;
+}
+);
+unicode = 8041;
+}

@@ -1,0 +1,15 @@
+{
+export = 0;
+glyphname = varia.case;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 274;
+}
+);
+}

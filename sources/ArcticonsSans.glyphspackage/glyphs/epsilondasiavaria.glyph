@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = epsilondasiavaria;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = epsilon;
+},
+{
+pos = (550,0);
+ref = dasiavaria;
+}
+);
+width = 850;
+}
+);
+unicode = 7955;
+}

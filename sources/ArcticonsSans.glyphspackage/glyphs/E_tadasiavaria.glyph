@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Etadasiavaria;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Eta;
+},
+{
+pos = (710,0);
+ref = dasiavaria.case;
+}
+);
+width = 1010;
+}
+);
+unicode = 7979;
+}

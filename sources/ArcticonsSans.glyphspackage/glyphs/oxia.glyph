@@ -1,0 +1,16 @@
+{
+export = 0;
+glyphname = oxia;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 274;
+}
+);
+unicode = 8189;
+}

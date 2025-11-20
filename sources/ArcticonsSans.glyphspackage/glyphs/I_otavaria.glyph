@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Iotavaria;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Iota;
+},
+{
+pos = (-67,270);
+ref = varia.case;
+}
+);
+width = 200;
+}
+);
+unicode = 8154;
+}

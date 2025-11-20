@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = Alphadasiaperispomeniprosgegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Alpha;
+},
+{
+pos = (730,0);
+ref = dasiaperispomeni.case;
+},
+{
+pos = (1030,0);
+ref = prosgegrammeni;
+}
+);
+width = 1630;
+}
+);
+unicode = 8079;
+}

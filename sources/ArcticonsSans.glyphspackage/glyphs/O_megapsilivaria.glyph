@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Omegapsilivaria;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Omega;
+},
+{
+pos = (1000,0);
+ref = psilivaria.case;
+}
+);
+width = 1300;
+}
+);
+unicode = 8042;
+}
