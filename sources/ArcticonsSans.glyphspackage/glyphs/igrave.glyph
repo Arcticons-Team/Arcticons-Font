@@ -1,6 +1,5 @@
 {
 glyphname = igrave;
-kernLeft = i;
 kernRight = i;
 layers = (
 {

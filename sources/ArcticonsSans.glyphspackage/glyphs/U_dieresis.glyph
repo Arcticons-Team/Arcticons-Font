@@ -6,6 +6,10 @@ layerId = m002;
 shapes = (
 {
 ref = U;
+},
+{
+pos = (85,270);
+ref = dieresiscomb;
 }
 );
 width = 730;

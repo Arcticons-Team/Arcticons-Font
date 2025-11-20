@@ -1,6 +1,5 @@
 {
 glyphname = rcaron;
-kernLeft = lowercaseStraight;
 layers = (
 {
 layerId = m002;

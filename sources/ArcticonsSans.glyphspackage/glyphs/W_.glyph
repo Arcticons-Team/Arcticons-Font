@@ -72,6 +72,7 @@ nodes = (
 width = 1000;
 }
 );
+metricLeft = "=50";
 metricRight = "=50";
 unicode = 87;
 }
