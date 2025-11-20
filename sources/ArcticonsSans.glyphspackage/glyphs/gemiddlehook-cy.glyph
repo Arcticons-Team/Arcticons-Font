@@ -3,9 +3,76 @@ export = 0;
 glyphname = "gemiddlehook-cy";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (300,50);
+},
+{
+name = center;
+pos = (300,533);
+},
+{
+name = top;
+pos = (300,900);
+}
+);
 layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x10187ea80;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,380,l),
+(100,490,o),
+(189,580,o),
+(300,580,cs),
+(410,580,o),
+(500,490,o),
+(500,380,cs),
+(500,50,ls),
+(500,-56,o),
+(464,-161,o),
+(323,-220,c)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,850,l),
+(100,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,850,l),
+(100,850,l)
+);
+}
+);
 width = 600;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 1173;
 }

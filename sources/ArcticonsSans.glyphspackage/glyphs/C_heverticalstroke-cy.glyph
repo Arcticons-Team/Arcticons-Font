@@ -1,10 +1,27 @@
 {
-export = 0;
 glyphname = "Cheverticalstroke-cy";
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(366,180,l),
+(365,630,l)
+);
+}
+);
+width = 730;
 }
 );
 unicode = 1208;

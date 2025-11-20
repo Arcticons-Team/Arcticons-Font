@@ -1,0 +1,14 @@
+{
+glyphname = tonos.case;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = tonos;
+}
+);
+width = 274;
+}
+);
+}

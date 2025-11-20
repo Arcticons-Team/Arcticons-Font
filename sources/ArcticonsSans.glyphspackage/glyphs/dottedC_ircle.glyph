@@ -2,6 +2,16 @@
 glyphname = dottedCircle;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (501,0);
+},
+{
+name = top;
+pos = (501,1140);
+}
+);
 layerId = m002;
 shapes = (
 {
@@ -164,5 +174,7 @@ nodes = (
 width = 1001;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 9676;
 }

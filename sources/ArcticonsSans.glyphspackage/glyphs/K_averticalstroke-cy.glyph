@@ -1,10 +1,27 @@
 {
-export = 0;
 glyphname = "Kaverticalstroke-cy";
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(270,225,l),
+(269,675,l)
+);
+}
+);
+width = 730;
 }
 );
 unicode = 1180;
