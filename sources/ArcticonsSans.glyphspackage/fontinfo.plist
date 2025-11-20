@@ -2066,7 +2066,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Onno van den Dungen";
+value = "Copyright 2025 Arcticons Typeface Authors (https://github.com/Arcticons-Team/Arcticons-Font)";
 }
 );
 },
@@ -2074,7 +2074,7 @@ value = "Onno van den Dungen";
 key = designers;
 values = (
 {
-language = dflt;
+language = ENG;
 value = "Onno van den Dungen";
 }
 );
@@ -2087,14 +2087,27 @@ value = "https://onnno.nl/";
 key = licenses;
 values = (
 {
-language = dflt;
+language = ENG;
 value = "SIL Open Font License, Version 1.1";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://openfontlicense.org/open-font-license-official-text/";
+value = "https://openfontlicense.org/";
+},
+{
+key = manufacturers;
+values = (
+{
+language = ENG;
+value = Arcticons;
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://arcticons.com/";
 },
 {
 key = postscriptFullName;
