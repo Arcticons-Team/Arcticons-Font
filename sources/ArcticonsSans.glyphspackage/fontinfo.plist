@@ -493,12 +493,24 @@ name = typoAscender;
 value = 1450;
 },
 {
+name = hheaAscender;
+value = 1450;
+},
+{
 name = typoDescender;
-value = 425;
+value = -425;
+},
+{
+name = hheaDescender;
+value = -425;
 },
 {
 name = typoLineGap;
-value = 100;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = winAscent;
@@ -507,18 +519,6 @@ value = 1450;
 {
 name = winDescent;
 value = 425;
-},
-{
-name = hheaAscender;
-value = 1450;
-},
-{
-name = hheaDescender;
-value = 425;
-},
-{
-name = hheaLineGap;
-value = 100;
 }
 );
 guides = (
@@ -2082,7 +2082,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 Arcticons Typeface Authors (https://github.com/Arcticons-Team/Arcticons-Font)";
+value = "Copyright 2025 Arcticons Typeface Authors (https://github.com/Arcticons-Team/Arcticons-Font/)";
 }
 );
 },
