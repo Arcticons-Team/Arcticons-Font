@@ -25,7 +25,7 @@ value = 1;
 }
 );
 date = "2024-01-01 19:40:33 +0000";
-familyName = "Arcticons Sans";
+familyName = ArcticonsSans;
 featurePrefixes = (
 {
 automatic = 1;
