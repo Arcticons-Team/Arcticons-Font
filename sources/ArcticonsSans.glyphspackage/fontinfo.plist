@@ -509,19 +509,19 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1200;
+value = 1400;
 },
 {
 name = hheaAscender;
-value = 1200;
+value = 1400;
 },
 {
 name = typoDescender;
-value = -425;
+value = -500;
 },
 {
 name = hheaDescender;
-value = -425;
+value = -500;
 },
 {
 name = typoLineGap;
@@ -533,16 +533,21 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1200;
+value = 1480;
 },
 {
 name = winDescent;
-value = 425;
+value = 580;
 }
 );
 guides = (
 {
 pos = (-100,450);
+},
+{
+lockAngle = 1;
+name = descend;
+pos = (-67,-270);
 }
 );
 iconName = SemiBold;
@@ -560,7 +565,7 @@ pos = 630;
 {
 },
 {
-pos = -270;
+pos = -390;
 }
 );
 name = Regular;
