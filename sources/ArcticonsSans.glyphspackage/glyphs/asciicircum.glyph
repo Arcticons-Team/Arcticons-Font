@@ -13,8 +13,8 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(350,850,l),
-(180,670,l)
+(310,850,l),
+(100,500,l)
 );
 },
 {
@@ -26,13 +26,15 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(520,670,l),
-(350,850,l)
+(520,500,l),
+(310,850,l)
 );
 }
 );
-width = 700;
+width = 620;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 94;
 }
