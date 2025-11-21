@@ -7,7 +7,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (365,0);
+pos = (385,0);
 },
 {
 name = top;
@@ -53,6 +53,7 @@ nodes = (
 width = 730;
 }
 );
+metricLeft = "=50";
 metricRight = "=50";
 unicode = 83;
 }

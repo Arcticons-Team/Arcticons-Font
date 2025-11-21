@@ -1,19 +1,18 @@
 {
-glyphname = Sdotbelow;
+glyphname = Sdotbelow.ss04;
 layers = (
 {
 layerId = m002;
 shapes = (
 {
-ref = S;
-},
-{
 pos = (280,0);
 ref = dotbelowcomb;
+},
+{
+ref = S.ss04;
 }
 );
 width = 730;
 }
 );
-unicode = 7778;
 }

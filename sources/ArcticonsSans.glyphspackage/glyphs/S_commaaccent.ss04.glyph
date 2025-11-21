@@ -1,19 +1,18 @@
 {
-glyphname = Scommaaccent;
+glyphname = Scommaaccent.ss04;
 layers = (
 {
 layerId = m002;
 shapes = (
 {
-ref = S;
-},
-{
 pos = (19,0);
 ref = commaaccentcomb;
+},
+{
+ref = S.ss04;
 }
 );
 width = 730;
 }
 );
-unicode = 536;
 }

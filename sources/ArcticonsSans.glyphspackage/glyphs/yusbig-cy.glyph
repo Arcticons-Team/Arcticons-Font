@@ -1,5 +1,5 @@
 {
-glyphname = "dzeabkhasian-cy";
+glyphname = "yusbig-cy";
 layers = (
 {
 layerId = m002;
@@ -13,18 +13,8 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(100,95,l),
-(136,64,o),
-(176,50,o),
-(265,50,cs),
-(318,50,ls),
-(392,50,o),
-(451,109,o),
-(451,182,cs),
-(451,256,o),
-(392,315,o),
-(318,315,cs),
-(201,315,l)
+(450,315,l),
+(450,52,l)
 );
 },
 {
@@ -36,8 +26,16 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(100,580,l),
-(463,580,l)
+(800,50,l),
+(693,239,ls),
+(667,286,o),
+(617,315,o),
+(563,315,cs),
+(338,315,ls),
+(284,315,o),
+(234,286,o),
+(207,239,cs),
+(100,50,l)
 );
 },
 {
@@ -49,15 +47,29 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(464,580,l),
-(201,315,l)
+(649,580,l),
+(251,580,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(251,580,l),
+(450,315,l),
+(649,580,l)
 );
 }
 );
-width = 564;
+width = 900;
 }
 );
 metricLeft = "=50";
 metricRight = "=50";
-unicode = 1249;
+unicode = 1131;
 }

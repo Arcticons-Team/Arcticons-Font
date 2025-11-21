@@ -1,19 +1,18 @@
 {
-glyphname = Scedilla;
+glyphname = Scedilla.ss04;
 layers = (
 {
 layerId = m002;
 shapes = (
 {
-ref = S;
+ref = S.ss04;
 },
 {
-pos = (156,0);
+pos = (168,0);
 ref = cedillacomb;
 }
 );
 width = 730;
 }
 );
-unicode = 350;
 }
