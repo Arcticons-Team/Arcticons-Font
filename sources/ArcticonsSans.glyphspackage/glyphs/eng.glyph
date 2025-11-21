@@ -1,9 +1,29 @@
 {
-export = 0;
 glyphname = eng;
 layers = (
 {
 layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x10187ea80;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,77,ls),
+(500,-95,o),
+(443,-150,o),
+(299,-112,c)
+);
+},
+{
+ref = n;
+}
+);
 width = 600;
 }
 );

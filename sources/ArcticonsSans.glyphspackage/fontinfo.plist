@@ -732,6 +732,7 @@ z = -20;
 "@MMK_R_lowercaseStraight" = -30;
 "@MMK_R_lowercaseStraightAscender" = -10;
 "@MMK_R_u" = -40;
+Ezh = -30;
 Y = -160;
 l = -30;
 parenright = -50;
@@ -1093,6 +1094,9 @@ Epsilontonos = {
 };
 Etatonos = {
 Iotatonos = 200;
+};
+Ezh = {
+ezh = -50;
 };
 F = {
 "@MMK_R_dash" = -100;
@@ -1553,6 +1557,9 @@ eta = {
 };
 exclam = {
 question = -30;
+};
+ezh = {
+"@MMK_R_lowercaseRound" = -60;
 };
 f = {
 "@MMK_R_lowercaseStraightAscender" = -10;

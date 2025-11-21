@@ -1,10 +1,14 @@
 {
-export = 0;
 glyphname = Ezh;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = "Dzeabkhasian-cy";
+}
+);
+width = 680;
 }
 );
 unicode = 439;
