@@ -1,5 +1,7 @@
 {
 glyphname = Sacute.ss04;
+kernLeft = S;
+kernRight = S;
 layers = (
 {
 layerId = m002;
