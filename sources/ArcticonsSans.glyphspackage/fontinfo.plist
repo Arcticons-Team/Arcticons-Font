@@ -663,6 +663,7 @@ w = -140;
 "@MMK_R_uppercaseRound" = -10;
 "@MMK_R_uppercaseStraight" = 0;
 T = -50;
+imacron = 90;
 j = -200;
 s = -30;
 };
@@ -784,6 +785,7 @@ Ezh = -30;
 Y = -160;
 l = -30;
 parenright = -50;
+scaron = -70;
 u = -50;
 z = -20;
 };
@@ -886,6 +888,7 @@ period = -40;
 s = -20;
 slash = -40;
 threesuperior = -50;
+tmacronbelow = -60;
 };
 "@MMK_L_lowercaseStraight" = {
 "@MMK_R_A" = -10;
@@ -1167,6 +1170,7 @@ Delta = -250;
 gamma = -70;
 };
 "Ge-cy" = {
+"@MMK_R_lowercaseRound" = -140;
 "@MMK_R_lowercaseStraight" = -50;
 "De-cy" = -150;
 };
@@ -1210,6 +1214,7 @@ w = -110;
 };
 "Ka-cy" = {
 "@MMK_R_lowercaseRound" = -60;
+"hardsign-cy" = -60;
 };
 "Kadescender-cy" = {
 "@MMK_R_lowercaseRound" = -60;
@@ -1730,6 +1735,9 @@ igrave = {
 "iishort-cy" = {
 "te-cy" = -10;
 };
+imacron = {
+"@MMK_R_lowercaseStraightAscender" = 120;
+};
 "io-cy" = {
 "@MMK_R_lowercaseX" = -40;
 };
@@ -1755,6 +1763,9 @@ iotatonos = {
 "@MMK_R_quote" = -20;
 delta = -20;
 };
+itilde = {
+"@MMK_R_lowercaseStraightAscender" = 140;
+};
 j = {
 "@MMK_R_lowercaseRound" = -30;
 n = 10;
@@ -1770,6 +1781,7 @@ comma = -30;
 i = -60;
 j = -210;
 l = -40;
+lcommaaccent = -20;
 o = -80;
 oslash = -30;
 s = -60;
