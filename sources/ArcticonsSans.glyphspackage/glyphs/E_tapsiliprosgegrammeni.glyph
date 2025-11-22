@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = Etapsiliprosgegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Eta;
+},
+{
+pos = (710,0);
+ref = psili.case;
+},
+{
+pos = (1010,0);
+ref = prosgegrammeni;
+}
+);
+width = 1610;
+}
+);
+unicode = 8088;
+}

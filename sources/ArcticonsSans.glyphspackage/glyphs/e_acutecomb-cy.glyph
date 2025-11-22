@@ -1,0 +1,18 @@
+{
+glyphname = "e_acutecomb-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = "e-cy";
+},
+{
+pos = (187,0);
+ref = acutecomb;
+}
+);
+width = 574;
+}
+);
+}

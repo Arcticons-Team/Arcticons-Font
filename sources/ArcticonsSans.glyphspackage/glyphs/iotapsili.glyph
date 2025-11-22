@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = iotapsili;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (400,0);
+ref = psili;
+}
+);
+width = 700;
+}
+);
+unicode = 7984;
+}

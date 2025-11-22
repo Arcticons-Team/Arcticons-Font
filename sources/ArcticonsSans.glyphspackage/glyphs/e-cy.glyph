@@ -3,6 +3,12 @@ glyphname = "e-cy";
 kernLeft = lowercaseRound;
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (287,630);
+}
+);
 layerId = m002;
 shapes = (
 {
@@ -47,5 +53,7 @@ nodes = (
 width = 574;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 1108;
 }

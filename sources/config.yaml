@@ -10,7 +10,7 @@ sources:
   - ArcticonsSans.glyphspackage
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
-familyName: "Arcticons Sans"
+# familyName: "ArcticonsSans"
 
 # Next you can supply alternative paths for where you want the
 # binaries to live. But we'd recommend you stick to the defaults
@@ -29,7 +29,7 @@ woffDir: $outputDir/webfonts
 buildStatic: true
 buildTTF: true
 buildOTF: true
-# buildSmallCap: false
+buildSmallCap: false
 
 # The next flags control autohinting.
 autohintTTF: true
@@ -43,14 +43,13 @@ includeSourceFixes: true
 
 # These options give fine-grained control over how fontmake builds
 # the fonts.
-# flattenComponents: true
-decomposeTransformedComponents: false
+flattenComponents: true
+decomposeTransformedComponents: true
 # checkCompatibility: true
 # overlaps: booleanOperations
 # expandFeaturesToInstances: false
 # reverseOutlineDirection: true
-removeOutlineOverlaps: false
-# extraFontmakeArgs: ""
+removeOutlineOverlaps: true
 # extraVariableFontmakeArgs: ""
 # extraStaticFontmakeArgs: ""
 # glyphData: GlyphData.xml

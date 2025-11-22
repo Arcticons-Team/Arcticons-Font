@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Etapsilivaria;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Eta;
+},
+{
+pos = (710,0);
+ref = psilivaria.case;
+}
+);
+width = 1010;
+}
+);
+unicode = 7978;
+}

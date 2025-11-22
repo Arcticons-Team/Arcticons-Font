@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Upsilondasiaperispomeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Upsilon;
+},
+{
+pos = (730,0);
+ref = dasiaperispomeni.case;
+}
+);
+width = 1030;
+}
+);
+unicode = 8031;
+}

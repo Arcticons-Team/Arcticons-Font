@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = etadasiaypogegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (600,0);
+ref = dasia;
+},
+{
+pos = (900,0);
+ref = ypogegrammeni;
+}
+);
+width = 1500;
+}
+);
+unicode = 8081;
+}

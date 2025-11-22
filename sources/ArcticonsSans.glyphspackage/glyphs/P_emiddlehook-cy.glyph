@@ -3,9 +3,77 @@ export = 0;
 glyphname = "Pemiddlehook-cy";
 layers = (
 {
-layerId = m002;
-width = 600;
+anchors = (
+{
+name = bottomright;
+pos = (1220,0);
+},
+{
+name = top;
+pos = (880,900);
 }
 );
+layerId = m002;
+shapes = (
+{
+attr = {
+identifier = ID0x1383ed900;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(620,50,l),
+(620,850,l)
+);
+},
+{
+attr = {
+identifier = ID0x1383ed900;
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(620,850,l)
+);
+},
+{
+attr = {
+identifier = ID0x15e8042f0;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(620,320,l),
+(620,463,o),
+(736,580,o),
+(880,580,cs),
+(1022,580,o),
+(1140,463,o),
+(1140,320,cs),
+(1140,242,ls),
+(1140,105,o),
+(1093,-32,o),
+(909,-108,c)
+);
+},
+{
+alignment = -1;
+ref = "Ge-cy";
+}
+);
+width = 1240;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 1190;
 }

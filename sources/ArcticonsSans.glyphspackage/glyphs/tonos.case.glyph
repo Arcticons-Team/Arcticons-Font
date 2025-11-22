@@ -1,14 +1,14 @@
 {
-glyphname = Lslash.001;
+glyphname = tonos.case;
 layers = (
 {
 layerId = m002;
 shapes = (
 {
-ref = Lslash;
+ref = tonos;
 }
 );
-width = 700;
+width = 274;
 }
 );
 }

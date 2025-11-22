@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Alphapsiliperispomeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Alpha;
+},
+{
+pos = (730,0);
+ref = psiliperispomeni.case;
+}
+);
+width = 1030;
+}
+);
+unicode = 7950;
+}

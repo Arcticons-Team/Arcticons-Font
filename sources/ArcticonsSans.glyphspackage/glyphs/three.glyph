@@ -1,5 +1,7 @@
 {
 glyphname = three;
+kernLeft = three;
+kernRight = three;
 layers = (
 {
 layerId = m002;
@@ -57,7 +59,7 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(227,450,l),
+(277,450,l),
 (381,450,l)
 );
 }

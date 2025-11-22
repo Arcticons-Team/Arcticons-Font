@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Alphaprosgegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Alpha;
+},
+{
+pos = (730,0);
+ref = prosgegrammeni;
+}
+);
+width = 1330;
+}
+);
+unicode = 8124;
+}

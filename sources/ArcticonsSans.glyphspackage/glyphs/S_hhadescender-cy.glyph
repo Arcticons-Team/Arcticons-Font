@@ -1,11 +1,43 @@
 {
-export = 0;
 glyphname = "Shhadescender-cy";
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = "Shha-cy";
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(730,50,l),
+(730,-67,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(630,50,l),
+(730,50,l)
+);
 }
 );
+width = 830;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 1318;
 }

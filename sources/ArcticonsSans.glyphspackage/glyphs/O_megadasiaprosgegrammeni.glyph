@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = Omegadasiaprosgegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Omega;
+},
+{
+pos = (1000,0);
+ref = dasia.case;
+},
+{
+pos = (1300,0);
+ref = prosgegrammeni;
+}
+);
+width = 1900;
+}
+);
+unicode = 8105;
+}

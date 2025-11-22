@@ -8,11 +8,11 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (60,270);
+pos = (110,270);
 ref = dieresiscomb;
 }
 );
-width = 680;
+width = 730;
 }
 );
 unicode = 1246;

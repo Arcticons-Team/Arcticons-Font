@@ -1,0 +1,75 @@
+{
+glyphname = "Yusbig-cy";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(500,451,l),
+(500,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(900,50,l),
+(739,335,ls),
+(699,406,o),
+(624,450,o),
+(542,450,cs),
+(459,450,ls),
+(377,450,o),
+(302,406,o),
+(262,335,cs),
+(100,50,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(800,850,l),
+(200,850,l)
+);
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(200,850,l),
+(500,451,l),
+(800,850,l)
+);
+}
+);
+width = 1000;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
+unicode = 1130;
+}

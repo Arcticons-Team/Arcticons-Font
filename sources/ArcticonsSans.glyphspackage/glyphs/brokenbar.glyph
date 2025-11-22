@@ -15,7 +15,7 @@ strokeWidth = 100;
 };
 closed = 0;
 nodes = (
-(101,560,l),
+(100,560,l),
 (100,1015,l)
 );
 },
@@ -36,5 +36,7 @@ nodes = (
 width = 200;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 166;
 }

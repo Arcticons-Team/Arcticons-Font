@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = Etapsilioxiaprosgegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Eta;
+},
+{
+pos = (710,0);
+ref = psilioxia.case;
+},
+{
+pos = (1010,0);
+ref = prosgegrammeni;
+}
+);
+width = 1610;
+}
+);
+unicode = 8092;
+}

@@ -10,8 +10,13 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE AEmacron B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Dmacronbelow Eth E Eacute Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcaron Kcommaaccent Kmacronbelow L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lmacronbelow Lslash M Mdotaccent Mdotbelow N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Nmacronbelow Ntilde O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelowmacron Rmacronbelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Zmacronbelow Saltillo Lslash.001 Lcommaaccent.loclMAH Ncommaaccent.loclMAH Ldot_comma A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gestroke-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Yat-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Endescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Chedescender-cy Shha-cy Palochka-cy Zhebreve-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE AEmacron B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotbelow Dmacronbelow Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa Ezh Ezhcaron F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcaron Kcommaaccent Kmacronbelow L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lmacronbelow Lslash M Mdotaccent Mdotbelow N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Nmacronbelow Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelowmacron Rmacronbelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Zmacronbelow Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH S.ss04 Sacute.ss04 Scaron.ss04 Scedilla.ss04 Scircumflex.ss04 Scommaaccent.ss04 Sdotbelow.ss04 Ldot_comma A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gedescender-cy Gestroke-cy Gemiddlehook-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kabashkir-cy Endescender-cy EnGe-cy Pedescender-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Palochka-cy Zhebreve-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Reversedze-cy We-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol";
 name = Uppercase;
+},
+{
+code = "";
+disabled = 1;
+name = ANY_DASH;
 }
 );
 customParameters = (
@@ -67,6 +72,8 @@ feature fwid;
 feature ss01;
 feature ss02;
 feature ss03;
+feature ss04;
+feature calt;
 feature ordn;
 ";
 tag = aalt;
@@ -91,6 +98,20 @@ lookup ccmp_DFLT_2 {
 	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
 	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
 } ccmp_DFLT_2;
+
+lookup ccmp_Other_1 {
+	lookupflag 0;
+	@Markscomb = [tonos];
+	@MarkscombCase = [tonos.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	lookupflag 0;
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
 
 lookup ccmp_latn_1 {
 	lookupflag 0;
@@ -201,6 +222,7 @@ lookup locl_cyrl_2 {
 script cyrl;
 language SRB;
 lookup locl_cyrl_3 {
+	sub be-cy by be-cy.loclSRBMKD;
 	sub ge-cy by ge-cy.loclSRBMKD;
 	sub de-cy by de-cy.loclSRBMKD;
 	sub pe-cy by pe-cy.loclSRBMKD;
@@ -303,6 +325,7 @@ sub lessequal by lessequal.case;
 sub plusminus by plusminus.case;
 sub approxequal by approxequal.case;
 sub asciitilde by asciitilde.case;
+sub asciicircum by asciicircum.case;
 sub northEastArrow by northEastArrow.case;
 sub rightArrow by rightArrow.case;
 sub southEastArrow by southEastArrow.case;
@@ -319,6 +342,7 @@ sub leftRightLongArrow by leftRightLongArrow.case;
 sub leftLongDoubleArrow by leftLongDoubleArrow.case;
 sub rightLongDoubleArrow by rightLongDoubleArrow.case;
 sub leftRightLongDoubleArrow by leftRightLongDoubleArrow.case;
+sub tonos by tonos.case;
 sub leftLongArrow2 by leftLongArrow2.case;
 sub rightLongArrow2 by rightLongArrow2.case;
 ";
@@ -450,12 +474,56 @@ value = "Alternate y";
 tag = ss03;
 },
 {
+automatic = 1;
+code = "sub S by S.ss04;
+sub Sacute by Sacute.ss04;
+sub Scaron by Scaron.ss04;
+sub Scedilla by Scedilla.ss04;
+sub Scircumflex by Scircumflex.ss04;
+sub Scommaaccent by Scommaaccent.ss04;
+sub Sdotbelow by Sdotbelow.ss04;
+";
+labels = (
+{
+language = dflt;
+value = "Alternate S";
+}
+);
+tag = ss04;
+},
+{
 code = "";
 disabled = 1;
 tag = smcp;
 },
 {
-code = "";
+code = "@DASH = [
+  hyphen
+  endash
+  emdash
+];
+@DASH_CASE = [
+  hyphen.case
+  endash.case
+  emdash.case
+];
+@DASH_ANY = [ @DASH @DASH_CASE ];
+
+# BEGIN smiley
+# :-)
+sub colon' [ @DASH_ANY minus minus.case bullet ] [parenright parenright.case] by colon.case;
+sub [colon colon.case] hyphen' [parenright parenright.case] by hyphen.case;
+sub [colon colon.case] endash' [parenright parenright.case] by endash.case;
+sub [colon colon.case] emdash' [parenright parenright.case] by emdash.case;
+sub [colon colon.case] bullet' [parenright parenright.case] by bullet.case;
+sub [colon colon.case] [ @DASH_ANY minus minus.case bullet ] parenright' by parenright.case;
+
+# :^)
+sub colon' [asciicircum asciitilde.case] [parenright parenright.case] by colon.case;
+sub [colon colon.case] asciicircum [parenright parenright.case] by asciicircum.case;
+sub [colon colon.case] [asciicircum asciitilde.case] parenright' by parenright.case;
+
+# END smiley";
 tag = calt;
 },
 {
@@ -471,9 +539,48 @@ fontMaster = (
 axesValues = (
 400
 );
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = hheaAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -500;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1480;
+},
+{
+name = winDescent;
+value = 580;
+}
+);
 guides = (
 {
 pos = (-100,450);
+},
+{
+lockAngle = 1;
+name = descend;
+pos = (-67,-270);
 }
 );
 iconName = SemiBold;
@@ -491,7 +598,7 @@ pos = 630;
 {
 },
 {
-pos = -270;
+pos = -390;
 }
 );
 name = Regular;
@@ -521,12 +628,6 @@ name = Regular;
 );
 kerningLTR = {
 m002 = {
-"@MMK_L_0" = {
-"@MMK_R_lowercaseRound" = -70;
-i = -20;
-t = -10;
-y = -20;
-};
 "@MMK_L_A" = {
 "@MMK_R_A" = 0;
 "@MMK_R_S" = -40;
@@ -535,6 +636,9 @@ y = -20;
 "@MMK_R_lowerT" = -120;
 "@MMK_R_lowercaseRound" = -50;
 "@MMK_R_lowercaseStraight" = -10;
+"@MMK_R_uppercaseDiagonal" = -150;
+"@MMK_R_uppercaseStraight" = -10;
+"@MMK_R_y" = -60;
 T = -190;
 U = -50;
 W = -140;
@@ -547,45 +651,62 @@ l = -40;
 lambda = -60;
 parenright = -70;
 s = -40;
+"te-cy" = -110;
 u = -40;
 v = -120;
 w = -140;
 };
 "@MMK_L_S" = {
 "@MMK_R_f" = -70;
+"@MMK_R_lowercaseRound" = -30;
 "@MMK_R_lowercaseX" = -70;
+"@MMK_R_uppercaseRound" = -10;
 "@MMK_R_uppercaseStraight" = 0;
 T = -50;
+imacron = 90;
 j = -200;
+s = -30;
 };
 "@MMK_L_T" = {
-"@MMK_R_lowercaseRound" = -50;
+"@MMK_R_i" = -20;
+"@MMK_R_lowercaseRound" = -150;
+"@MMK_R_lowercaseRoundMarks" = -80;
 "@MMK_R_lowercaseStraight" = -150;
 "@MMK_R_lowercaseStraightDecender" = -150;
 "@MMK_R_lowercaseX" = -150;
-"@MMK_R_u" = -150;
+"@MMK_R_u" = -110;
+idieresis = 100;
+igrave = 30;
+imacron = 110;
+rcaron = -40;
 y = -150;
 z = -150;
 };
 "@MMK_L_colon" = {
 "@MMK_R_uppercaseRound" = -20;
+asciicircum = 0;
+asciicircum.case = -30;
 eight = -10;
 four = -30;
 seven = -60;
 };
-"@MMK_L_ç" = {
-"tsadiFinal-hb" = -60;
-};
 "@MMK_L_dash" = {
+"@MMK_R_parenthesis" = -50;
 U = -60;
 V = -160;
 W = -110;
 Y = -160;
 bracketright = -50;
 };
+"@MMK_L_dcaron" = {
+"@MMK_R_lowercaseRound" = 50;
+"@MMK_R_u" = 50;
+};
 "@MMK_L_dot" = {
 "@MMK_R_dot" = -30;
+"@MMK_R_lowerT" = -30;
 "@MMK_R_lowercaseRound" = -60;
+"@MMK_R_lowercaseX" = -20;
 "@MMK_R_parenthesis" = -30;
 "@MMK_R_uppercaseRound" = -50;
 W = -50;
@@ -610,7 +731,9 @@ w = -50;
 J = -130;
 T = -10;
 four = -170;
-j = -200;
+hbar = -30;
+i = -50;
+j = -260;
 question = -30;
 s = -140;
 u = -110;
@@ -635,14 +758,22 @@ z = -130;
 "@MMK_R_A" = -40;
 "@MMK_R_i" = 40;
 "@MMK_R_lowercaseRound" = -20;
-"@MMK_R_lowercaseStraight" = -10;
+"@MMK_R_lowercaseStraight" = 10;
+"@MMK_R_lowercaseStraightAscender" = 10;
 "@MMK_R_uppercaseDiagonal" = -10;
 T = -20;
 bracketright = -10;
 f = -30;
+j = -70;
 jdotless = -70;
+space = -10;
 v = -50;
 z = -20;
+};
+"@MMK_L_lowerCaron" = {
+"@MMK_R_lowercaseRound" = 50;
+"@MMK_R_lowercaseStraightAscender" = 50;
+"@MMK_R_u" = 50;
 };
 "@MMK_L_lowerT" = {
 "@MMK_R_lowerT" = -60;
@@ -650,9 +781,11 @@ z = -20;
 "@MMK_R_lowercaseStraight" = -30;
 "@MMK_R_lowercaseStraightAscender" = -10;
 "@MMK_R_u" = -40;
+Ezh = -30;
 Y = -160;
 l = -30;
 parenright = -50;
+scaron = -70;
 u = -50;
 z = -20;
 };
@@ -669,12 +802,10 @@ j = -60;
 "@MMK_R_f" = 80;
 "@MMK_R_i" = -20;
 "@MMK_R_lowerT" = -40;
-"@MMK_R_lowercaseAscender" = -10;
 "@MMK_R_lowercaseRound" = -80;
 "@MMK_R_lowercaseStraight" = -30;
 "@MMK_R_lowercaseStraightAscender" = -10;
 "@MMK_R_lowercaseStraightDecender" = -30;
-"@MMK_R_lowercaseU" = 70;
 "@MMK_R_lowercaseX" = -10;
 "@MMK_R_u" = -30;
 "@MMK_R_uppercaseDiagonal" = -40;
@@ -695,12 +826,14 @@ z = -10;
 "@MMK_R_X" = -70;
 "@MMK_R_dot" = -70;
 "@MMK_R_f" = -60;
+"@MMK_R_i" = -20;
 "@MMK_R_lowerT" = -60;
 "@MMK_R_lowercaseRound" = -30;
 "@MMK_R_lowercaseStraight" = 0;
 "@MMK_R_lowercaseStraightAscender" = -10;
 "@MMK_R_lowercaseX" = -60;
 "@MMK_R_quote" = -20;
+"@MMK_R_uppercaseDiagonal" = -60;
 "Ha-cy" = -80;
 Iogonek = -110;
 Sigma = -40;
@@ -713,9 +846,9 @@ delta = -30;
 epsilon = -20;
 "er-cy" = -10;
 exclam = -50;
-i = -30;
 j = -220;
 lambda = -120;
+lslash = 90;
 nu = -50;
 parenright = -90;
 pi = -60;
@@ -731,7 +864,7 @@ tau = -110;
 "te-cy" = -70;
 u = -10;
 "u-cy" = -20;
-v = -50;
+v = -70;
 w = -50;
 x = -60;
 z = -70;
@@ -740,7 +873,7 @@ z = -70;
 "@MMK_L_lowercaseRounding" = {
 "@MMK_R_colon" = -10;
 "@MMK_R_dash" = -20;
-"@MMK_R_i" = 0;
+"@MMK_R_i" = -10;
 "@MMK_R_lowerT" = -60;
 "@MMK_R_lowercaseRound" = -5;
 "@MMK_R_lowercaseX" = -10;
@@ -754,16 +887,17 @@ parenright = -40;
 period = -40;
 s = -20;
 slash = -40;
+threesuperior = -50;
+tmacronbelow = -60;
 };
 "@MMK_L_lowercaseStraight" = {
 "@MMK_R_A" = -10;
 "@MMK_R_T" = -130;
 "@MMK_R_dot" = -30;
-"@MMK_R_lowercaseAscender" = 10;
 "@MMK_R_lowercaseRound" = -10;
 "@MMK_R_lowercaseStraight" = 10;
 "@MMK_R_lowercaseStraightAscender" = 10;
-"@MMK_R_lowercaseU" = 0;
+"@MMK_R_lowercaseX" = -20;
 "@MMK_R_quote" = 20;
 Iogonek = -60;
 Y = -120;
@@ -800,27 +934,27 @@ Y = -130;
 bracketright = -20;
 ecircumflexgrave = -20;
 j = 20;
+lslash = 90;
 one = -20;
 question = -30;
 slash = -10;
 };
 "@MMK_L_lowercaseX" = {
+"@MMK_R_A" = -120;
 "@MMK_R_T" = -150;
 "@MMK_R_lowerT" = -20;
-"@MMK_R_lowercaseAscender" = -10;
 "@MMK_R_lowercaseRound" = -60;
+"@MMK_R_lslash" = 50;
 "@MMK_R_quote" = -20;
 Iogonek = -40;
 Y = -140;
 "Ze-cy" = -40;
+at = -50;
 bracketright = -70;
 hyphen = -80;
 j = -120;
+lslash = 50;
 "ustraight-cy" = -20;
-};
-"@MMK_L_lowercaseX0" = {
-"@MMK_R_lowercaseX" = -10;
-j = -120;
 };
 "@MMK_L_parenthesis" = {
 "@MMK_R_A" = -50;
@@ -864,17 +998,24 @@ s = -110;
 "@MMK_L_straightLine" = {
 "@MMK_R_uppdercaseStraight" = 0;
 };
+"@MMK_L_three" = {
+"@MMK_R_three" = -20;
+};
 "@MMK_L_uppdercaseStraight" = {
 "@MMK_R_uppdercaseStraight" = 20;
 S = 0;
 epsilon = 10;
 };
 "@MMK_L_uppercaseDiagonal" = {
+"@MMK_R_A" = -150;
 "@MMK_R_f" = -110;
+"@MMK_R_lowercaseRound" = -60;
+"@MMK_R_lowercaseRoundMarks" = -90;
 "@MMK_R_lowercaseStraightDecender" = -140;
 Iogonek = -120;
 at.case = -120;
 j = -180;
+y = -60;
 };
 "@MMK_L_uppercaseHorn" = {
 "@MMK_R_T" = -20;
@@ -889,6 +1030,7 @@ j = -180;
 Iogonek = -100;
 T = -70;
 V = -40;
+backslash = -40;
 bracketright = -70;
 degree = -40;
 four = -10;
@@ -919,7 +1061,6 @@ N = -30;
 P = -20;
 R = -10;
 S = -60;
-V = -140;
 Y = -150;
 };
 "A-cy" = {
@@ -976,7 +1117,7 @@ v = -90;
 };
 "Ef-cy" = {
 "@MMK_R_lowercaseRound" = -40;
-"Ha-cy" = -40;
+"Ha-cy" = -80;
 };
 Egrave = {
 v = -60;
@@ -1007,6 +1148,9 @@ Epsilontonos = {
 Etatonos = {
 Iotatonos = 200;
 };
+Ezh = {
+ezh = -50;
+};
 F = {
 "@MMK_R_dash" = -100;
 "@MMK_R_f" = -110;
@@ -1026,8 +1170,9 @@ Delta = -250;
 gamma = -70;
 };
 "Ge-cy" = {
+"@MMK_R_lowercaseRound" = -140;
 "@MMK_R_lowercaseStraight" = -50;
-"De-cy" = -120;
+"De-cy" = -150;
 };
 "Gestroke-cy" = {
 "@MMK_R_lowercaseStraight" = -110;
@@ -1069,6 +1214,7 @@ w = -110;
 };
 "Ka-cy" = {
 "@MMK_R_lowercaseRound" = -60;
+"hardsign-cy" = -60;
 };
 "Kadescender-cy" = {
 "@MMK_R_lowercaseRound" = -60;
@@ -1126,6 +1272,7 @@ P = {
 A = -140;
 bracketright = -60;
 exclam = -50;
+four = -80;
 j = -200;
 };
 Phi = {
@@ -1176,11 +1323,8 @@ T = {
 "@MMK_R_S" = -50;
 "@MMK_R_dash" = -160;
 "@MMK_R_f" = -130;
-"@MMK_R_i" = -20;
 "@MMK_R_lowerT" = -90;
-"@MMK_R_lowercaseRound" = -130;
 "@MMK_R_lowercaseStraightAscender" = -20;
-"@MMK_R_o" = 0;
 "@MMK_R_uppercaseRound" = -80;
 A = -150;
 T = -20;
@@ -1211,6 +1355,7 @@ Theta = {
 Iota = 10;
 };
 "Tse-cy" = {
+"Che-cy" = -40;
 "Sha-cy" = 0;
 "u-cy" = -60;
 };
@@ -1219,7 +1364,7 @@ U = {
 "@MMK_R_f" = -40;
 };
 "U-cy" = {
-"Ef-cy" = -50;
+"Ef-cy" = -100;
 "u-cy" = -60;
 };
 Upsilon = {
@@ -1237,10 +1382,8 @@ Upsilontonos = {
 V = {
 "@MMK_R_dash" = -160;
 "@MMK_R_dot" = -130;
-"@MMK_R_lowercaseRound" = -160;
 "@MMK_R_lowercaseStraight" = -100;
 "@MMK_R_uppercaseRound" = -70;
-A = -150;
 bracketright = -20;
 epsilon = -150;
 i = -40;
@@ -1250,7 +1393,6 @@ W = {
 "@MMK_R_dash" = -110;
 "@MMK_R_dot" = -50;
 "@MMK_R_lowerT" = -80;
-"@MMK_R_lowercaseRound" = -110;
 "@MMK_R_lowercaseStraight" = -70;
 "@MMK_R_lowercaseStraightAscender" = -10;
 i = -40;
@@ -1338,6 +1480,12 @@ sigmafinal = -30;
 tau = -100;
 xi = -50;
 };
+asciicircum = {
+"@MMK_R_parenthesis" = -20;
+};
+asciicircum.case = {
+"@MMK_R_parenthesis" = -50;
+};
 asciitilde = {
 asciitilde = 0;
 slash = -30;
@@ -1348,6 +1496,9 @@ at.case = {
 };
 "ayin-hb" = {
 "yod-hb" = 0;
+};
+backslash = {
+"@MMK_R_uppercaseRound" = -120;
 };
 "be-cy" = {
 "@MMK_R_lowercaseRound" = -30;
@@ -1385,6 +1536,9 @@ psi = -50;
 colon = {
 parenright = -50;
 };
+colon.case = {
+asciicircum.case = -30;
+};
 d = {
 e = -20;
 o = -10;
@@ -1406,7 +1560,7 @@ dcroat = {
 "pe-cy.loclSRB" = -10;
 };
 degree = {
-"@MMK_R_uppercaseRound" = -40;
+"@MMK_R_uppercaseRound" = -50;
 eight = -30;
 one = -10;
 two = -50;
@@ -1458,21 +1612,28 @@ phi = -30;
 "@MMK_R_dot" = -50;
 "@MMK_R_lowercaseRound" = -20;
 "Te-cy" = -80;
+"el-cy" = -30;
+"hardsign-cy" = -40;
 "te-cy" = -40;
 "u-cy" = -20;
 };
 eta = {
 "@MMK_R_lowercaseRound" = -10;
 };
+eth = {
+s = -40;
+};
 exclam = {
 question = -30;
+};
+ezh = {
+"@MMK_R_lowercaseRound" = -60;
 };
 f = {
 "@MMK_R_lowercaseStraightAscender" = -10;
 "@MMK_R_uppercaseRound" = -60;
 a = -200;
 f = -130;
-i = -50;
 k = -20;
 l = -10;
 t = -130;
@@ -1500,8 +1661,8 @@ fl = {
 "@MMK_R_lowercaseRound" = -70;
 };
 four = {
+"@MMK_R_T" = -70;
 "@MMK_R_colon" = -40;
-T = -30;
 bracketright = -80;
 five = -40;
 j = -200;
@@ -1541,7 +1702,6 @@ three = -70;
 i = {
 e = -40;
 g = -30;
-j = -70;
 l = 0;
 p = 0;
 period = -60;
@@ -1558,18 +1718,25 @@ x = -20;
 "yi-cy" = 110;
 };
 iacute = {
-"@MMK_R_lowercaseStraightAscender" = 100;
+"@MMK_R_lowercaseStraightAscender" = 50;
 "@MMK_R_quote" = 80;
 itilde = 164;
 };
 icircumflex = {
+"@MMK_R_lowercaseStraightAscender" = 60;
 "@MMK_R_quote" = 50;
+};
+idieresis = {
+"@MMK_R_lowercaseStraightAscender" = 140;
 };
 igrave = {
 "@MMK_R_quote" = 0;
 };
 "iishort-cy" = {
 "te-cy" = -10;
+};
+imacron = {
+"@MMK_R_lowercaseStraightAscender" = 120;
 };
 "io-cy" = {
 "@MMK_R_lowercaseX" = -40;
@@ -1596,22 +1763,25 @@ iotatonos = {
 "@MMK_R_quote" = -20;
 delta = -20;
 };
+itilde = {
+"@MMK_R_lowercaseStraightAscender" = 140;
+};
 j = {
 "@MMK_R_lowercaseRound" = -30;
 n = 10;
 };
 k = {
-"@MMK_R_T_lower" = -80;
 "@MMK_R_dot" = -40;
 "@MMK_R_lowercaseRound" = -80;
 "@MMK_R_lowercaseStraight" = -20;
-"@MMK_R_lowercaseStraightAscender" = 10;
+"@MMK_R_lowercaseStraightAscender" = -20;
 T = -240;
 Y = -140;
 comma = -30;
 i = -60;
 j = -210;
 l = -40;
+lcommaaccent = -20;
 o = -80;
 oslash = -30;
 s = -60;
@@ -1634,7 +1804,6 @@ kappa = {
 lambda = -40;
 };
 l = {
-"@MMK_R_lowercaseAscender" = -40;
 "@MMK_R_lowercaseRound" = -70;
 "@MMK_R_lowercaseStraight" = -20;
 "@MMK_R_lowercaseStraightAscender" = -50;
@@ -1646,6 +1815,7 @@ endash = -40;
 f = -130;
 hyphen = -70;
 i = -40;
+idieresis = 30;
 j = -220;
 s = -40;
 t = -100;
@@ -1668,15 +1838,17 @@ theta = -80;
 less = {
 "@MMK_R_lowercaseRound" = -60;
 };
+lslash = {
+"@MMK_R_lowercaseStraight" = -10;
+"@MMK_R_lowercaseX" = -40;
+"@MMK_R_y" = -30;
+};
 m = {
 "@MMK_R_lowercaseRound" = -10;
 };
 "mem-hb" = {
 "nunFinal-hb" = -10;
 "tav-hb" = -10;
-};
-n = {
-i = -30;
 };
 nine = {
 five = 10;
@@ -1761,6 +1933,7 @@ s = -30;
 };
 r = {
 "@MMK_R_dot" = -120;
+"@MMK_R_f" = -30;
 "@MMK_R_lowerT" = -20;
 "@MMK_R_lowercaseRound" = -50;
 "@MMK_R_lowercaseStraight" = -20;
@@ -1789,6 +1962,7 @@ s = {
 "@MMK_R_lowercaseStraight" = -20;
 "@MMK_R_lowercaseStraightAscender" = -10;
 "@MMK_R_lowercaseStraightDecender" = -30;
+"@MMK_R_lowercaseX" = -50;
 "@MMK_R_parenthesis" = -30;
 T = -240;
 Y = -170;
@@ -1804,6 +1978,7 @@ v = -20;
 "de-cy" = -70;
 };
 seven = {
+"@MMK_R_A" = -150;
 "@MMK_R_colon" = -60;
 "@MMK_R_dot" = -61;
 "@MMK_R_lowerT" = -30;
@@ -1822,6 +1997,7 @@ eightsuperior = -10;
 };
 "shcha-cy" = {
 "@MMK_R_lowercaseStraight" = -30;
+"io-cy" = -60;
 };
 sigma = {
 "@MMK_R_dot" = -130;
@@ -1859,6 +2035,7 @@ v = -80;
 "hardsign-cy" = -50;
 };
 space = {
+"@MMK_R_uppercaseStraight" = 0;
 "Be-cy" = -10;
 L = 0;
 };
@@ -1907,7 +2084,6 @@ four = -10;
 j = -200;
 nine = -20;
 seven = -40;
-three = -20;
 };
 three.ss01 = {
 three = -20;
@@ -1972,6 +2148,9 @@ slash = -100;
 "mem-hb" = 10;
 "samekh-hb" = 10;
 "tav-hb" = 0;
+};
+"ve-cy" = {
+"@MMK_R_lowercaseRound" = -20;
 };
 w = {
 "@MMK_R_dot" = -50;
@@ -2053,7 +2232,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Onno van den Dungen";
+value = "Copyright 2025 The Arcticons Typeface Authors (https://github.com/Arcticons-Team/Arcticons-Font/)";
 }
 );
 },
@@ -2061,7 +2240,7 @@ value = "Onno van den Dungen";
 key = designers;
 values = (
 {
-language = dflt;
+language = ENG;
 value = "Onno van den Dungen";
 }
 );
@@ -2074,14 +2253,31 @@ value = "https://onnno.nl/";
 key = licenses;
 values = (
 {
-language = dflt;
+language = ENG;
 value = "SIL Open Font License, Version 1.1";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://openfontlicense.org/open-font-license-official-text/";
+value = "https://openfontlicense.org/";
+},
+{
+key = manufacturers;
+values = (
+{
+language = ENG;
+value = Arcticons;
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://arcticons.com/";
+},
+{
+key = postscriptFontName;
+value = "Arcticons Sans";
 },
 {
 key = postscriptFullName;
@@ -2096,6 +2292,6 @@ HV = "0";
 };
 };
 };
-versionMajor = 0;
-versionMinor = 610;
+versionMajor = 1;
+versionMinor = 0;
 }

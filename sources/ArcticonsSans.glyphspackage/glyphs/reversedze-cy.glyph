@@ -1,15 +1,16 @@
 {
-export = 0;
 glyphname = "reversedze-cy";
 layers = (
 {
 layerId = m002;
 shapes = (
 {
-ref = epsilon;
+pos = (551,0);
+ref = "ze-cy";
+scale = (-1,1);
 }
 );
-width = 550;
+width = 551;
 }
 );
 unicode = 1297;

@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = etaperispomeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (24,0);
+ref = perispomeni;
+}
+);
+width = 600;
+}
+);
+unicode = 8134;
+}

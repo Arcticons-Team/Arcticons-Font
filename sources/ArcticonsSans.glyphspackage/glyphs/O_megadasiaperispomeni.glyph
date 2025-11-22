@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Omegadasiaperispomeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Omega;
+},
+{
+pos = (1000,0);
+ref = dasiaperispomeni.case;
+}
+);
+width = 1300;
+}
+);
+unicode = 8047;
+}

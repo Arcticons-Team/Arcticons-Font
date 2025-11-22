@@ -1,11 +1,29 @@
 {
-export = 0;
 glyphname = ezh;
 layers = (
 {
-layerId = m002;
-width = 600;
+anchors = (
+{
+name = bottom;
+pos = (340,0);
+},
+{
+name = top;
+pos = (340,630);
 }
 );
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (0,-270);
+ref = "Dzeabkhasian-cy";
+}
+);
+width = 680;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 658;
 }

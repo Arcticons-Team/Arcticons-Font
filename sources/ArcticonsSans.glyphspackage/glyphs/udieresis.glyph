@@ -1,6 +1,6 @@
 {
 glyphname = udieresis;
-kernLeft = u;
+kernLeft = lowercaseRoundMarks;
 kernRight = lowercaseStraight;
 layers = (
 {

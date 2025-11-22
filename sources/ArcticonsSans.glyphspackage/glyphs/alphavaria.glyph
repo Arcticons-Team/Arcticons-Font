@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = alphavaria;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (163,0);
+ref = varia;
+}
+);
+width = 680;
+}
+);
+unicode = 8048;
+}

@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = alphaoxiaypogegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (240,0);
+ref = oxia;
+},
+{
+pos = (680,0);
+ref = ypogegrammeni;
+}
+);
+width = 1280;
+}
+);
+unicode = 8116;
+}

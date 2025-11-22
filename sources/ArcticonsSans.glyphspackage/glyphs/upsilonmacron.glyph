@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = upsilonmacron;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (-30,0);
+ref = macroncomb;
+}
+);
+width = 600;
+}
+);
+unicode = 8161;
+}

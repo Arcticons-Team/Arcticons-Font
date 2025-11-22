@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = etapsilivariaypogegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (600,0);
+ref = psilivaria;
+},
+{
+pos = (900,0);
+ref = ypogegrammeni;
+}
+);
+width = 1500;
+}
+);
+unicode = 8082;
+}

@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Alphapsilivaria;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Alpha;
+},
+{
+pos = (730,0);
+ref = psilivaria.case;
+}
+);
+width = 1030;
+}
+);
+unicode = 7946;
+}
