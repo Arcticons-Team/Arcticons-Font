@@ -1,5 +1,6 @@
 {
 glyphname = Thorn;
+kernLeft = uppercaseStraight;
 layers = (
 {
 anchors = (

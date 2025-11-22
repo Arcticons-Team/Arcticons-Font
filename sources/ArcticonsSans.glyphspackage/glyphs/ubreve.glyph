@@ -1,6 +1,6 @@
 {
 glyphname = ubreve;
-kernLeft = u;
+kernLeft = lowercaseRoundMarks;
 layers = (
 {
 layerId = m002;
