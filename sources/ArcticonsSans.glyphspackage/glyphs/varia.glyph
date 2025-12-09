@@ -1,0 +1,16 @@
+{
+export = 0;
+glyphname = varia;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 274;
+}
+);
+unicode = 8175;
+}

@@ -6,6 +6,10 @@ layerId = m002;
 shapes = (
 {
 ref = Z;
+},
+{
+pos = (85,270);
+ref = caroncomb;
 }
 );
 width = 730;

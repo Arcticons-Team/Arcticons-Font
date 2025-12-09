@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = epsilonvaria;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = epsilon;
+},
+{
+pos = (98,0);
+ref = varia;
+}
+);
+width = 550;
+}
+);
+unicode = 8050;
+}

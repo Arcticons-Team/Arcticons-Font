@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = upsilonvaria;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (123,0);
+ref = varia;
+}
+);
+width = 600;
+}
+);
+unicode = 8058;
+}

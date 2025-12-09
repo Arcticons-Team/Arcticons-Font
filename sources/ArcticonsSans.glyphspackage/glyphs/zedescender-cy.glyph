@@ -8,8 +8,17 @@ shapes = (
 ref = "ze-cy";
 },
 {
-pos = (47,0);
-ref = cedillacomb;
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(276,50,l),
+(276,-140,l)
+);
 }
 );
 width = 551;

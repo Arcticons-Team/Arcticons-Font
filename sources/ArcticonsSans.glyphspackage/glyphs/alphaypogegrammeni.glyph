@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = alphaypogegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (680,0);
+ref = ypogegrammeni;
+}
+);
+width = 1280;
+}
+);
+unicode = 8115;
+}

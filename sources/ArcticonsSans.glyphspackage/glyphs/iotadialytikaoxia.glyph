@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = iotadialytikaoxia;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (400,0);
+ref = dialytikaoxia;
+}
+);
+width = 700;
+}
+);
+unicode = 8147;
+}

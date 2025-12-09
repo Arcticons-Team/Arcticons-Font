@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Omegapsiliperispomeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Omega;
+},
+{
+pos = (1000,0);
+ref = psiliperispomeni.case;
+}
+);
+width = 1300;
+}
+);
+unicode = 8046;
+}

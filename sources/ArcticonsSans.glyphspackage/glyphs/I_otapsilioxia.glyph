@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Iotapsilioxia;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Iota;
+},
+{
+pos = (200,0);
+ref = psilioxia.case;
+}
+);
+width = 500;
+}
+);
+unicode = 7996;
+}

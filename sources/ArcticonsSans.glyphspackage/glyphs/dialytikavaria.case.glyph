@@ -1,0 +1,10 @@
+{
+export = 0;
+glyphname = dialytikavaria.case;
+layers = (
+{
+layerId = m002;
+width = 300;
+}
+);
+}

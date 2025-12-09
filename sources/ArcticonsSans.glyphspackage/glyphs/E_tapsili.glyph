@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Etapsili;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Eta;
+},
+{
+pos = (710,0);
+ref = psili.case;
+}
+);
+width = 1010;
+}
+);
+unicode = 7976;
+}

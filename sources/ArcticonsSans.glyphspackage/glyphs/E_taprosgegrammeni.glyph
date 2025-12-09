@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Etaprosgegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Eta;
+},
+{
+pos = (710,0);
+ref = prosgegrammeni;
+}
+);
+width = 1310;
+}
+);
+unicode = 8140;
+}

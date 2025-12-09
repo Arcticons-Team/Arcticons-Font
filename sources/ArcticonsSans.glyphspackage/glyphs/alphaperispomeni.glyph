@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = alphaperispomeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (64,0);
+ref = perispomeni;
+}
+);
+width = 680;
+}
+);
+unicode = 8118;
+}

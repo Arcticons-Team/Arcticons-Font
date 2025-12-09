@@ -1,6 +1,6 @@
 {
 glyphname = abreve;
-kernLeft = lowercaseRound;
+kernLeft = lowercaseRoundMarks;
 kernRight = lowercaseStraight;
 layers = (
 {

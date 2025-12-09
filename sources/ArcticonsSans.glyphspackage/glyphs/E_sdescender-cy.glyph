@@ -1,16 +1,30 @@
 {
-export = 0;
 glyphname = "Esdescender-cy";
 layers = (
 {
 layerId = m002;
 shapes = (
 {
-ref = Ccedilla;
+ref = C;
+},
+{
+attr = {
+lineCapEnd = 1;
+lineCapStart = 1;
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(365,50,l),
+(365,-140,l)
+);
 }
 );
 width = 730;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 1194;
 }

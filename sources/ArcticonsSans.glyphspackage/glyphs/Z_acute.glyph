@@ -6,6 +6,10 @@ layerId = m002;
 shapes = (
 {
 ref = Z;
+},
+{
+pos = (265,270);
+ref = acutecomb;
 }
 );
 width = 730;

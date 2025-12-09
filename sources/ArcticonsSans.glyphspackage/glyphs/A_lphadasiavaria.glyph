@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Alphadasiavaria;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Alpha;
+},
+{
+pos = (730,0);
+ref = dasiavaria.case;
+}
+);
+width = 1030;
+}
+);
+unicode = 7947;
+}

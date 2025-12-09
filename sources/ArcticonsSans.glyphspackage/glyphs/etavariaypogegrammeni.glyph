@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = etavariaypogegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (123,0);
+ref = varia;
+},
+{
+pos = (600,0);
+ref = ypogegrammeni;
+}
+);
+width = 1200;
+}
+);
+unicode = 8130;
+}

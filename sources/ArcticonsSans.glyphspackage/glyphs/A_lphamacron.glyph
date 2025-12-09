@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Alphamacron;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Alpha;
+},
+{
+pos = (-193,0);
+ref = macroncomb;
+}
+);
+width = 730;
+}
+);
+unicode = 8121;
+}

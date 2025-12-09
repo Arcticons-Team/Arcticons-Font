@@ -1,7 +1,7 @@
 {
 glyphname = dcaron;
 kernLeft = lowercaseRound;
-kernRight = lowercaseStraight;
+kernRight = lowerCaron;
 layers = (
 {
 layerId = m002;

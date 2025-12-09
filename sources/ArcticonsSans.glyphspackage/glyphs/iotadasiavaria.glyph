@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = iotadasiavaria;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (400,0);
+ref = dasiavaria;
+}
+);
+width = 700;
+}
+);
+unicode = 7987;
+}

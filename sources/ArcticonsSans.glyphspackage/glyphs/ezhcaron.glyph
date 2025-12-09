@@ -1,10 +1,18 @@
 {
-export = 0;
 glyphname = ezhcaron;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = ezh;
+},
+{
+pos = (60,0);
+ref = caroncomb;
+}
+);
+width = 680;
 }
 );
 unicode = 495;

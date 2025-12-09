@@ -1,5 +1,6 @@
 {
 glyphname = lcaron;
+kernRight = lowerCaron;
 layers = (
 {
 layerId = m002;

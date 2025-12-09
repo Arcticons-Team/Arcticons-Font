@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = etapsiliperispomeniypogegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (600,0);
+ref = psiliperispomeni;
+},
+{
+pos = (900,0);
+ref = ypogegrammeni;
+}
+);
+width = 1500;
+}
+);
+unicode = 8086;
+}

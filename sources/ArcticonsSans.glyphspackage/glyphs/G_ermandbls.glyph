@@ -1,5 +1,6 @@
 {
 glyphname = Germandbls;
+kernLeft = uppercaseStraight;
 layers = (
 {
 anchors = (

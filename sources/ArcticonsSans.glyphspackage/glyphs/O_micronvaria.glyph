@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Omicronvaria;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Omicron;
+},
+{
+pos = (-202,0);
+ref = varia.case;
+}
+);
+width = 730;
+}
+);
+unicode = 8184;
+}

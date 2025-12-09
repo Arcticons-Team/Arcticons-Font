@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = alphapsiliperispomeniypogegrammeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (680,0);
+ref = psiliperispomeni;
+},
+{
+pos = (980,0);
+ref = ypogegrammeni;
+}
+);
+width = 1580;
+}
+);
+unicode = 8070;
+}

@@ -1,11 +1,40 @@
 {
-export = 0;
 glyphname = "Gemiddlehook-cy";
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = "Ge-cy";
+},
+{
+attr = {
+identifier = ID0x10187ea80;
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(100,320,l),
+(100,463,o),
+(216,580,o),
+(360,580,cs),
+(502,580,o),
+(620,463,o),
+(620,320,cs),
+(620,242,ls),
+(620,105,o),
+(573,-32,o),
+(389,-108,c)
+);
 }
 );
+width = 720;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 1172;
 }

@@ -1,11 +1,30 @@
 {
-export = 0;
 glyphname = "enge-cy";
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = "en-cy";
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(690,580,l),
+(500,580,l)
+);
 }
 );
+width = 790;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 1189;
 }

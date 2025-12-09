@@ -8,12 +8,6 @@ shapes = (
 ref = period;
 },
 {
-ref = period;
-},
-{
-ref = period;
-},
-{
 pos = (210,0);
 ref = period;
 },

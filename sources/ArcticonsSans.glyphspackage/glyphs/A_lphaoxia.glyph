@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Alphaoxia;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Alpha;
+},
+{
+pos = (37,0);
+ref = oxia.case;
+}
+);
+width = 730;
+}
+);
+unicode = 8123;
+}

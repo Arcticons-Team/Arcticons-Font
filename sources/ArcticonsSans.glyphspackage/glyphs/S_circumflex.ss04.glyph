@@ -1,0 +1,20 @@
+{
+glyphname = Scircumflex.ss04;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (145,270);
+ref = circumflexcomb;
+},
+{
+ref = S.ss04;
+}
+);
+width = 730;
+}
+);
+}

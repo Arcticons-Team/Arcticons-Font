@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = epsilonpsilivaria;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = epsilon;
+},
+{
+pos = (550,0);
+ref = psilivaria;
+}
+);
+width = 850;
+}
+);
+unicode = 7954;
+}

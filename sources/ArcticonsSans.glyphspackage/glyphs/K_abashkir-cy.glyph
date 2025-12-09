@@ -1,11 +1,31 @@
 {
-export = 0;
 glyphname = "Kabashkir-cy";
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+pos = (240,0);
+ref = "Ka-cy";
+},
+{
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(340,850,l),
+(100,850,l)
+);
 }
 );
+width = 970;
+}
+);
+metricLeft = "=50";
+metricRight = "=50";
 unicode = 1184;
 }

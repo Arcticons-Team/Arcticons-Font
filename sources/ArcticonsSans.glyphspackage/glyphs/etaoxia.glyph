@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = etaoxia;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (200,0);
+ref = oxia;
+}
+);
+width = 600;
+}
+);
+unicode = 8053;
+}

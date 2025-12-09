@@ -1,0 +1,19 @@
+{
+glyphname = Oslashacute;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Oslash;
+},
+{
+pos = (265,270);
+ref = acutecomb;
+}
+);
+width = 730;
+}
+);
+unicode = 510;
+}

@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = rhodasia;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = rho;
+},
+{
+pos = (600,0);
+ref = dasia;
+}
+);
+width = 900;
+}
+);
+unicode = 8165;
+}

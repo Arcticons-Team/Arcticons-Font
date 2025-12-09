@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = Omicrondasiaoxia;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Omicron;
+},
+{
+pos = (730,0);
+ref = dasiaoxia.case;
+}
+);
+width = 1030;
+}
+);
+unicode = 8013;
+}

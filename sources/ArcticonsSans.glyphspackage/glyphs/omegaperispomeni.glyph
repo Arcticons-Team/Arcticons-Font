@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = omegaperispomeni;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (204,0);
+ref = perispomeni;
+}
+);
+width = 960;
+}
+);
+unicode = 8182;
+}

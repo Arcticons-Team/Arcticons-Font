@@ -1,12 +1,24 @@
 {
-export = 0;
 glyphname = "esdescender-cy";
 layers = (
 {
 layerId = m002;
 shapes = (
 {
-ref = ccedilla;
+attr = {
+lineCapEnd = "1";
+lineCapStart = "1";
+strokeHeight = 100;
+strokeWidth = 100;
+};
+closed = 0;
+nodes = (
+(287,49,l),
+(287,-140,l)
+);
+},
+{
+ref = c;
 }
 );
 width = 574;
