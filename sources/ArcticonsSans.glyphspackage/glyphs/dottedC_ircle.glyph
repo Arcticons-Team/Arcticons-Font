@@ -8,8 +8,16 @@ name = bottom;
 pos = (501,0);
 },
 {
+name = ogonek;
+pos = (551,0);
+},
+{
 name = top;
 pos = (501,1140);
+},
+{
+name = top_viet;
+pos = (451,900);
 }
 );
 layerId = m002;
